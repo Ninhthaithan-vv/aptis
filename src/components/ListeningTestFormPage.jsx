@@ -24,7 +24,11 @@ function countAnsweredSlots(questions, answers) {
   }, 0);
 }
 
-export default function ListeningTestFormPage({ test }) {
+export default function ListeningTestFormPage({
+  test,
+  backTo = "/listening",
+  backLabel = "Listening"
+}) {
   const { questions, instruction, title } = test;
   const [answers, setAnswers] = useState({});
   const [submitted, setSubmitted] = useState(false);
@@ -60,14 +64,14 @@ export default function ListeningTestFormPage({ test }) {
     <main className="page-shell">
       <section className="exam-header">
         <div>
-          <Link className="back-link" to="/listening">
-            Listening
+          <Link className="back-link" to={backTo}>
+            {backLabel}
           </Link>
           <span className="eyebrow">Listening Skill</span>
           <h1>{title}</h1>
           <p>
             Trang nay su dung dieu huong tung cau theo form goc. Moi lan chi hien thi
-            mot block cau hoi, co the chuyen cau bang Previous, Next hoac chon so cau.
+            mot block cau hoi, co the chuyen cau bang Previous va Next.
           </p>
         </div>
 
@@ -140,19 +144,8 @@ export default function ListeningTestFormPage({ test }) {
           Previous
         </button>
 
-        <div className="pagination__pages">
-          {questions.map((question, index) => (
-            <button
-              key={question.id}
-              type="button"
-              className={`pagination__page ${
-                index === currentQuestionIndex ? "is-active" : ""
-              }`}
-              onClick={() => handleQuestionChange(index)}
-            >
-              {index + 1}
-            </button>
-          ))}
+        <div className="pagination__current">
+          {currentQuestionIndex + 1}/{totalQuestions}
         </div>
 
         <button

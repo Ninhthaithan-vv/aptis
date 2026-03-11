@@ -24,7 +24,11 @@ function countAnsweredSlots(questions, answers) {
   }, 0);
 }
 
-export default function ReadingTestFormPage({ test }) {
+export default function ReadingTestFormPage({
+  test,
+  backTo = "/reading",
+  backLabel = "Reading"
+}) {
   const { questions, instruction, title } = test;
   const [answers, setAnswers] = useState({});
   const [submitted, setSubmitted] = useState(false);
@@ -60,8 +64,8 @@ export default function ReadingTestFormPage({ test }) {
     <main className="page-shell">
       <section className="exam-header">
         <div>
-          <Link className="back-link" to="/reading">
-            Reading
+          <Link className="back-link" to={backTo}>
+            {backLabel}
           </Link>
           <span className="eyebrow">Reading Skill</span>
           <h1>{title}</h1>

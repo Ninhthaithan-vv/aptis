@@ -1,0 +1,416 @@
+<form id="form-save-test" class="skill-content container">
+        <div class="skill-instruction" style="display: none;">
+            <ul>
+ <li><em>Bộ đề Mai Hien key 7.0&nbsp;chứa đựng rất nhiều chất xám, công sức và tiền bạc của cả đội ngũ, được cập nhật chuẩn theo form kỳ thi Aptis mới nhất, giúp các bạn làm quen với dạng câu hỏi và cách trả lời, tự tin hơn khi vào phòng thi.</em></li>
+ <li><em>Nội dung luôn bám sát đề thi thực tế, các đáp án đều là thật và cập nhật liên tục, hình ảnh minh họa sinh động, lạc quan, tạo cảm hứng học tập, giúp bạn duy trì động lực và hứng thú với tiếng Anh.</em></li>
+ <li><em>Mến chúc các bạn học tốt, yêu thích ngôn ngữ và có trải nghiệm thú vị với kỳ thi Aptis nói riêng và Tiếng Anh nói chung, từ đó góp phần đạt được những mục tiêu trong cuộc sống!</em></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p align="right"><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Trân trọng,</em></p>
+
+<p align="right"><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dr. Lâm.</em></p>
+            
+        </div>
+    <div class="question-item" data-id="6795cc07e275cb86658e2cc3" style=""><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">listening</span><div>Question 1 of 13</div></div>
+
+<div class="clearfix"></div>
+<div class="block-quiz-test select_word quiz_check_correct" data-id="6795cc07e275cb86658e2cc3">
+    <div class="w3-padding w3-light-grey ">
+        <input type="hidden" name="Quiz[6795cc07e275cb86658e2cc3][id]" value="6795cc07e275cb86658e2cc3">
+        <div class="d-flex">
+            <button type="button" data-id="btn-6795cc07e275cb86658e2cc3" class="btn btn-outline-dark btn-bookmark btn-lg">
+                <i class="fas fa-bookmark"></i>
+            </button>
+        </div>
+        <div class="title-quiz-choice my-3">
+            <div class="font-weight-600">[Mai Hien key 6.0] - Listening 1- câu 15</div>
+            <div><p><b>Listen to two people discussing the Internet. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.</b></p>
+
+<p><iframe allowfullscreen="true" frameborder="0" src="https://file.unica.vn/embed/400506" loading="lazy"></iframe></p>
+
+<p>There is too much information on the Internet <select class="select_word" name="Quiz[6795cc07e275cb86658e2cc3][answer][0]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Finding information on the Internet requires skills&nbsp;<select class="select_word" name="Quiz[6795cc07e275cb86658e2cc3][answer][1]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>The use of internet affects the way we think&nbsp;<select class="select_word" name="Quiz[6795cc07e275cb86658e2cc3][answer][2]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>The internet makes young people less patient&nbsp;<select class="select_word" name="Quiz[6795cc07e275cb86658e2cc3][answer][3]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p></div>
+        </div>
+    </div>
+    
+
+</div>
+
+</div><div class="question-item" data-id="679602cce275cb34088e2cd3" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">listening</span><div>Question 2 of 13</div></div>
+
+<div class="clearfix"></div>
+<div class="block-quiz-test select_word quiz_check_correct" data-id="679602cce275cb34088e2cd3">
+    <div class="w3-padding w3-light-grey ">
+        <input type="hidden" name="Quiz[679602cce275cb34088e2cd3][id]" value="679602cce275cb34088e2cd3">
+        <div class="d-flex">
+            <button type="button" data-id="btn-679602cce275cb34088e2cd3" class="btn btn-outline-dark btn-bookmark btn-lg">
+                <i class="fas fa-bookmark"></i>
+            </button>
+        </div>
+        <div class="title-quiz-choice my-3">
+            <div class="font-weight-600">[Mai Hien key 6.0] - Listening 2 - câu 15</div>
+            <div><p><strong>Listen to two people discussing Politics. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.</strong></p>
+
+<p><iframe allowfullscreen="true" frameborder="0" src="https://file.unica.vn/embed/400566" loading="lazy"></iframe></p>
+
+<p>Young people are more into politics <select class="select_word" name="Quiz[679602cce275cb34088e2cd3][answer][0]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Social media change politics <select class="select_word" name="Quiz[679602cce275cb34088e2cd3][answer][1]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>People are now better informed on politic&nbsp;<select class="select_word" name="Quiz[679602cce275cb34088e2cd3][answer][2]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>More women pursuit politics&nbsp;<select class="select_word" name="Quiz[679602cce275cb34088e2cd3][answer][3]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>&nbsp;</p></div>
+        </div>
+    </div>
+    
+
+</div>
+
+</div><div class="question-item" data-id="67960e1be275cbc8bc8e2ceb" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">listening</span><div>Question 3 of 13</div></div>
+
+<div class="clearfix"></div>
+<div class="block-quiz-test select_word quiz_check_correct" data-id="67960e1be275cbc8bc8e2ceb">
+    <div class="w3-padding w3-light-grey ">
+        <input type="hidden" name="Quiz[67960e1be275cbc8bc8e2ceb][id]" value="67960e1be275cbc8bc8e2ceb">
+        <div class="d-flex">
+            <button type="button" data-id="btn-67960e1be275cbc8bc8e2ceb" class="btn btn-outline-dark btn-bookmark btn-lg">
+                <i class="fas fa-bookmark"></i>
+            </button>
+        </div>
+        <div class="title-quiz-choice my-3">
+            <div class="font-weight-600">[Mai Hien key 6.0] - Listening 3 - câu 15</div>
+            <div><p><strong>Two professional educators are talking about university. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.</strong></p>
+
+<p style="text-align: center;"><iframe allowfullscreen="true" frameborder="0" src="https://file.unica.vn/embed/411839" style="width: 480px; height: 270px;" loading="lazy"></iframe></p>
+
+<p>The internet makes education more accessible&nbsp;<select class="select_word" name="Quiz[67960e1be275cbc8bc8e2ceb][answer][0]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Social interactions are essential to university life&nbsp;<select class="select_word" name="Quiz[67960e1be275cbc8bc8e2ceb][answer][1]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Diverse curriculum is not always a good thing&nbsp;<select class="select_word" name="Quiz[67960e1be275cbc8bc8e2ceb][answer][2]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Competitions between universities should be encouraged&nbsp;<select class="select_word" name="Quiz[67960e1be275cbc8bc8e2ceb][answer][3]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p></div>
+        </div>
+    </div>
+    
+
+</div>
+
+</div><div class="question-item" data-id="679615ece275cbbebc8e2cf4" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">listening</span><div>Question 4 of 13</div></div>
+
+<div class="clearfix"></div>
+<div class="block-quiz-test select_word quiz_check_correct" data-id="679615ece275cbbebc8e2cf4">
+    <div class="w3-padding w3-light-grey ">
+        <input type="hidden" name="Quiz[679615ece275cbbebc8e2cf4][id]" value="679615ece275cbbebc8e2cf4">
+        <div class="d-flex">
+            <button type="button" data-id="btn-679615ece275cbbebc8e2cf4" class="btn btn-outline-dark btn-bookmark btn-lg">
+                <i class="fas fa-bookmark"></i>
+            </button>
+        </div>
+        <div class="title-quiz-choice my-3">
+            <div class="font-weight-600">[Mai Hien key 6.0] - Listening 4 - câu 15</div>
+            <div><p><strong>A man and a woman are talking about urban farming. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.</strong></p>
+
+<p><iframe allowfullscreen="true" frameborder="0" src="https://file.unica.vn/embed/400599" loading="lazy"></iframe></p>
+
+<p>Living space is more important than farming space. <select class="select_word" name="Quiz[679615ece275cbbebc8e2cf4][answer][0]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Farming space is appealing.&nbsp;<select class="select_word" name="Quiz[679615ece275cbbebc8e2cf4][answer][1]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Farming space will benefit the urban economy. <select class="select_word" name="Quiz[679615ece275cbbebc8e2cf4][answer][2]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Farming space is in need of more food.&nbsp;<select class="select_word" name="Quiz[679615ece275cbbebc8e2cf4][answer][3]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p></div>
+        </div>
+    </div>
+    
+
+</div>
+
+</div><div class="question-item" data-id="67964148e275cb2cbc8e2e0d" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">listening</span><div>Question 5 of 13</div></div>
+
+<div class="clearfix"></div>
+<div class="block-quiz-test select_word quiz_check_correct" data-id="67964148e275cb2cbc8e2e0d">
+    <div class="w3-padding w3-light-grey ">
+        <input type="hidden" name="Quiz[67964148e275cb2cbc8e2e0d][id]" value="67964148e275cb2cbc8e2e0d">
+        <div class="d-flex">
+            <button type="button" data-id="btn-67964148e275cb2cbc8e2e0d" class="btn btn-outline-dark btn-bookmark btn-lg">
+                <i class="fas fa-bookmark"></i>
+            </button>
+        </div>
+        <div class="title-quiz-choice my-3">
+            <div class="font-weight-600">[Mai Hien key 6.0] - Listening 5 - câu 15</div>
+            <div><p><strong>A man and a woman are talking about the local center that was recently opened. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.</strong></p>
+
+<p style="text-align: center;"><iframe allowfullscreen="true" frameborder="0" src="https://file.unica.vn/embed/458061" style="width: 480px; height: 270px;" loading="lazy"></iframe></p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p>Exhibitions should be different and diverse. <select class="select_word" name="Quiz[67964148e275cb2cbc8e2e0d][answer][0]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Traditional customs are gradually losing their significance.&nbsp;<select class="select_word" name="Quiz[67964148e275cb2cbc8e2e0d][answer][1]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Local festivals will disappear soon in the near future.&nbsp;<select class="select_word" name="Quiz[67964148e275cb2cbc8e2e0d][answer][2]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Schools are important to shaping future generations.&nbsp;<select class="select_word" name="Quiz[67964148e275cb2cbc8e2e0d][answer][3]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p></div>
+        </div>
+    </div>
+    
+
+</div>
+
+</div><div class="question-item" data-id="67964f9ae275cbcbbc8e2d43" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">listening</span><div>Question 6 of 13</div></div>
+
+<div class="clearfix"></div>
+<div class="block-quiz-test select_word quiz_check_correct" data-id="67964f9ae275cbcbbc8e2d43">
+    <div class="w3-padding w3-light-grey ">
+        <input type="hidden" name="Quiz[67964f9ae275cbcbbc8e2d43][id]" value="67964f9ae275cbcbbc8e2d43">
+        <div class="d-flex">
+            <button type="button" data-id="btn-67964f9ae275cbcbbc8e2d43" class="btn btn-outline-dark btn-bookmark btn-lg">
+                <i class="fas fa-bookmark"></i>
+            </button>
+        </div>
+        <div class="title-quiz-choice my-3">
+            <div class="font-weight-600">[Mai Hien key 6.0] - Listening 6 - câu 15</div>
+            <div><p><strong>Two professional educators are talking about university. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.</strong></p>
+
+<p><iframe allowfullscreen="true" frameborder="0" src="https://file.unica.vn/embed/400633" style="width: 480px; height: 270px;" loading="lazy"></iframe></p>
+
+<p>The internet makes education more accessible.&nbsp;<select class="select_word" name="Quiz[67964f9ae275cbcbbc8e2d43][answer][0]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Social interactions are essential to university life. <select class="select_word" name="Quiz[67964f9ae275cbcbbc8e2d43][answer][1]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Diverse curriculum is not always a good thing.&nbsp;<select class="select_word" name="Quiz[67964f9ae275cbcbbc8e2d43][answer][2]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Competitions between universities should be encouraged.&nbsp;<select class="select_word" name="Quiz[67964f9ae275cbcbbc8e2d43][answer][3]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p></div>
+        </div>
+    </div>
+    
+
+</div>
+
+</div><div class="question-item" data-id="67966a55e275cb2cbc8e2e46" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">listening</span><div>Question 7 of 13</div></div>
+
+<div class="clearfix"></div>
+<div class="block-quiz-test select_word quiz_check_correct" data-id="67966a55e275cb2cbc8e2e46">
+    <div class="w3-padding w3-light-grey ">
+        <input type="hidden" name="Quiz[67966a55e275cb2cbc8e2e46][id]" value="67966a55e275cb2cbc8e2e46">
+        <div class="d-flex">
+            <button type="button" data-id="btn-67966a55e275cb2cbc8e2e46" class="btn btn-outline-dark btn-bookmark btn-lg">
+                <i class="fas fa-bookmark"></i>
+            </button>
+        </div>
+        <div class="title-quiz-choice my-3">
+            <div class="font-weight-600">[Mai Hien key 6.0] - Listening 8 - câu 15</div>
+            <div><p><strong>Listen to two people discussing Actor. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.</strong></p>
+
+<p><iframe allowfullscreen="true" frameborder="0" src="https://file.unica.vn/embed/400666" style="width: 480px; height: 270px;" loading="lazy"></iframe></p>
+
+<p>Auditions are most important for an actor's career. <select class="select_word" name="Quiz[67966a55e275cb2cbc8e2e46][answer][0]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Actors tend to respond best to strong and engaging scripts. <select class="select_word" name="Quiz[67966a55e275cb2cbc8e2e46][answer][1]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Theater acting and screen acting are quite different from each other.&nbsp;<select class="select_word" name="Quiz[67966a55e275cb2cbc8e2e46][answer][2]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Actors should be praised and recognized as much as possible.&nbsp;<select class="select_word" name="Quiz[67966a55e275cb2cbc8e2e46][answer][3]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>&nbsp;</p></div>
+        </div>
+    </div>
+    
+
+</div>
+
+</div><div class="question-item" data-id="6796759ae275cb046c8e2cb8" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">listening</span><div>Question 8 of 13</div></div>
+
+<div class="clearfix"></div>
+<div class="block-quiz-test select_word quiz_check_correct" data-id="6796759ae275cb046c8e2cb8">
+    <div class="w3-padding w3-light-grey ">
+        <input type="hidden" name="Quiz[6796759ae275cb046c8e2cb8][id]" value="6796759ae275cb046c8e2cb8">
+        <div class="d-flex">
+            <button type="button" data-id="btn-6796759ae275cb046c8e2cb8" class="btn btn-outline-dark btn-bookmark btn-lg">
+                <i class="fas fa-bookmark"></i>
+            </button>
+        </div>
+        <div class="title-quiz-choice my-3">
+            <div class="font-weight-600">[Mai Hien key 6.0] - Listening 9 - câu 15</div>
+            <div><p><strong>Listen to two people discussing Community design. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.</strong></p>
+
+<p><iframe allowfullscreen="true" frameborder="0" src="https://file.unica.vn/embed/400682" style="width: 480px; height: 270px;" loading="lazy"></iframe></p>
+
+<p>Building design can influence people's behavior.&nbsp;<select class="select_word" name="Quiz[6796759ae275cb046c8e2cb8][answer][0]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Creating community can take time.&nbsp;<select class="select_word" name="Quiz[6796759ae275cb046c8e2cb8][answer][1]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Work communities and social communities are the same. <select class="select_word" name="Quiz[6796759ae275cb046c8e2cb8][answer][2]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Technology has changed how community forms.&nbsp;<select class="select_word" name="Quiz[6796759ae275cb046c8e2cb8][answer][3]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>&nbsp;</p></div>
+        </div>
+    </div>
+    
+
+</div>
+
+</div><div class="question-item" data-id="679682e4e275cb126c8e2cb9" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">listening</span><div>Question 9 of 13</div></div>
+
+<div class="clearfix"></div>
+<div class="block-quiz-test select_word quiz_check_correct" data-id="679682e4e275cb126c8e2cb9">
+    <div class="w3-padding w3-light-grey ">
+        <input type="hidden" name="Quiz[679682e4e275cb126c8e2cb9][id]" value="679682e4e275cb126c8e2cb9">
+        <div class="d-flex">
+            <button type="button" data-id="btn-679682e4e275cb126c8e2cb9" class="btn btn-outline-dark btn-bookmark btn-lg">
+                <i class="fas fa-bookmark"></i>
+            </button>
+        </div>
+        <div class="title-quiz-choice my-3">
+            <div class="font-weight-600">[Mai Hien key 6.0] - Listening 10 - câu 15</div>
+            <div><p><strong>Listen to two people discussing changes in the workplace. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.</strong></p>
+
+<p><iframe allowfullscreen="true" frameborder="0" src="https://file.unica.vn/embed/400706" style="width: 480px; height: 270px;" loading="lazy"></iframe></p>
+
+<p>Continuity is very important in the workplace.&nbsp;<select class="select_word" name="Quiz[679682e4e275cb126c8e2cb9][answer][0]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Job security cannot always be guaranteed.&nbsp;<select class="select_word" name="Quiz[679682e4e275cb126c8e2cb9][answer][1]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Job satisfaction is an important motivator.&nbsp;<select class="select_word" name="Quiz[679682e4e275cb126c8e2cb9][answer][2]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Technology is good for the entire economy.&nbsp;<select class="select_word" name="Quiz[679682e4e275cb126c8e2cb9][answer][3]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p></div>
+        </div>
+    </div>
+    
+
+</div>
+
+</div><div class="question-item" data-id="6796efdce275cbe99d8e2ce7" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">listening</span><div>Question 10 of 13</div></div>
+
+<div class="clearfix"></div>
+<div class="block-quiz-test select_word quiz_check_correct" data-id="6796efdce275cbe99d8e2ce7">
+    <div class="w3-padding w3-light-grey ">
+        <input type="hidden" name="Quiz[6796efdce275cbe99d8e2ce7][id]" value="6796efdce275cbe99d8e2ce7">
+        <div class="d-flex">
+            <button type="button" data-id="btn-6796efdce275cbe99d8e2ce7" class="btn btn-outline-dark btn-bookmark btn-lg">
+                <i class="fas fa-bookmark"></i>
+            </button>
+        </div>
+        <div class="title-quiz-choice my-3">
+            <div class="font-weight-600">[Mai Hien key 6.0] - Listening 11 - câu 15</div>
+            <div><p><strong>A man and a woman are talking about information technology. Which opinion is expressed by who?</strong></p>
+
+<p><iframe allowfullscreen="true" frameborder="0" src="https://file.unica.vn/embed/400760" style="width: 480px; height: 270px;" loading="lazy"></iframe></p>
+
+<p>Future generations fail to cope with technology information. <select class="select_word" name="Quiz[6796efdce275cbe99d8e2ce7][answer][0]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Technology revolution is good for the economy. <select class="select_word" name="Quiz[6796efdce275cbe99d8e2ce7][answer][1]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>No computer is superior to the human brain.&nbsp;<select class="select_word" name="Quiz[6796efdce275cbe99d8e2ce7][answer][2]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>More should be done to protect individual privacy.&nbsp;<select class="select_word" name="Quiz[6796efdce275cbe99d8e2ce7][answer][3]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p></div>
+        </div>
+    </div>
+    
+
+</div>
+
+</div><div class="question-item" data-id="67970c1ce275cb019d8e2ce6" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">listening</span><div>Question 11 of 13</div></div>
+
+<div class="clearfix"></div>
+<div class="block-quiz-test select_word quiz_check_correct" data-id="67970c1ce275cb019d8e2ce6">
+    <div class="w3-padding w3-light-grey ">
+        <input type="hidden" name="Quiz[67970c1ce275cb019d8e2ce6][id]" value="67970c1ce275cb019d8e2ce6">
+        <div class="d-flex">
+            <button type="button" data-id="btn-67970c1ce275cb019d8e2ce6" class="btn btn-outline-dark btn-bookmark btn-lg">
+                <i class="fas fa-bookmark"></i>
+            </button>
+        </div>
+        <div class="title-quiz-choice my-3">
+            <div class="font-weight-600">[Mai Hien key 6.0] - Listening 14 - câu 15</div>
+            <div><p><strong>A man and a woman are discussing beauty. Which opinion is expressed by who?</strong></p>
+
+<p><iframe allowfullscreen="true" frameborder="0" src="https://file.unica.vn/embed/400811" loading="lazy"></iframe></p>
+
+<p>People share similar ideas about beauty <select class="select_word" name="Quiz[67970c1ce275cb019d8e2ce6][answer][0]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Ideas about beauty change over time <select class="select_word" name="Quiz[67970c1ce275cb019d8e2ce6][answer][1]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Beauty can be found in unlikely places&nbsp;<select class="select_word" name="Quiz[67970c1ce275cb019d8e2ce6][answer][2]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Traditional ideas about beauty are going to change&nbsp;<select class="select_word" name="Quiz[67970c1ce275cb019d8e2ce6][answer][3]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p></div>
+        </div>
+    </div>
+    
+
+</div>
+
+</div><div class="question-item" data-id="67971332e275cbbb9c8e2cfc" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">listening</span><div>Question 12 of 13</div></div>
+
+<div class="clearfix"></div>
+<div class="block-quiz-test select_word quiz_check_correct" data-id="67971332e275cbbb9c8e2cfc">
+    <div class="w3-padding w3-light-grey ">
+        <input type="hidden" name="Quiz[67971332e275cbbb9c8e2cfc][id]" value="67971332e275cbbb9c8e2cfc">
+        <div class="d-flex">
+            <button type="button" data-id="btn-67971332e275cbbb9c8e2cfc" class="btn btn-outline-dark btn-bookmark btn-lg">
+                <i class="fas fa-bookmark"></i>
+            </button>
+        </div>
+        <div class="title-quiz-choice my-3">
+            <div class="font-weight-600">[Mai Hien key 6.0] - Listening 15 - câu 15</div>
+            <div><p><strong>Listen to two people discussing singers and music. Read the opinions below and&nbsp;decide whose opinion matches the statements, the man, the woman, or both the man and the woman.</strong></p>
+
+<p><iframe allowfullscreen="true" frameborder="0" src="https://file.unica.vn/embed/400832" style="width: 480px; height: 270px;" loading="lazy"></iframe></p>
+
+<p>Singer can be good models for the young. <select class="select_word" name="Quiz[67971332e275cbbb9c8e2cfc][answer][0]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Taste in music is a highly personal thing.&nbsp;<select class="select_word" name="Quiz[67971332e275cbbb9c8e2cfc][answer][1]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Music is a universal language. <select class="select_word" name="Quiz[67971332e275cbbb9c8e2cfc][answer][2]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p>
+
+<p>Music can be used to manipulate people's feelings.&nbsp;<select class="select_word" name="Quiz[67971332e275cbbb9c8e2cfc][answer][3]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></p></div>
+        </div>
+    </div>
+    
+
+</div>
+
+</div><div class="question-item" data-id="682edceae275cb23618b457c" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">listening</span><div>Question 13 of 13</div></div>
+
+<div class="clearfix"></div>
+<div class="block-quiz-test select_word quiz_check_correct" data-id="682edceae275cb23618b457c">
+    <div class="w3-padding w3-light-grey ">
+        <input type="hidden" name="Quiz[682edceae275cb23618b457c][id]" value="682edceae275cb23618b457c">
+        <div class="d-flex">
+            <button type="button" data-id="btn-682edceae275cb23618b457c" class="btn btn-outline-dark btn-bookmark btn-lg">
+                <i class="fas fa-bookmark"></i>
+            </button>
+        </div>
+        <div class="title-quiz-choice my-3">
+            <div class="font-weight-600">[Mai Hien key 6.0] - Listening 17 - câu 15 (Arts)</div>
+            <div><p><img height="477" src="https://file.unica.vn/storage/ed47eee2e28adfb650351a89bd318ad2be3cdef6/image-5598.png" width="788" loading="lazy"></p>
+
+<p>&nbsp;</p>
+
+<p>(Đề này đang cập nhật audio, ae học trước bản word nhé!)</p>
+
+<p><span style="font-size:11pt"><span style="line-height:115%"><span sans-serif="" style="font-family:Arial,"><span lang="EN-GB" style="font-size:13.0pt"><span style="line-height:115%"><span new="" roman="" style="font-family:" times="">Art is only suitable for the privileged few: <select class="select_word" name="Quiz[682edceae275cb23618b457c][answer][0]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></span></span></span></span></span></span><span style="font-size:11pt"><span style="line-height:115%"><span sans-serif="" style="font-family:Arial,"><span lang="EN-GB" style="font-size:13.0pt"><span style="line-height:115%"><span new="" roman="" style="font-family:" times=""></span></span></span></span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="line-height:115%"><span sans-serif="" style="font-family:Arial,"><span lang="EN-GB" style="font-size:13.0pt"><span style="line-height:115%"><span new="" roman="" style="font-family:" times="">The government should invest more in arts:&nbsp;<select class="select_word" name="Quiz[682edceae275cb23618b457c][answer][1]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></span></span></span></span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="line-height:115%"><span sans-serif="" style="font-family:Arial,"><span lang="EN-GB" style="font-size:13.0pt"><span style="line-height:115%"><span new="" roman="" style="font-family:" times="">Children should be exposed to art early: <select class="select_word" name="Quiz[682edceae275cb23618b457c][answer][2]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></span></span></span></span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="line-height:115%"><span sans-serif="" style="font-family:Arial,"><span lang="EN-GB" style="font-size:13.0pt"><span style="line-height:115%"><span new="" roman="" style="font-family:" times="">In the future, art will become more accessible:&nbsp;<span style="font-size:11pt"><span style="line-height:115%"><span sans-serif="" style="font-family:Arial,"><span lang="EN-GB" style="font-size:13.0pt"><span style="line-height:115%"><span new="" roman="" style="font-family:" times=""><select class="select_word" name="Quiz[682edceae275cb23618b457c][answer][3]"><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select></span></span></span></span></span></span></span></span></span></span></span></span></p></div>
+        </div>
+    </div>
+    
+
+</div>
+
+</div></form>

@@ -1,0 +1,1365 @@
+<form id="form-save-test" class="skill-content container">
+        <div class="skill-instruction" style="display: none;">
+            <ul>
+ <li><em>Bộ đề Mai Hien key 6.0 chứa đựng rất nhiều chất xám, công sức và tiền bạc của cả đội ngũ, được cập nhật chuẩn theo form kỳ thi Aptis mới nhất, giúp các bạn làm quen với dạng câu hỏi và cách trả lời, tự tin hơn khi vào phòng thi.</em></li>
+ <li><em>Nội dung luôn bám sát đề thi thực tế, các đáp án đều là thật và cập nhật liên tục, hình ảnh minh họa sinh động, lạc quan, tạo cảm hứng học tập, giúp bạn duy trì động lực và hứng thú với tiếng Anh.</em></li>
+ <li><em>Mến chúc các bạn học tốt, yêu thích ngôn ngữ và có trải nghiệm thú vị với kỳ thi Aptis nói riêng và Tiếng Anh nói chung, từ đó góp phần đạt được những mục tiêu trong cuộc sống!</em></li>
+</ul>
+
+<p align="right"><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Trân trọng,</em></p>
+
+<p align="right"><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dr. Lâm.</em></p>
+
+<p>&nbsp;</p>
+        </div>
+    <div class="question-item" data-id="68bed677e275cb1a908b4579" style=""><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 1 of 25</div></div><div class="clearfix"></div>
+<div class="block-quiz-test quiz_drag_drop_word quiz_check_correct mb-4" data-id="68bed677e275cb1a908b4579">
+    <div class="w3-padding w3-light-grey">
+        <input type="hidden" name="Quiz[68bed677e275cb1a908b4579][id]" value="68bed677e275cb1a908b4579">
+        <div class="d-flex">
+            
+        </div>
+        <div class="my-3 font-weight-bold">
+            [Mai Hien key 6.0] - Reading plus - part 2 - The history of transportation (Travel in the past)
+        </div>
+        <div class="d-md-flex border rounded-md">
+            <div class="w3-large droppable droppable-list flex-2 border-right p-2">
+                <p data-end="123" data-start="0"><strong data-end="123" data-start="0">The sentences below are from a short passage. Put the sentences in the right order. The first sentence is done for you.</strong></p>
+
+<p data-end="156" data-start="125">The history of transportation</p>
+
+<p>0. Travel in the past was very different from nowadays.</p>
+
+<p data-end="622" data-start="559"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-1 placeholder-visible" type="text" name="Quiz[68bed677e275cb1a908b4579][answer][0]" data-index="1" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ In the past, only rich people could afford to travel. ]</label></p>
+
+<p data-end="687" data-start="624"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-2 placeholder-visible" type="text" name="Quiz[68bed677e275cb1a908b4579][answer][1]" data-index="2" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ The invention of trains and cars made travel easier and affordable for everyone. ]</label></p>
+
+<p data-end="757" data-start="689"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-3 placeholder-visible" type="text" name="Quiz[68bed677e275cb1a908b4579][answer][2]" data-index="3" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ After the two means of transportation, travel was also easier with aero planes. ]</label></p>
+
+<p data-end="817" data-start="759"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-4 placeholder-visible" type="text" name="Quiz[68bed677e275cb1a908b4579][answer][3]" data-index="4" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Flying was so fast so it helps people to travel especially for holiday and business. ]</label></p>
+
+<p data-end="893" data-start="819"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-5 placeholder-visible" type="text" name="Quiz[68bed677e275cb1a908b4579][answer][4]" data-index="5" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Nowadays, traveling to different parts of the world is easier with the improvements. ]</label></p>
+            </div>
+            
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p><em>0. Du lịch trong quá khứ rất khác so với ngày nay.</em></p>
+
+<p><em>1. Trước đây, chỉ những người giàu mới có thể đi du lịch.</em></p>
+
+<p><em>2. Sự ra đời của tàu hỏa và ô tô đã giúp việc đi lại trở nên dễ dàng và tiết kiệm hơn cho tất cả mọi người.</em></p>
+
+<p><em>3. Sau hai phương tiện giao thông này, việc đi lại cũng trở nên dễ dàng hơn với máy bay.</em></p>
+
+<p><em>4. Máy bay rất nhanh nên giúp mọi người di chuyển, đặc biệt là đi du lịch và công tác.</em></p>
+
+<p><em>5. Ngày nay, việc đi lại đến các nơi khác nhau trên thế giới trở nên dễ dàng hơn nhờ những cải tiến.</em></p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="68bd9d99e275cb235c8b457e" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 2 of 25</div></div><div class="clearfix"></div>
+<div class="block-quiz-test quiz_drag_drop_word quiz_check_correct mb-4" data-id="68bd9d99e275cb235c8b457e">
+    <div class="w3-padding w3-light-grey">
+        <input type="hidden" name="Quiz[68bd9d99e275cb235c8b457e][id]" value="68bd9d99e275cb235c8b457e">
+        <div class="d-flex">
+            
+        </div>
+        <div class="my-3 font-weight-bold">
+            [Mai Hien key 6.0] - Part 2 - Healthy eating
+        </div>
+        <div class="d-md-flex border rounded-md">
+            <div class="w3-large droppable droppable-list flex-2 border-right p-2">
+                <p data-end="333" data-start="233"><strong>0. Over the years, people’s eating habits have changed a lot as they become more aware of their health.</strong></p>
+
+<p data-end="411" data-start="335"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-2 placeholder-visible" type="text" name="Quiz[68bd9d99e275cb235c8b457e][answer][0]" data-index="2" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ In the past, meals were often filled with sugar and unhealthy fats. ]</label></p>
+
+<p data-end="572" data-start="486"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-3 placeholder-visible" type="text" name="Quiz[68bd9d99e275cb235c8b457e][answer][1]" data-index="3" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Limited access to fresh produce made healthy eating much more difficult years ago. ]</label></p>
+
+<p data-end="572" data-start="486"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-4 placeholder-visible" type="text" name="Quiz[68bd9d99e275cb235c8b457e][answer][2]" data-index="4" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Modern diets now focus on fresh, whole foods rather than processed ones. ]</label></p>
+
+<p data-end="658" data-start="574"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-5 placeholder-visible" type="text" name="Quiz[68bd9d99e275cb235c8b457e][answer][3]" data-index="5" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Nutritionists today educate people on how to plan balanced and nutritious meals. ]</label></p>
+
+<p data-end="767" data-start="660"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-6 placeholder-visible" type="text" name="Quiz[68bd9d99e275cb235c8b457e][answer][4]" data-index="6" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Nowadays, mobile apps help track calories and suggest healthy recipes to support a healthier lifestyle. ]</label></p>
+            </div>
+            
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p><em>0. Theo thời gian, thói quen ăn uống của mọi người đã thay đổi rất nhiều khi họ ngày càng quan tâm đến sức khỏe của mình.</em></p>
+
+<p data-end="284" data-start="167"><em>1. Trong quá khứ, các bữa ăn thường chứa nhiều đường và chất béo không lành mạnh.</em></p>
+
+<p data-end="507" data-start="374"><em>2. Việc thiếu tiếp cận với thực phẩm tươi sống đã khiến việc ăn uống lành mạnh trở nên khó khăn hơn rất nhiều vào những năm trước đây.</em></p>
+
+<p data-end="507" data-start="374"><em>3. Các chế độ ăn hiện đại tập trung vào thực phẩm tươi, nguyên chất thay vì các loại thực phẩm chế biến sẵn.</em></p>
+
+<p data-end="632" data-start="512"><em>4. Hiện nay, các chuyên gia dinh dưỡng hướng dẫn mọi người cách lập kế hoạch cho những bữa ăn cân đối và giàu dinh dưỡng.</em></p>
+
+<p data-end="775" data-is-last-node="" data-start="637"><em>5. Ngày nay, các ứng dụng di động giúp theo dõi lượng calo và gợi ý các công thức nấu ăn lành mạnh để hỗ trợ một lối sống tốt cho sức khỏe.</em></p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="68bc3b51e275cbc6388b4587" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 3 of 25</div></div><div class="clearfix"></div>
+<div class="block-quiz-test quiz_drag_drop_word quiz_check_correct mb-4" data-id="68bc3b51e275cbc6388b4587">
+    <div class="w3-padding w3-light-grey">
+        <input type="hidden" name="Quiz[68bc3b51e275cbc6388b4587][id]" value="68bc3b51e275cbc6388b4587">
+        <div class="d-flex">
+            
+        </div>
+        <div class="my-3 font-weight-bold">
+            [Mai Hien key 6.0] - Reading part 2 - The famous singer
+        </div>
+        <div class="d-md-flex border rounded-md">
+            <div class="w3-large droppable droppable-list flex-2 border-right p-2">
+                <p><strong>The sentences below are from some instructions. Put the sentences in the right order.</strong></p>
+
+<p><strong>The famous singer</strong></p>
+
+<ol data-end="68" data-start="0" start="0">
+	<li data-end="68" data-start="0">
+	<p data-end="68" data-start="3">Jaden Nobelton is only 18 years old, and he is a famous singer.</p>
+	</li>
+</ol>
+
+<p style="text-align:justify; margin-bottom:8px"><span style="font-size:12pt"><span style="line-height:130%"><span style="font-family:" times="" new="" roman",serif"=""><span lang="vi" style="font-size:13.0pt"><span style="line-height:130%"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-3 placeholder-visible" type="text" name="Quiz[68bc3b51e275cbc6388b4587][answer][0]" data-index="3" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Before becoming famous at this young age, he studied art and music at high school. ]</label></span></span></span></span></span></p>
+
+<p style="text-align:justify; margin-bottom:8px"><span style="font-size:12pt"><span style="line-height:130%"><span style="font-family:" times="" new="" roman",serif"=""><span lang="vi" style="font-size:13.0pt"><span style="line-height:130%"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-4 placeholder-visible" type="text" name="Quiz[68bc3b51e275cbc6388b4587][answer][1]" data-index="4" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ During this education, he learned to be creative and practice singing on the stage. ]</label></span></span></span></span></span></p>
+
+<p style="text-align:justify; margin-bottom:8px"><span style="font-size:12pt"><span style="line-height:130%"><span style="font-family:" times="" new="" roman",serif"=""><span lang="vi" style="font-size:13.0pt"><span style="line-height:130%"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-5 placeholder-visible" type="text" name="Quiz[68bc3b51e275cbc6388b4587][answer][2]" data-index="5" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ On these performances, he liked to wear bright clothes and paint his face. ]</label></span></span></span></span></span></p>
+
+<p style="text-align:justify; margin-bottom:8px"><span style="font-size:12pt"><span style="line-height:130%"><span style="font-family:" times="" new="" roman",serif"=""><span lang="vi" style="font-size:13.0pt"><span style="line-height:130%"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-6 placeholder-visible" type="text" name="Quiz[68bc3b51e275cbc6388b4587][answer][3]" data-index="6" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ This strange way of dressing and his songs have attracted people's attention. ]</label></span></span></span></span></span></p>
+
+<p style="text-align:justify; margin-bottom:8px"><span style="font-size:12pt"><span style="line-height:130%"><span style="font-family:" times="" new="" roman",serif"=""><span lang="vi" style="font-size:13.0pt"><span style="line-height:130%"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-7 placeholder-visible" type="text" name="Quiz[68bc3b51e275cbc6388b4587][answer][4]" data-index="7" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ They started to follow him on social media and now he is very popular. ]</label></span></span></span></span></span></p>
+            </div>
+            
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p><em>Ca sĩ nổi tiếng</em></p>
+
+<p data-end="73" data-start="3"><em>0. James Nobelton chỉ mới 18 tuổi và anh ấy là một ca sĩ nổi tiếng.<br>
+1. Trước khi trở nên nổi tiếng ở độ tuổi trẻ này, anh đã học nghệ thuật và âm nhạc ở trung học.<br>
+2. Trong quá trình học tập này, anh đã học cách sáng tạo và luyện tập hát trên sân khấu.<br>
+3. Trong những buổi biểu diễn này, anh thích mặc quần áo sặc sỡ và trang điểm trên mặt.<br>
+4. Cách ăn mặc kỳ lạ này cùng với các bài hát của anh đã thu hút sự chú ý của mọi người.<br>
+5. Họ bắt đầu theo dõi anh trên các mạng xã hội và bây giờ anh rất nổi tiếng.</em></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="68bc3cc8e275cb953b8b4580" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 4 of 25</div></div><div class="clearfix"></div>
+<div class="block-quiz-test quiz_drag_drop_word quiz_check_correct mb-4" data-id="68bc3cc8e275cb953b8b4580">
+    <div class="w3-padding w3-light-grey">
+        <input type="hidden" name="Quiz[68bc3cc8e275cb953b8b4580][id]" value="68bc3cc8e275cb953b8b4580">
+        <div class="d-flex">
+            
+        </div>
+        <div class="my-3 font-weight-bold">
+            [Mai Hien key 6.0] - Reading part 2 - Family Sports Day
+        </div>
+        <div class="d-md-flex border rounded-md">
+            <div class="w3-large droppable droppable-list flex-2 border-right p-2">
+                <p><span style="font-size:14px;"><strong>The sentences below are from some instructions. Put the sentences in the right order.</strong></span></p>
+
+<p><span style="font-size:14px;"><strong><span lang="VI"><span style="line-height:115%"><span calibri="">Family Sports Day</span></span></span></strong></span></p>
+
+<p><span style="font-size:14px;"><strong><span lang="VI"><span style="line-height:115%"><span calibri=""></span></span></span></strong>0. Last weekend, it was good weather, so the town had a family sport day in the park<strong><span new="" roman="" times=""></span></strong><span new="" roman="" times=""></span></span></p>
+
+<p><span style="font-size:14px;"><span new="" roman="" times=""><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-4 placeholder-visible" type="text" name="Quiz[68bc3cc8e275cb953b8b4580][answer][0]" data-index="4" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ It started on early Saturday morning with a ten-mile race for adults ]</label></span><span new="" roman="" times=""></span></span></p>
+
+<p><span style="font-size:14px;"><span new="" roman="" times=""><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-5 placeholder-visible" type="text" name="Quiz[68bc3cc8e275cb953b8b4580][answer][1]" data-index="5" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Sixty men and women ran in this, and Ms Kamur won with a very fast time ]</label></span></span></p>
+
+<p><span style="font-size:14px;"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-6 placeholder-visible" type="text" name="Quiz[68bc3cc8e275cb953b8b4580][answer][2]" data-index="6" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ After receiving her prize, the children's activities and competitions began ]</label></span></p>
+
+<p><span style="font-size:14px;"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-7 placeholder-visible" type="text" name="Quiz[68bc3cc8e275cb953b8b4580][answer][3]" data-index="7" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ These included football, swimming and jumping and the children had lots of fun. ]</label></span></p>
+
+<p><span style="font-size:14px;"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-8 placeholder-visible" type="text" name="Quiz[68bc3cc8e275cb953b8b4580][answer][4]" data-index="8" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ They were all hungry after all of these, so the children had tasty food and drinks with their parents. ]</label></span></p>
+            </div>
+            
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p><em>0. Cuối tuần trước, thời tiết đẹp nên thị trấn đã tổ chức một ngày hội thể thao gia đình vào dịp lễ.<br>
+1. Sáng sớm thứ Bảy, cuộc thi bắt đầu với đường đua mười dặm dành cho người lớn.<br>
+2. Sáu mươi nam nữ đã tham gia, và cô Kamur đã giành chiến thắng với thành tích rất nhanh.<br>
+3. Sau khi nhận giải, các hoạt động và cuộc thi dành cho trẻ em bắt đầu.<br>
+4. Các hoạt động bao gồm bóng đá, bơi lội và nhảy cao, và các em đã có rất nhiều niềm vui.<br>
+5. Tất cả các em đều đói bụng sau tất cả những hoạt động này, vì vậy các em đã được thưởng thức đồ ăn và thức uống ngon miệng cùng cha mẹ.</em></p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="68bc7e6de275cbfaa18b4567" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 5 of 25</div></div><div class="clearfix"></div>
+<div class="block-quiz-test quiz_drag_drop_word quiz_check_correct mb-4" data-id="68bc7e6de275cbfaa18b4567">
+    <div class="w3-padding w3-light-grey">
+        <input type="hidden" name="Quiz[68bc7e6de275cbfaa18b4567][id]" value="68bc7e6de275cbfaa18b4567">
+        <div class="d-flex">
+            
+        </div>
+        <div class="my-3 font-weight-bold">
+            [Mai Hien key 6.0] - Reading part 2 - Writing about a place
+        </div>
+        <div class="d-md-flex border rounded-md">
+            <div class="w3-large droppable droppable-list flex-2 border-right p-2">
+                <p><strong>The sentences below are from some instructions. Put the sentences in the right order.</strong></p>
+
+<p><b><span style="font-size:13.5pt"><span style="line-height:115%"><span new="" roman="" style="font-family:" times="">Writing about a place</span></span></span></b></p>
+
+<p>&nbsp;</p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span sans-serif="" style="font-family:Calibri,"><span style="font-size:12.0pt"><span new="" roman="" style="font-family:" times="">0. Writing about places is an exciting way to share your knowledge and experience.</span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span sans-serif="" style="font-family:Calibri,"><span style="font-size:12.0pt"><span new="" roman="" style="font-family:" times=""><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-5 placeholder-visible" type="text" name="Quiz[68bc7e6de275cbfaa18b4567][answer][0]" data-index="5" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Before writing about a place, you need to do some research on it. ]</label></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span sans-serif="" style="font-family:Calibri,"><span style="font-size:12.0pt"><span new="" roman="" style="font-family:" times=""><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-6 placeholder-visible" type="text" name="Quiz[68bc7e6de275cbfaa18b4567][answer][1]" data-index="6" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ It is important to learn about the people and the history there carefully. ]</label></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span sans-serif="" style="font-family:Calibri,"><span style="font-size:12.0pt"><span new="" roman="" style="font-family:" times=""><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-7 placeholder-visible" type="text" name="Quiz[68bc7e6de275cbfaa18b4567][answer][2]" data-index="7" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ You should also compare that place with your own country. ]</label></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span sans-serif="" style="font-family:Calibri,"><span style="font-size:12.0pt"><span new="" roman="" style="font-family:" times=""><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-8 placeholder-visible" type="text" name="Quiz[68bc7e6de275cbfaa18b4567][answer][3]" data-index="8" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Such comparisons will make your writing more interesting and meaningful. ]</label></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span sans-serif="" style="font-family:Calibri,"><span style="font-size:12.0pt"><span new="" roman="" style="font-family:" times=""><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-9 placeholder-visible" type="text" name="Quiz[68bc7e6de275cbfaa18b4567][answer][4]" data-index="9" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Even if you cannot visit the place, your writing will still look similar to real experiences. ]</label></span></span></span></span></span></p>
+            </div>
+            
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p><em>0. Viết về địa điểm là một cách thú vị để chia sẻ kiến &ZeroWidthSpace;&ZeroWidthSpace;thức và trải nghiệm của bạn.<br>
+1. Trước khi viết về một địa điểm, bạn cần tìm hiểu kỹ về nó.<br>
+2. Điều quan trọng là phải tìm hiểu kỹ về con người và lịch sử ở đó.<br>
+3. Bạn cũng nên so sánh địa điểm đó với đất nước của mình.<br>
+4. Những so sánh như vậy sẽ làm cho bài viết của bạn thú vị và ý nghĩa hơn.</em></p>
+
+<p><em>5. Ngay cả khi bạn không thể đến thăm địa điểm đó, bài viết của bạn vẫn sẽ giống với những trải nghiệm thực tế.</em></p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="68bed5fde275cbfec78b4569" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 6 of 25</div></div><div class="clearfix"></div>
+<div class="block-quiz-test quiz_drag_drop_word quiz_check_correct mb-4" data-id="68bed5fde275cbfec78b4569">
+    <div class="w3-padding w3-light-grey">
+        <input type="hidden" name="Quiz[68bed5fde275cbfec78b4569][id]" value="68bed5fde275cbfec78b4569">
+        <div class="d-flex">
+            
+        </div>
+        <div class="my-3 font-weight-bold">
+            [Mai Hien key 6.0] - Reading part 2 - a new coffee shop
+        </div>
+        <div class="d-md-flex border rounded-md">
+            <div class="w3-large droppable droppable-list flex-2 border-right p-2">
+                <p data-end="121" data-start="0"><strong data-end="121" data-start="0">The sentences below are from a short story. Put the sentences in the right order. The first sentence is done for you.</strong></p>
+
+<p data-end="154" data-start="123">My visit to a new coffee shop</p>
+
+<p data-end="232" data-start="159">0. Last night I went to the cafe opening The Corner Cafe near my house.</p>
+
+<p data-end="296" data-start="234"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-6 placeholder-visible" type="text" name="Quiz[68bed5fde275cbfec78b4569][answer][0]" data-index="6" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ It was full of people and the staff were busy on their first day. ]</label></p>
+
+<p data-end="388" data-start="298"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-7 placeholder-visible" type="text" name="Quiz[68bed5fde275cbfec78b4569][answer][1]" data-index="7" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Despite the crowd, they got me a nice table and gave me the menu. ]</label></p>
+
+<p data-end="455" data-start="390"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-8 placeholder-visible" type="text" name="Quiz[68bed5fde275cbfec78b4569][answer][2]" data-index="8" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ When I first looked at it, I was disappointed because I hoped for a variety of dishes. ]</label></p>
+
+<p data-end="498" data-start="457"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-9 placeholder-visible" type="text" name="Quiz[68bed5fde275cbfec78b4569][answer][3]" data-index="9" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ I had to choose one so I chose the most expensive sandwich. ]</label></p>
+
+<p data-end="587" data-is-last-node="" data-is-only-node="" data-start="500"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-10 placeholder-visible" type="text" name="Quiz[68bed5fde275cbfec78b4569][answer][4]" data-index="10" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ It tasted really good with cheese topping and I will definitely return here. ]</label></p>
+            </div>
+            
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p><em>0. Tối qua tôi đã đến quán cà phê The Corner Cafe khai trương gần nhà.</em></p>
+
+<p><em>1. Quán đông nghẹt người và nhân viên thì bận rộn vào ngày khai trương.</em></p>
+
+<p><em>2. Mặc dù đông khách, họ vẫn tìm cho tôi một bàn đẹp và đưa cho tôi thực đơn.</em></p>
+
+<p><em>3. Lúc đầu nhìn vào thực đơn, tôi hơi thất vọng vì tôi đã hy vọng sẽ có nhiều món ăn.</em></p>
+
+<p><em>4. Tôi phải chọn một nên đã chọn chiếc bánh sandwich đắt nhất.</em></p>
+
+<p><em>5. Nó rất ngon với lớp phủ phô mai và tôi chắc chắn sẽ quay lại đây.</em></p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="68bd9e7fe275cbf4798b4574" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 7 of 25</div></div><div class="clearfix"></div>
+<div class="block-quiz-test quiz_drag_drop_word quiz_check_correct mb-4" data-id="68bd9e7fe275cbf4798b4574">
+    <div class="w3-padding w3-light-grey">
+        <input type="hidden" name="Quiz[68bd9e7fe275cbf4798b4574][id]" value="68bd9e7fe275cbf4798b4574">
+        <div class="d-flex">
+            
+        </div>
+        <div class="my-3 font-weight-bold">
+            [Mai Hien key 6.0] - Reading part 2 - Wellness fair
+        </div>
+        <div class="d-md-flex border rounded-md">
+            <div class="w3-large droppable droppable-list flex-2 border-right p-2">
+                <p data-end="266" data-start="168"><strong>The sentences below are from some instructions. Put the sentences in the right order.</strong></p>
+
+<p data-end="266" data-start="168"><b>Wellness fair</b></p>
+
+<p data-end="266" data-start="168"><strong>0. Last weekend, the community organized a special event to inspire people to live healthier lives.</strong></p>
+
+<p data-end="364" data-start="268"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-7 placeholder-visible" type="text" name="Quiz[68bd9e7fe275cbf4798b4574][answer][0]" data-index="7" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ The wellness fair took place on Saturday afternoon, promoting healthy habits and lifestyles. ]</label></p>
+
+<p data-end="464" data-start="366"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-8 placeholder-visible" type="text" name="Quiz[68bd9e7fe275cbf4798b4574][answer][1]" data-index="8" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Over sixty participants joined the event, with Dr. Patel leading an exciting fitness workshop. ]</label></p>
+
+<p data-end="556" data-start="466"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-9 placeholder-visible" type="text" name="Quiz[68bd9e7fe275cbf4798b4574][answer][2]" data-index="9" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ The fair also featured activities such as cooking demonstrations, mindfulness sessions, and a fun run. ]</label></p>
+
+<p data-end="556" data-start="466"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-10 placeholder-visible" type="text" name="Quiz[68bd9e7fe275cbf4798b4574][answer][3]" data-index="10" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ After the workshops, prizes were given to those with the most creative health posters. ]</label></p>
+
+<p data-end="664" data-start="558"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-11 placeholder-visible" type="text" name="Quiz[68bd9e7fe275cbf4798b4574][answer][4]" data-index="11" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Families had a great time sampling healthy snacks and learning useful tips about overall wellness. ]</label></p>
+            </div>
+            
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p><strong>Hội chợ chăm sóc sức khỏe</strong></p>
+
+<p><em><strong>0. Cuối tuần trước, cộng đồng đã tổ chức một sự kiện đặc biệt nhằm truyền cảm hứng sống khỏe mạnh hơn cho mọi người.</strong></em></p>
+
+<p><em>1 .Hội chợ sức khỏe diễn ra vào chiều thứ Bảy, nhằm quảng bá những thói quen và lối sống lành mạnh.</em></p>
+
+<p><em>2. Hơn sáu mươi người tham gia sự kiện, với sự dẫn dắt của Tiến sĩ Patel trong một buổi hội thảo thể dục thú vị.</em></p>
+
+<p><em>3. Hội thảo&nbsp;cũng có các hoạt động như trình diễn nấu ăn, các buổi thiền chánh niệm và chạy bộ vui vẻ.</em></p>
+
+<p><em>4. Sau các buổi hội thảo, giải thưởng đã được trao cho những người có áp phích sức khỏe sáng tạo nhất.</em></p>
+
+<p><em>5. Các gia đình đã có khoảng thời gian tuyệt vời khi thưởng thức các món ăn nhẹ lành mạnh và học hỏi những lời khuyên hữu ích về sức khỏe tổng thể.</em></p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="68bc7fbde275cb229f8b4567" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 8 of 25</div></div><div class="clearfix"></div>
+<div class="block-quiz-test quiz_drag_drop_word quiz_check_correct mb-4" data-id="68bc7fbde275cb229f8b4567">
+    <div class="w3-padding w3-light-grey">
+        <input type="hidden" name="Quiz[68bc7fbde275cb229f8b4567][id]" value="68bc7fbde275cb229f8b4567">
+        <div class="d-flex">
+            
+        </div>
+        <div class="my-3 font-weight-bold">
+            [Mai Hien key 6.0] - Reading part 2 - Making films
+        </div>
+        <div class="d-md-flex border rounded-md">
+            <div class="w3-large droppable droppable-list flex-2 border-right p-2">
+                <p><strong>The sentences below are from some instructions. Put the sentences in the right order.</strong></p>
+
+<p><b><span style="font-size:13.5pt"><span style="line-height:115%"><span new="" roman="" style="font-family:" times=""></span></span></span></b></p>
+
+<p data-end="317" data-start="301"><strong data-end="317" data-start="301">Making Films</strong></p>
+
+<ol data-end="396" data-start="319" start="0">
+	<li data-end="396" data-start="319">
+	<p data-end="396" data-start="322">In 1985, the Grand Café in France showed the first ever commercial film.</p>
+	</li>
+</ol>
+
+<p data-end="465" data-start="398"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-8 placeholder-visible" type="text" name="Quiz[68bc7fbde275cb229f8b4567][answer][0]" data-index="8" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Films from that period were very different from films of today. ]</label></p>
+
+<p data-end="543" data-start="467"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-9 placeholder-visible" type="text" name="Quiz[68bc7fbde275cb229f8b4567][answer][1]" data-index="9" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ This is because they were all in black and white, and they had no sound. ]</label></p>
+
+<p data-end="632" data-start="545"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-10 placeholder-visible" type="text" name="Quiz[68bc7fbde275cb229f8b4567][answer][2]" data-index="10" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ In addition to technical limitations, the film producers also had a limited budget. ]</label></p>
+
+<p data-end="717" data-start="634"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-11 placeholder-visible" type="text" name="Quiz[68bc7fbde275cb229f8b4567][answer][3]" data-index="11" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ This lack of money affected mainly actors, and they didn't earn a lot of money. ]</label></p>
+
+<p data-end="825" data-start="719"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-12 placeholder-visible" type="text" name="Quiz[68bc7fbde275cb229f8b4567][answer][4]" data-index="12" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Things have changed over time, and some of them now earn millions of dollars after appearing in films. ]</label></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span sans-serif="" style="font-family:Calibri,"><span style="font-size:12.0pt"><span new="" roman="" style="font-family:" times=""></span></span></span></span></span></p>
+            </div>
+            
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p data-end="1014" data-start="909">0. Năm 1985, <strong data-end="933" data-start="919">Grand Café</strong> ở Pháp đã chiếu <strong data-end="981" data-start="950">bộ phim thương mại đầu tiên</strong> (<em data-end="1010" data-start="983">the first commercial film</em>).</p>
+
+<ol>
+	<li data-end="1128" data-start="1019"><strong data-end="1045" data-start="1019">Các bộ phim thời kỳ đó</strong> (<em data-end="1071" data-start="1047">films from that period</em>) rất khác so với <strong data-end="1106" data-start="1089">phim ngày nay</strong> (<em data-end="1124" data-start="1108">films of today</em>).</li>
+	<li data-end="1241" data-start="1133">Điều này là vì <strong data-end="1180" data-start="1148">tất cả đều là phim đen trắng</strong> (<em data-end="1199" data-start="1182">black and white</em>) và <strong data-end="1225" data-start="1204">không có âm thanh</strong> (<em data-end="1237" data-start="1227">no sound</em>).</li>
+	<li data-end="1399" data-start="1246">Ngoài <strong data-end="1275" data-start="1252">hạn chế về kỹ thuật</strong> (<em data-end="1300" data-start="1277">technical limitations</em>), các <strong data-end="1328" data-start="1307">nhà sản xuất phim</strong> (<em data-end="1346" data-start="1330">film producers</em>) cũng có <strong data-end="1377" data-start="1356">ngân sách hạn chế</strong> (<em data-end="1395" data-start="1379">limited budget</em>).</li>
+	<li data-end="1574" data-start="1404"><strong data-end="1433" data-start="1404">Sự thiếu hụt tiền bạc này</strong> (<em data-end="1450" data-start="1435">lack of money</em>) ảnh hưởng chủ yếu đến <strong data-end="1491" data-start="1474">các diễn viên</strong> (<em data-end="1501" data-start="1493">actors</em>), và họ <strong data-end="1540" data-start="1510">không kiếm được nhiều tiền</strong> (<em data-end="1570" data-start="1542">didn’t earn a lot of money</em>).</li>
+	<li data-end="1788" data-is-last-node="" data-start="1579"><strong data-end="1617" data-start="1579">Mọi thứ đã thay đổi theo thời gian</strong> (<em data-end="1638" data-start="1619">changed over time</em>), và giờ đây một số người trong số họ <strong data-end="1702" data-start="1677">kiếm hàng triệu đô la</strong> (<em data-end="1730" data-start="1704">earn millions of dollars</em>) sau khi <strong data-end="1762" data-start="1740">tham gia đóng phim</strong> (<em data-end="1784" data-start="1764">appearing in films</em>).</li>
+</ol>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="68bfad9ee275cb875f8b4571" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 9 of 25</div></div><div class="clearfix"></div>
+<div class="block-quiz-test quiz_drag_drop_word quiz_check_correct mb-4" data-id="68bfad9ee275cb875f8b4571">
+    <div class="w3-padding w3-light-grey">
+        <input type="hidden" name="Quiz[68bfad9ee275cb875f8b4571][id]" value="68bfad9ee275cb875f8b4571">
+        <div class="d-flex">
+            
+        </div>
+        <div class="my-3 font-weight-bold">
+            [Mai Hien key 6.0] - Reading plus - part 2 – Cultural Festival
+        </div>
+        <div class="d-md-flex border rounded-md">
+            <div class="w3-large droppable droppable-list flex-2 border-right p-2">
+                <p data-end="316" data-start="183"><strong data-end="316" data-start="183">The sentences below are from a story. Order the sentences to make a complete text. The first sentence of the story is an example.</strong></p>
+
+<p data-end="426" data-start="321">0. Last Sunday, the community organized a cultural festival to honor traditions and bring people together.</p>
+
+<p data-end="503" data-start="428"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-9 placeholder-visible" type="text" name="Quiz[68bfad9ee275cb875f8b4571][answer][0]" data-index="9" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ The cultural festival was held on Sunday, celebrating local traditions. ]</label></p>
+
+<p data-end="577" data-start="505"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-10 placeholder-visible" type="text" name="Quiz[68bfad9ee275cb875f8b4571][answer][1]" data-index="10" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ About 70 people participated, with Ms. Nguyen leading a dance group. ]</label></p>
+
+<p data-end="651" data-start="579"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-11 placeholder-visible" type="text" name="Quiz[68bfad9ee275cb875f8b4571][answer][2]" data-index="11" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Activities included pottery workshops, folk music, and food tasting. ]</label></p>
+
+<p data-end="717" data-start="653"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-12 placeholder-visible" type="text" name="Quiz[68bfad9ee275cb875f8b4571][answer][3]" data-index="12" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ After the main event, awards were given for the best costume. ]</label></p>
+
+<p data-end="717" data-start="653"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-13 placeholder-visible" type="text" name="Quiz[68bfad9ee275cb875f8b4571][answer][4]" data-index="13" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Families enjoyed the event, taking photos and sharing meals. ]</label></p>
+            </div>
+            
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <h3 data-end="807" data-start="791">Đáp án đúng:</h3>
+
+<ol data-end="1274" data-start="808" start="0">
+	<li data-end="916" data-start="808">
+	<p data-end="916" data-start="811">Last Sunday, the community organized a cultural festival to honor traditions and bring people together.</p>
+	</li>
+	<li data-end="993" data-start="917">
+	<p data-end="993" data-start="920">The cultural festival was held on Sunday, celebrating local traditions.</p>
+	</li>
+	<li data-end="1067" data-start="994">
+	<p data-end="1067" data-start="997">About 70 people participated, with Ms. Nguyen leading a dance group.</p>
+	</li>
+	<li data-end="1141" data-start="1068">
+	<p data-end="1141" data-start="1071">Activities included pottery workshops, folk music, and food tasting.</p>
+	</li>
+	<li data-end="1207" data-start="1142">
+	<p data-end="1207" data-start="1145">After the main event, awards were given for the best costume.</p>
+	</li>
+	<li data-end="1207" data-start="1142">
+	<p data-end="1207" data-start="1145">Families enjoyed the event, taking photos and sharing meals.&nbsp;&nbsp;</p>
+	</li>
+</ol>
+
+<p>&nbsp;</p>
+
+<p><em>0. Chủ nhật vừa rồi, cộng đồng tổ chức một lễ hội văn hóa để tôn vinh truyền thống và gắn kết mọi người.</em></p>
+
+<p data-end="1491" data-start="1416"><em>1. Lễ hội văn hóa diễn ra vào Chủ nhật, kỷ niệm các truyền thống địa phương.</em></p>
+
+<p data-end="1550" data-start="1497"><em>2. Khoảng 70 người tham gia, với cô Nguyễn dẫn đầu một nhóm múa.</em></p>
+
+<p data-end="1703" data-start="1623"><em>3. Các hoạt động bao gồm hội thảo gốm, nhạc dân gian và nếm đồ ăn.</em></p>
+
+<p data-end="1856" data-start="1778"><em>4. Sau sự kiện chính, giải thưởng được trao cho bộ trang phục đẹp nhất.</em></p>
+
+<p data-end="1856" data-start="1778"><em>5. Các gia đình tận hưởng sự kiện, chụp ảnh và cùng nhau dùng bữa.</em></p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="68c0ec4ee275cbf34a8b4583" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 10 of 25</div></div><div class="clearfix"></div>
+<div class="block-quiz-test quiz_drag_drop_word quiz_check_correct mb-4" data-id="68c0ec4ee275cbf34a8b4583">
+    <div class="w3-padding w3-light-grey">
+        <input type="hidden" name="Quiz[68c0ec4ee275cbf34a8b4583][id]" value="68c0ec4ee275cbf34a8b4583">
+        <div class="d-flex">
+            
+        </div>
+        <div class="my-3 font-weight-bold">
+            [Mai Hien key 6.0] - Reading part 2 - social media
+        </div>
+        <div class="d-md-flex border rounded-md">
+            <div class="w3-large droppable droppable-list flex-2 border-right p-2">
+                <p data-end="337" data-start="206">The sentences below are from a story. Order the sentences to make a complete text. The first sentence of the story is an example.</p>
+
+<p data-end="449" data-start="339"><strong data-end="447" data-start="339">0. Over the past two decades, social media has transformed the way people connect and share information.</strong></p>
+
+<p data-end="911" data-start="451"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-10 placeholder-visible" type="text" name="Quiz[68c0ec4ee275cbf34a8b4583][answer][0]" data-index="10" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ In the past, limited internet speeds made it difficult to stream or upload video content. ]</label><br data-end="545" data-start="542">
+<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-11 placeholder-visible" type="text" name="Quiz[68c0ec4ee275cbf34a8b4583][answer][1]" data-index="11" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Early platforms only offered simple features, such as text posts and basic images. ]</label><br data-end="632" data-start="629">
+<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-12 placeholder-visible" type="text" name="Quiz[68c0ec4ee275cbf34a8b4583][answer][2]" data-index="12" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Over the years, social media platforms have evolved significantly in both design and functionality. ]</label><br data-end="736" data-start="733">
+<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-13 placeholder-visible" type="text" name="Quiz[68c0ec4ee275cbf34a8b4583][answer][3]" data-index="13" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Modern platforms now rely on algorithms to personalize and shape each user's feed. ]</label><br data-end="823" data-start="820">
+<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-14 placeholder-visible" type="text" name="Quiz[68c0ec4ee275cbf34a8b4583][answer][4]" data-index="14" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Today, influencers earn money mainly through sponsorships and online advertisements. ]</label></p>
+            </div>
+            
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <h3 data-end="936" data-start="918">Đáp án đúng:</h3>
+
+<ol data-end="1510" data-start="938" start="0">
+	<li data-end="1044" data-start="938">
+	<p data-end="1044" data-start="941"><em>Over the past two decades, social media has transformed the way people connect and share information.</em></p>
+	</li>
+	<li data-end="1139" data-start="1045">
+	<p data-end="1139" data-start="1048"><em>In the past, limited internet speeds made it difficult to stream or upload video content.</em></p>
+	</li>
+	<li data-end="1227" data-start="1140">
+	<p data-end="1227" data-start="1143"><em>Early platforms only offered simple features, such as text posts and basic images.</em></p>
+	</li>
+	<li data-end="1332" data-start="1228">
+	<p data-end="1332" data-start="1231"><em>Over the years, social media platforms have evolved significantly in both design and functionality.</em></p>
+	</li>
+	<li data-end="1420" data-start="1333">
+	<p data-end="1420" data-start="1336"><em>Modern platforms now rely on algorithms to personalize and shape each user’s feed.</em></p>
+	</li>
+	<li data-end="1510" data-start="1421">
+	<p data-end="1510" data-start="1424"><em>Today, influencers earn money mainly through sponsorships and online advertisements.</em></p>
+	</li>
+</ol>
+
+<p>&nbsp;</p>
+
+<h3 data-end="1541" data-start="1517">Giải thích:</h3>
+
+<p data-end="1731" data-start="1546">&nbsp; &nbsp; &nbsp; 0.&nbsp;<strong><em>Over the past two decades, social media has transformed the way people connect and share information&nbsp; </em></strong><em>(trong hai thập kỷ qua mạng xã hội đã làm thay đổi mọi người kết nối và chia sẻ thông tin).</em></p>
+
+<ol data-end="2470" data-start="1543">
+	<li data-end="1731" data-start="1543">
+	<p data-end="1731" data-start="1546"><em><strong data-end="1561" data-start="1546">In the past</strong> <strong>limited internet speeds made it difficult to stream or upload video content&nbsp;</strong>(Trrước đây,&nbsp;tốc độ internet hạn chế&nbsp;khiến việc phát trực tuyến hoặc tải video&nbsp;trở nên khó khăn).&nbsp;</em></p>
+	</li>
+	<li data-end="1917" data-start="1733">
+	<p data-end="1917" data-start="1736"><em><strong data-end="1755" data-start="1736">Early platforms</strong> <strong>only offered simple features, such as text posts and basic images</strong>. (Các nền tảng ban đầu&nbsp;chỉ cung cấp những tính năng đơn giản&nbsp;như bài đăng văn bản và hình ảnh cơ bản).</em></p>
+	</li>
+	<li data-end="2104" data-start="1919">
+	<p data-end="2104" data-start="1922"><em><strong>Over the years, social media platforms have evolved significantly in both design and functionality. </strong>(Qua nhiều năm, các nền tảng mạng xã hội đã phát triển mạnh mẽ&nbsp;cả về thiết kế và chức năng).</em></p>
+	</li>
+	<li data-end="2289" data-start="2106">
+	<p data-end="2289" data-start="2109"><em><strong data-end="2129" data-start="2109">Modern platforms</strong>&nbsp;<strong>now rely on algorithms to personalize and shape each user’s feed. </strong>(Các nền tảng hiện đại&nbsp;hiện nay dựa vào thuật toán&nbsp;để&nbsp;cá nhân hóa&nbsp;và định hình bảng tin của người dùng).</em></p>
+	</li>
+	<li data-end="2470" data-start="2291">
+	<p data-end="2470" data-start="2294"><em><strong>Today, influencers earn money mainly through sponsorships and online advertisements.</strong> (Ngày nay, những người có tầm ảnh hưởng&nbsp;chủ yếu kiếm tiền&nbsp;thông qua tài trợ&nbsp;và quảng cáo trực tuyến).</em></p>
+	</li>
+</ol>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="68c101abe275cbbb6e8b4582" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 11 of 25</div></div><div class="clearfix"></div>
+<div class="block-quiz-test quiz_drag_drop_word quiz_check_correct mb-4" data-id="68c101abe275cbbb6e8b4582">
+    <div class="w3-padding w3-light-grey">
+        <input type="hidden" name="Quiz[68c101abe275cbbb6e8b4582][id]" value="68c101abe275cbbb6e8b4582">
+        <div class="d-flex">
+            
+        </div>
+        <div class="my-3 font-weight-bold">
+            [Mai Hien key 6.0] - Reading part 2 - Artificial Intelligence
+        </div>
+        <div class="d-md-flex border rounded-md">
+            <div class="w3-large droppable droppable-list flex-2 border-right p-2">
+                <p>Read the text. Put the sentences in the correct order.</p>
+
+<p>0.&nbsp;In recent years, <strong data-end="785" data-start="753">artificial intelligence (AI)</strong>&nbsp;has become a powerful force in technology, attracting global attention for its potential to reshape society.</p>
+
+<p><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-11 placeholder-visible" type="text" name="Quiz[68c101abe275cbbb6e8b4582][answer][0]" data-index="11" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Artificial intelligence has transformed industries over the past decade. ]</label><br data-end="346" data-start="343">
+<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-12 placeholder-visible" type="text" name="Quiz[68c101abe275cbbb6e8b4582][answer][1]" data-index="12" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Early AI systems were limited to basic pattern recognition tasks. ]</label><br data-end="416" data-start="413">
+<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-13 placeholder-visible" type="text" name="Quiz[68c101abe275cbbb6e8b4582][answer][2]" data-index="13" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ High computational costs restricted AI development in the past. ]</label><br data-end="484" data-start="481">
+<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-14 placeholder-visible" type="text" name="Quiz[68c101abe275cbbb6e8b4582][answer][3]" data-index="14" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Today, AI engineers create advanced models for tasks like language translation. ]</label><br data-end="568" data-start="565">
+<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-15 placeholder-visible" type="text" name="Quiz[68c101abe275cbbb6e8b4582][answer][4]" data-index="15" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Modern AI tools help businesses analyze data and improve decision-making. ]</label></p>
+            </div>
+            
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p data-end="919" data-start="706"><em><strong data-end="752" data-start="706">0. Introduction to Artificial Intelligence</strong><br data-end="755" data-start="752">
+Trong những năm gần đây, <strong data-end="826" data-start="780">artificial intelligence (trí tuệ nhân tạo)</strong> đã trở thành một xu hướng lớn, thu hút sự quan tâm toàn cầu nhờ tiềm năng thay đổi xã hội.</em></p>
+
+<p data-end="1159" data-start="921"><em><strong data-end="1000" data-start="921">1. Artificial intelligence has transformed industries over the past decade.&nbsp;</strong><strong>(T</strong><strong data-end="1049" data-start="1003">rí tuệ nhân tạo</strong><strong data-end="1049" data-start="1003">&nbsp;</strong><strong>đã&nbsp;<strong data-end="1079" data-start="1053">biến đổi</strong>&nbsp;nhiều&nbsp;<strong data-end="1120" data-start="1086">ngành công nghiệp</strong>&nbsp;trong vòng&nbsp;<strong data-end="1152" data-start="1132">thập kỷ</strong>&nbsp;qua).</strong></em></p>
+
+<p data-end="1367" data-start="1161"><em><strong data-end="1233" data-start="1161">2. Early AI systems were limited to basic pattern recognition tasks.&nbsp;</strong><strong>(C</strong><strong data-end="1282" data-start="1236">ác hệ thống AI ban đầu</strong>&nbsp;<strong>chỉ </strong><strong data-end="1309" data-start="1287">limited giới hạn</strong>&nbsp;<strong>ở&nbsp;</strong><strong data-end="1364" data-start="1312">nhận dạng mẫu cơ bản).&nbsp;</strong></em></p>
+
+<p data-end="1577" data-start="1369"><em><strong data-end="1439" data-start="1369">3. High computational costs restricted AI development in the past.&nbsp;</strong><strong data-end="1494" data-start="1442">(Chi phí tính toán cao</strong>&nbsp;<strong>đã&nbsp;<strong data-end="1522" data-start="1498">hạn chế</strong>&nbsp;sự&nbsp;<strong data-end="1560" data-start="1526">phát triển AI</strong>&nbsp;trong quá khứ).</strong></em></p>
+
+<p data-end="1833" data-start="1579"><em><strong data-end="1665" data-start="1579">4. Today, AI engineers create advanced models for tasks like language translation. (</strong><strong>Ngày nay,</strong>&nbsp;<strong data-end="1705" data-start="1678">kỹ sư AI</strong>&nbsp;<strong>phát triển&nbsp;</strong><strong data-end="1756" data-start="1717">mô hình tiên tiến</strong>&nbsp;<strong>cho các</strong>&nbsp;<strong data-end="1785" data-start="1765">nhiệm vụ</strong>&nbsp;<strong>như</strong>&nbsp;<strong data-end="1830" data-start="1790">dịch ngôn ngữ)</strong>.</em></p>
+
+<p data-end="2083" data-start="1835"><em><strong data-end="1915" data-start="1835">5. Modern AI tools help businesses analyze data and improve decision-making.&nbsp;</strong><strong data-end="1959" data-start="1918">(Công cụ AI hiện đại</strong>&nbsp;<strong>giúp&nbsp;</strong><strong data-end="1994" data-start="1965">doanh nghiệp&nbsp;</strong><strong data-end="2031" data-start="1995">phân tích dữ liệu</strong>&nbsp;<strong>và cải thiện r</strong><strong data-end="2080" data-start="2045">a quyết định).</strong></em></p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="68c1028ae275cb66518b4596" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 12 of 25</div></div><div class="clearfix"></div>
+<div class="block-quiz-test quiz_drag_drop_word quiz_check_correct mb-4" data-id="68c1028ae275cb66518b4596">
+    <div class="w3-padding w3-light-grey">
+        <input type="hidden" name="Quiz[68c1028ae275cb66518b4596][id]" value="68c1028ae275cb66518b4596">
+        <div class="d-flex">
+            
+        </div>
+        <div class="my-3 font-weight-bold">
+            [Mai Hien key 6.0] - Reading part 2 - Tech Innovation Expo
+        </div>
+        <div class="d-md-flex border rounded-md">
+            <div class="w3-large droppable droppable-list flex-2 border-right p-2">
+                <p>Read the text. Put the sentences in the correct order.</p>
+
+<p><strong>0. Introduction to the Tech Innovation Expo</strong></p>
+
+<p><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-12 placeholder-visible" type="text" name="Quiz[68c1028ae275cb66518b4596][answer][0]" data-index="12" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ The tech expo was held on Sunday morning, showcasing cutting-edge innovations. ]</label><br data-end="327" data-start="324">
+<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-13 placeholder-visible" type="text" name="Quiz[68c1028ae275cb66518b4596][answer][1]" data-index="13" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Over 75 participants attended, with Ms. Tony presenting a smart home device. ]</label><br data-end="408" data-start="405">
+<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-14 placeholder-visible" type="text" name="Quiz[68c1028ae275cb66518b4596][answer][2]" data-index="14" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Activities included 3D printing demos, AI workshops, and virtual reality trials. ]</label><br data-end="488" data-start="485">
+<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-15 placeholder-visible" type="text" name="Quiz[68c1028ae275cb66518b4596][answer][3]" data-index="15" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ After the presentations, awards were given for the most creative prototype. ]</label><br data-end="573" data-start="570">
+<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-16 placeholder-visible" type="text" name="Quiz[68c1028ae275cb66518b4596][answer][4]" data-index="16" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Attendees enjoyed networking over coffee and exploring interactive displays. ]</label></p>
+            </div>
+            
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p data-end="1383" data-start="1139"><strong>0. Giới thiệu về triển lãm đổi mới trong công nghệ.</strong></p>
+
+<p data-end="1383" data-start="1139"><strong data-end="1224" data-start="1139">1. The tech expo was held on Sunday morning, showcasing cutting-edge innovations.</strong><br data-end="1227" data-start="1224">
+Triển lãm được tổ chức vào <strong data-end="1288" data-start="1254">Sunday morning (sáng Chủ nhật)</strong>, giới thiệu những <strong data-end="1355" data-start="1307">cutting-edge innovations (đổi mới tiên tiến)</strong> trong lĩnh vực công nghệ.</p>
+
+<p data-end="1611" data-start="1385"><strong data-end="1468" data-start="1385">2. Over 75 participants attended, with Ms. Tony&nbsp;presenting a smart home device.</strong><br data-end="1471" data-start="1468">
+Hơn <strong data-end="1510" data-start="1475">75 participants (người tham dự)</strong> có mặt, trong đó <strong data-end="1540" data-start="1528">Ms. Tony</strong>&nbsp;đã trình bày về một <strong data-end="1608" data-start="1561">smart home device (thiết bị nhà thông minh)</strong>.</p>
+
+<p data-end="1869" data-start="1613"><strong data-end="1695" data-start="1613">3.&nbsp;</strong><strong data-end="1958" data-start="1871">Activities included 3D printing demos, AI workshops, and virtual reality trials.</strong><br data-end="1961" data-start="1958">
+Các hoạt động đa dạng như <strong data-end="2027" data-start="1987">3D printing demos (trình diễn in 3D)</strong>, <strong data-end="2059" data-start="2029">AI workshops (hội thảo AI)</strong> và <strong data-end="2114" data-start="2063">virtual reality trials (trải nghiệm thực tế ảo)</strong> đã diễn ra.<strong data-end="1695" data-start="1613"> </strong></p>
+
+<p data-end="2128" data-start="1871"><strong data-end="1958" data-start="1871">4. </strong><strong data-end="1695" data-start="1613">After the presentations, awards were given for the most creative prototype.</strong><br data-end="1698" data-start="1695">
+Sau khi hoàn thành các <strong data-end="1757" data-start="1721">presentations (bài thuyết trình)</strong>, ban tổ chức đã trao <strong data-end="1803" data-start="1779">awards (giải thưởng)</strong> cho <strong data-end="1866" data-start="1808">the most creative prototype (nguyên mẫu sáng tạo nhất)</strong>.</p>
+
+<p data-end="2376" data-start="2130"><strong data-end="2213" data-start="2130">5. Attendees enjoyed networking over coffee and exploring interactive displays.</strong><br data-end="2216" data-start="2213">
+Những <strong data-end="2251" data-start="2222">attendees (người tham dự)</strong> đã tận hưởng việc <strong data-end="2294" data-start="2270">networking (kết nối)</strong> bên tách cà phê và khám phá các <strong data-end="2373" data-start="2327">interactive displays (trưng bày tương tác)</strong>.</p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="68c10348e275cb08018b4567" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 13 of 25</div></div><div class="clearfix"></div>
+<div class="block-quiz-test quiz_drag_drop_word quiz_check_correct mb-4" data-id="68c10348e275cb08018b4567">
+    <div class="w3-padding w3-light-grey">
+        <input type="hidden" name="Quiz[68c10348e275cb08018b4567][id]" value="68c10348e275cb08018b4567">
+        <div class="d-flex">
+            
+        </div>
+        <div class="my-3 font-weight-bold">
+            [Mai Hien key 6.0] - Reading part 2 - Workplace Evolution
+        </div>
+        <div class="d-md-flex border rounded-md">
+            <div class="w3-large droppable droppable-list flex-2 border-right p-2">
+                <p data-end="492" data-start="330"><strong data-end="490" data-start="330">The sentences below are from a description of workplace changes. Order the sentences to make a complete text. The first sentence of the story is an example.</strong></p>
+
+<p data-end="563" data-start="494">Workplaces have changed significantly from the past to the present.</p>
+
+<p data-end="903" data-start="565"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-13 placeholder-visible" type="text" name="Quiz[68c10348e275cb08018b4567][answer][0]" data-index="13" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ In the past, employees followed strict nine-to-five schedules. ]</label><br data-end="694" data-start="691">
+<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-14 placeholder-visible" type="text" name="Quiz[68c10348e275cb08018b4567][answer][1]" data-index="14" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Limited technology once restricted remote work possibilities. ]</label><br data-end="760" data-start="757">
+<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-15 placeholder-visible" type="text" name="Quiz[68c10348e275cb08018b4567][answer][2]" data-index="15" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Modern workplaces are adopting more flexible work models. ]</label><br data-end="760" data-start="757">
+<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-16 placeholder-visible" type="text" name="Quiz[68c10348e275cb08018b4567][answer][3]" data-index="16" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Managers now use software to track project progress remotely. ]</label><br data-end="826" data-start="823">
+<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-17 placeholder-visible" type="text" name="Quiz[68c10348e275cb08018b4567][answer][4]" data-index="17" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Today, companies experiment with shorter workweeks to boost productivity. ]</label></p>
+            </div>
+            
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p data-end="1102" data-start="929"><em><strong data-end="1003" data-start="929">0. Workplaces have changed significantly from the past to the present.</strong><br data-end="1006" data-start="1003">
+<strong data-end="1035" data-start="1006">Nơi làm việc (Workplaces)</strong> đã thay đổi <strong data-end="1075" data-start="1048">significantly (đáng kể)</strong> từ quá khứ đến hiện tại.</em></p>
+
+<p data-end="1326" data-start="1104"><em><strong data-end="1173" data-start="1104">1. In the past, employees followed strict nine-to-five schedules.</strong><br data-end="1176" data-start="1173">
+Trong quá khứ, <strong data-end="1216" data-start="1191">employees (nhân viên)</strong> phải tuân theo lịch làm việc <strong data-end="1323" data-start="1246">strict nine-to-five schedules (nghiêm ngặt từ 9 giờ sáng đến 5 giờ chiều)</strong>.</em></p>
+
+<p data-end="1539" data-start="1328"><em><strong data-end="1396" data-start="1328">2. Limited technology once restricted remote work possibilities.</strong><br data-end="1399" data-start="1396">
+Do <strong data-end="1448" data-start="1402">limited technology (công nghệ còn hạn chế)</strong>, cơ hội làm việc từ xa (<strong data-end="1502" data-start="1473">remote work possibilities</strong>) từng bị <strong data-end="1536" data-start="1512">restricted (hạn chế)</strong>.</em></p>
+
+<p data-end="1741" data-start="1541"><em><strong data-end="1605" data-start="1541">3. Modern workplaces are adopting more flexible work models.</strong><br data-end="1608" data-start="1605">
+Ngày nay, <strong data-end="1663" data-start="1618">modern workplaces (nơi làm việc hiện đại)</strong> đang áp dụng các <strong data-end="1734" data-start="1681">flexible work models (mô hình làm việc linh hoạt)</strong> hơn.</em></p>
+
+<p data-end="1958" data-start="1743"><em><strong data-end="1811" data-start="1743">4. Managers now use software to track project progress remotely.</strong><br data-end="1814" data-start="1811">
+Các <strong data-end="1844" data-start="1818">managers (nhà quản lý)</strong> hiện nay sử dụng <strong data-end="1885" data-start="1862">software (phần mềm)</strong> để <strong data-end="1955" data-start="1889">track project progress remotely (theo dõi tiến độ dự án từ xa)</strong>.</em></p>
+
+<p data-end="2191" data-start="1960"><em><strong data-end="2040" data-start="1960">5. Today, companies experiment with shorter workweeks to boost productivity.</strong><br data-end="2043" data-start="2040">
+Ngày nay, các <strong data-end="2080" data-start="2057">companies (công ty)</strong> đang thử nghiệm <strong data-end="2143" data-start="2097">shorter workweeks (tuần làm việc ngắn hơn)</strong> nhằm <strong data-end="2188" data-start="2149">boost productivity (tăng năng suất)</strong>.</em></p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="68c840a4e275cb00478b4592" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 14 of 25</div></div><div class="clearfix"></div>
+<div class="block-quiz-test quiz_drag_drop_word quiz_check_correct mb-4" data-id="68c840a4e275cb00478b4592">
+    <div class="w3-padding w3-light-grey">
+        <input type="hidden" name="Quiz[68c840a4e275cb00478b4592][id]" value="68c840a4e275cb00478b4592">
+        <div class="d-flex">
+            
+        </div>
+        <div class="my-3 font-weight-bold">
+            [Mai Hien key 6.0] - Reading plus - part 2 - Tourism
+        </div>
+        <div class="d-md-flex border rounded-md">
+            <div class="w3-large droppable droppable-list flex-2 border-right p-2">
+                <p data-end="348" data-start="188">The sentences below are from a description of tourism development. Order the sentences to make a complete text. The first sentence of the story is an example.</p>
+
+<p data-end="491" data-start="350"><strong data-end="489" data-start="350">0. Tourism has changed significantly over time, from the way trips were planned in the past to the diverse experiences available today.</strong></p>
+
+<p data-end="557" data-start="493"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-14 placeholder-visible" type="text" name="Quiz[68c840a4e275cb00478b4592][answer][0]" data-index="14" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Modern tourism now offers far more options than in the past. ]</label></p>
+
+<p data-end="640" data-start="559"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-15 placeholder-visible" type="text" name="Quiz[68c840a4e275cb00478b4592][answer][1]" data-index="15" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ In earlier times, travelers often relied mainly on guidebooks and paper maps. ]</label></p>
+
+<p data-end="732" data-start="642"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-16 placeholder-visible" type="text" name="Quiz[68c840a4e275cb00478b4592][answer][2]" data-index="16" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ However, limited technology back then also meant fewer booking options were available. ]</label></p>
+
+<p data-end="823" data-start="734"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-17 placeholder-visible" type="text" name="Quiz[68c840a4e275cb00478b4592][answer][3]" data-index="17" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Today, online platforms make it much easier to plan carefully and book trips quickly. ]</label></p>
+
+<p data-end="934" data-start="825"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-18 placeholder-visible" type="text" name="Quiz[68c840a4e275cb00478b4592][answer][4]" data-index="18" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ In addition, local guides now offer personalized tours for visitors, creating more authentic experiences. ]</label></p>
+            </div>
+            
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p data-end="579" data-start="292"><em><strong data-end="431" data-start="292">0. Tourism has changed significantly over time, from the way trips were planned in the past to the diverse experiences available today.</strong><br data-end="434" data-start="431">
+Du lịch đã thay đổi <strong data-end="465" data-start="454">đáng kể</strong> theo thời gian, từ cách lên kế hoạch chuyến đi trong quá khứ cho đến những trải nghiệm đa dạng có sẵn ngày nay.</em></p>
+
+<p data-end="745" data-start="581"><em><span data-end="600" data-start="582">1.&nbsp;</span><strong data-end="600" data-start="582">Modern tourism</strong> now offers far more <strong data-end="632" data-start="621">options</strong> than in the past.<br data-end="654" data-start="651">
+<strong data-end="674" data-start="654">Du lịch hiện đại</strong> hiện nay mang lại nhiều <strong data-end="711" data-start="699">lựa chọn</strong> hơn rất nhiều so với trước đây.</em></p>
+
+<p data-end="935" data-start="747"><em>2. In earlier times, travelers often relied mainly on <strong data-end="813" data-start="799">guidebooks</strong> and <strong data-end="832" data-start="818">paper maps</strong>.<br data-end="837" data-start="834">
+Trong thời kỳ trước, khách du lịch thường dựa chủ yếu vào <strong data-end="913" data-start="895">sách hướng dẫn</strong> và <strong data-end="932" data-start="917">bản đồ giấy</strong>.</em></p>
+
+<p data-end="1135" data-start="937"><em>3. However, <strong data-end="969" data-start="947">limited technology</strong> back then also meant fewer <strong data-end="1016" data-start="997">booking options</strong> were available.<br data-end="1036" data-start="1033">
+Tuy nhiên, <strong data-end="1068" data-start="1047">công nghệ hạn chế</strong> thời đó cũng đồng nghĩa với việc có ít <strong data-end="1128" data-start="1108">lựa chọn đặt chỗ</strong> hơn.</em></p>
+
+<p data-end="1361" data-start="1137"><em>4. Today, <strong data-end="1165" data-start="1145">online platforms</strong> make it much easier to <strong data-end="1197" data-start="1189">plan</strong> carefully and <strong data-end="1226" data-start="1212">book trips</strong> quickly.<br data-end="1239" data-start="1236">
+Ngày nay, các <strong data-end="1276" data-start="1253">nền tảng trực tuyến</strong> giúp việc <strong data-end="1303" data-start="1287">lên kế hoạch</strong> dễ dàng hơn nhiều và <strong data-end="1342" data-start="1325">đặt chuyến đi</strong> nhanh chóng hơn.</em></p>
+
+<p data-end="1645" data-start="1363"><em>5. In addition, <strong data-end="1393" data-start="1377">local guides</strong> now offer <strong data-end="1426" data-start="1404">personalized tours</strong> for visitors, creating more <strong data-end="1480" data-start="1455">authentic experiences</strong>.<br data-end="1485" data-start="1482">
+Ngoài ra, các <strong data-end="1528" data-start="1499">hướng dẫn viên địa phương</strong> hiện nay cung cấp các <strong data-end="1583" data-start="1551">chuyến tham quan cá nhân hóa</strong> cho du khách, mang lại những <strong data-end="1638" data-start="1613">trải nghiệm chân thực</strong> hơn.</em></p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="68c837e3e275cb523e8b457f" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 15 of 25</div></div><div class="clearfix"></div>
+<div class="block-quiz-test quiz_drag_drop_word quiz_check_correct mb-4" data-id="68c837e3e275cb523e8b457f">
+    <div class="w3-padding w3-light-grey">
+        <input type="hidden" name="Quiz[68c837e3e275cb523e8b457f][id]" value="68c837e3e275cb523e8b457f">
+        <div class="d-flex">
+            
+        </div>
+        <div class="my-3 font-weight-bold">
+            [Mai Hien key 6.0] - Reading plus - part 2 - Tech fair
+        </div>
+        <div class="d-md-flex border rounded-md">
+            <div class="w3-large droppable droppable-list flex-2 border-right p-2">
+                <p data-end="346" data-start="190"><b>The sentences below are from some instructions. Put the sentences in the right order. The first sentence is done for you.</b></p>
+
+<p data-end="446" data-start="348">0. This weekend, our city organized a <strong data-end="404" data-start="383">special tech fair</strong> to highlight creativity and innovation.</p>
+
+<p data-end="540" data-start="448"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-15 placeholder-visible" type="text" name="Quiz[68c837e3e275cb523e8b457f][answer][0]" data-index="15" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ The tech fair was held on Saturday morning, showcasing exciting new gadgets. ]</label></p>
+
+<p data-end="637" data-start="542"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-16 placeholder-visible" type="text" name="Quiz[68c837e3e275cb523e8b457f][answer][1]" data-index="16" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Over 50 exhibitors took part, with Dr. Lee presenting an impressive robot demo. ]</label></p>
+
+<p data-end="756" data-start="639"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-17 placeholder-visible" type="text" name="Quiz[68c837e3e275cb523e8b457f][answer][2]" data-index="17" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ The fair featured engaging activities such as VR gaming, coding workshops, and thrilling drone races. ]</label></p>
+
+<p data-end="850" data-start="758"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-18 placeholder-visible" type="text" name="Quiz[68c837e3e275cb523e8b457f][answer][3]" data-index="18" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ After the demonstrations, awards were presented for the most innovative product. ]</label></p>
+
+<p data-end="954" data-start="852"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-19 placeholder-visible" type="text" name="Quiz[68c837e3e275cb523e8b457f][answer][4]" data-index="19" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Visitors enjoyed complimentary coffee and snacks while exploring the interactive exhibits. ]</label></p>
+            </div>
+            
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <ol>
+	<li data-end="1763" data-start="1535">
+	<p data-end="1763" data-start="1538"><strong data-end="1571" data-start="1538">Tech fair – hội chợ công nghệ</strong> được tổ chức vào <strong data-end="1624" data-start="1589">Saturday morning – sáng thứ Bảy</strong>, giới thiệu nhiều <strong data-end="1673" data-start="1643">new gadgets – thiết bị mới</strong>.</p>
+
+	<p data-end="1763" data-start="1538">→ Hội chợ công nghệ được tổ chức vào sáng thứ Bảy, trưng bày các thiết bị mới lạ.</p>
+	</li>
+	<li data-end="1972" data-start="1765">
+	<p data-end="1972" data-start="1768">Có hơn <strong data-end="1808" data-start="1775">50 exhibitors – nhà triển lãm</strong>, trong đó <strong data-end="1830" data-start="1819">Dr. Lee</strong> đã giới thiệu một <strong data-end="1886" data-start="1849">robot demo – màn trình diễn robot</strong> ấn tượng.</p>
+
+	<p data-end="1972" data-start="1768">→ Hơn 50 đơn vị tham gia, trong đó Tiến sĩ Lee trình diễn một robot.</p>
+	</li>
+	<li data-end="2216" data-start="1974">
+	<p data-end="2216" data-start="1977">Hội chợ có nhiều hoạt động như <strong data-end="2043" data-start="2008">VR gaming – trò chơi thực tế ảo</strong>, <strong data-end="2086" data-start="2045">coding workshops – hội thảo lập trình</strong>, và <strong data-end="2136" data-start="2091">drone races – đua máy bay không người lái</strong>.</p>
+
+	<p data-end="2216" data-start="1977">→ Các hoạt động gồm chơi game VR, workshop lập trình và cuộc đua drone.</p>
+	</li>
+	<li data-end="2380" data-start="2218">
+	<p data-end="2380" data-start="2221">Sau phần trình diễn, <strong data-end="2266" data-start="2242">awards – giải thưởng</strong> được trao cho sản phẩm <strong data-end="2320" data-start="2290">innovative – sáng tạo nhất</strong>.</p>
+
+	<p data-end="2380" data-start="2221">→ Giải thưởng được trao cho sản phẩm sáng tạo nhất.</p>
+	</li>
+	<li data-end="2613" data-start="2382">
+	<p data-end="2613" data-start="2385"><strong data-end="2415" data-start="2385">Visitors – khách tham quan</strong> thưởng thức <strong data-end="2471" data-start="2428">coffee and snacks – cà phê và đồ ăn nhẹ</strong> miễn phí trong khi khám phá các <strong data-end="2533" data-start="2504">exhibits – gian trưng bày</strong>.</p>
+
+	<p data-end="2613" data-start="2385">→ Khách tham quan thưởng thức cà phê, đồ ăn nhẹ khi khám phá gian hàng.</p>
+	</li>
+</ol>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="68c8390de275cbb1408b7959" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 16 of 25</div></div><div class="clearfix"></div>
+<div class="block-quiz-test quiz_drag_drop_word quiz_check_correct mb-4" data-id="68c8390de275cbb1408b7959">
+    <div class="w3-padding w3-light-grey">
+        <input type="hidden" name="Quiz[68c8390de275cbb1408b7959][id]" value="68c8390de275cbb1408b7959">
+        <div class="d-flex">
+            
+        </div>
+        <div class="my-3 font-weight-bold">
+            [Mai Hien key 6.0] - Reading plus - part 2 - Internet of Things (IoT)
+        </div>
+        <div class="d-md-flex border rounded-md">
+            <div class="w3-large droppable droppable-list flex-2 border-right p-2">
+                <p><b>The sentences below are from some instructions. Put the sentences in the right order. The first sentence is done for you.</b></p>
+
+<p>&nbsp;</p>
+
+<p data-end="432" data-start="338">This article introduces the growing impact of the <strong data-end="410" data-start="388">Internet of Things</strong> on our daily lives.</p>
+
+<p data-end="524" data-start="434"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-16 placeholder-visible" type="text" name="Quiz[68c8390de275cbb1408b7959][answer][0]" data-index="16" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ The Internet of Things connects everyday devices to enhance functionality. ]</label></p>
+
+<p data-end="622" data-start="526"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-17 placeholder-visible" type="text" name="Quiz[68c8390de275cbb1408b7959][answer][1]" data-index="17" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Early IoT devices were limited by slow internet speeds and compatibility issues. ]</label></p>
+
+<p data-end="695" data-start="624"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-18 placeholder-visible" type="text" name="Quiz[68c8390de275cbb1408b7959][answer][2]" data-index="18" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ High development costs restricted IoT adoption in the past. ]</label></p>
+
+<p data-end="777" data-start="697"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-19 placeholder-visible" type="text" name="Quiz[68c8390de275cbb1408b7959][answer][3]" data-index="19" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Engineers now design smart devices for homes and industries. ]</label></p>
+
+<p data-end="862" data-start="779"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-20 placeholder-visible" type="text" name="Quiz[68c8390de275cbb1408b7959][answer][4]" data-index="20" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Modern IoT systems enable real-time data monitoring and automation. ]</label></p>
+            </div>
+            
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <ol data-end="2431" data-start="1366">
+	<li data-end="1557" data-start="1366">
+	<p data-end="1557" data-start="1369"><em><strong data-end="1397" data-start="1369">Internet of Things – IoT</strong> giúp kết nối các <strong data-end="1437" data-start="1415">devices – thiết bị</strong> hàng ngày để nâng cao <strong data-end="1489" data-start="1460">functionality – chức năng</strong>.<br data-end="1493" data-start="1490">
+	→ IoT kết nối các thiết bị hàng ngày để nâng cao chức năng.</em></p>
+	</li>
+	<li data-end="1786" data-start="1559">
+	<p data-end="1786" data-start="1562"><em>Các <strong data-end="1596" data-start="1566">IoT devices – thiết bị IoT</strong> ban đầu bị giới hạn do <strong data-end="1653" data-start="1620">internet speeds – tốc độ mạng</strong> chậm và <strong data-end="1707" data-start="1662">compatibility issues – vấn đề tương thích</strong>.<br data-end="1711" data-start="1708">
+	→ Các thiết bị IoT đời đầu bị hạn chế do mạng chậm và khó tương thích.</em></p>
+	</li>
+	<li data-end="1962" data-start="1788">
+	<p data-end="1962" data-start="1791"><em><strong data-end="1833" data-start="1791">Development costs – chi phí phát triển</strong> cao đã kìm hãm <strong data-end="1884" data-start="1849">IoT adoption – việc áp dụng IoT</strong> trong quá khứ.<br data-end="1902" data-start="1899">
+	→ Chi phí phát triển cao từng hạn chế việc áp dụng IoT.</em></p>
+	</li>
+	<li data-end="2191" data-start="1964">
+	<p data-end="2191" data-start="1967"><em>Hiện nay, <strong data-end="1998" data-start="1977">engineers – kỹ sư</strong> thiết kế <strong data-end="2047" data-start="2008">smart devices – thiết bị thông minh</strong> cho cả <strong data-end="2075" data-start="2055">homes – gia đình</strong> và <strong data-end="2107" data-start="2079">industries – công nghiệp</strong>.<br data-end="2111" data-start="2108">
+	→ Ngày nay, kỹ sư thiết kế thiết bị thông minh cho gia đình và công nghiệp.</em></p>
+	</li>
+	<li data-end="2431" data-start="2193">
+	<p data-end="2431" data-start="2196"><em><strong data-end="2242" data-start="2196">Modern IoT systems – hệ thống IoT hiện đại</strong> cho phép <strong data-end="2290" data-start="2252">data monitoring – giám sát dữ liệu</strong> theo thời gian thực và <strong data-end="2342" data-start="2314">automation – tự động hóa</strong>.<br data-end="2346" data-start="2343">
+	→ Hệ thống IoT hiện đại cho phép giám sát dữ liệu thời gian thực và tự động hóa.</em></p>
+	</li>
+</ol>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="68c103a4e275cbae5a8b4586" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 17 of 25</div></div><div class="clearfix"></div>
+<div class="block-quiz-test quiz_drag_drop_word quiz_check_correct mb-4" data-id="68c103a4e275cbae5a8b4586">
+    <div class="w3-padding w3-light-grey">
+        <input type="hidden" name="Quiz[68c103a4e275cbae5a8b4586][id]" value="68c103a4e275cbae5a8b4586">
+        <div class="d-flex">
+            
+        </div>
+        <div class="my-3 font-weight-bold">
+            [Mai Hien key 6.0] - Reading part 2 - Company Wellness Day
+        </div>
+        <div class="d-md-flex border rounded-md">
+            <div class="w3-large droppable droppable-list flex-2 border-right p-2">
+                <p data-end="496" data-start="336"><strong data-end="494" data-start="336">The sentences below are from a description of a company event. Order the sentences to make a complete text. The first sentence of the story is an example.</strong></p>
+
+<p data-end="563" data-start="498">Our company organized a special wellness day for all employees.</p>
+
+<p data-end="939" data-start="565"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-17 placeholder-visible" type="text" name="Quiz[68c103a4e275cbae5a8b4586][answer][0]" data-index="17" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ The wellness day was held on Friday, promoting work-life balance. ]</label><br data-end="635" data-start="632">
+<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-18 placeholder-visible" type="text" name="Quiz[68c103a4e275cbae5a8b4586][answer][1]" data-index="18" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Over 50 employees participated, with Mr. Nguyen leading a stress-relief workshop. ]</label><br data-end="719" data-start="716">
+<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-19 placeholder-visible" type="text" name="Quiz[68c103a4e275cbae5a8b4586][answer][2]" data-index="19" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Activities included team yoga, time management talks, and a group walk. ]</label><br data-end="790" data-start="787">
+<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-20 placeholder-visible" type="text" name="Quiz[68c103a4e275cbae5a8b4586][answer][3]" data-index="20" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ After the workshops, awards were given for the best wellness idea. ]</label><br data-end="866" data-start="863">
+<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-21 placeholder-visible" type="text" name="Quiz[68c103a4e275cbae5a8b4586][answer][4]" data-index="21" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Employees enjoyed healthy snacks and shared tips for managing stress. ]</label></p>
+            </div>
+            
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p data-end="1167" data-start="965"><em><strong data-end="1035" data-start="965">0. Our company organized a special wellness day for all employees.</strong><br data-end="1038" data-start="1035">
+<strong data-end="1073" data-start="1038">Our company (công ty chúng tôi)</strong> đã tổ chức một <strong data-end="1138" data-start="1089">special wellness day (ngày sức khỏe đặc biệt)</strong> dành cho tất cả nhân viên.</em></p>
+
+<p data-end="1392" data-start="1169"><em><strong data-end="1241" data-start="1169">1. The wellness day was held on Friday, promoting work-life balance.</strong><br data-end="1244" data-start="1241">
+Ngày <strong data-end="1276" data-start="1249">wellness day (sức khỏe)</strong> diễn ra vào <strong data-end="1309" data-start="1289">Friday (thứ Sáu)</strong>, nhằm <strong data-end="1389" data-start="1316">promoting work-life balance (thúc đẩy cân bằng công việc – cuộc sống)</strong>.</em></p>
+
+<p data-end="1624" data-start="1394"><em><strong data-end="1480" data-start="1394">2. Over 50 employees participated, with Mr. Nguyen&nbsp;leading a stress-relief workshop.</strong><br data-end="1483" data-start="1480">
+Hơn <strong data-end="1515" data-start="1487">50 employees (nhân viên)</strong> đã tham gia, trong đó <strong data-end="1550" data-start="1538">Mr. Nguyen</strong>&nbsp;dẫn dắt một <strong data-end="1621" data-start="1563">stress-relief workshop (buổi workshop giảm căng thẳng)</strong>.</em></p>
+
+<p data-end="1869" data-start="1626"><em><strong data-end="1704" data-start="1626">3. Activities included team yoga, time management talks, and a group walk.</strong><br data-end="1707" data-start="1704">
+Các <strong data-end="1737" data-start="1711">activities (hoạt động)</strong> bao gồm <strong data-end="1771" data-start="1746">team yoga (yoga nhóm)</strong>, <strong data-end="1829" data-start="1773">time management talks (chia sẻ về quản lý thời gian)</strong>, và <strong data-end="1866" data-start="1834">a group walk (đi bộ tập thể)</strong>.</em></p>
+
+<p data-end="2083" data-start="1871"><em><strong data-end="1944" data-start="1871">4. After the workshops, awards were given for the best wellness idea.</strong><br data-end="1947" data-start="1944">
+Sau các <strong data-end="1979" data-start="1955">workshops (buổi học)</strong>, công ty đã trao <strong data-end="2021" data-start="1997">awards (giải thưởng)</strong> cho <strong data-end="2080" data-start="2026">the best wellness idea (ý tưởng sức khỏe hay nhất)</strong>.</em></p>
+
+<p data-end="2323" data-start="2085"><em><strong data-end="2161" data-start="2085">5. Employees enjoyed healthy snacks and shared tips for managing stress.</strong><br data-end="2164" data-start="2161">
+Các <strong data-end="2193" data-start="2168">employees (nhân viên)</strong> cùng thưởng thức <strong data-end="2251" data-start="2211">healthy snacks (đồ ăn nhẹ lành mạnh)</strong> và <strong data-end="2320" data-start="2255">shared tips for managing stress (chia sẻ mẹo giảm căng thẳng)</strong>.</em></p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="68c8d9d9e275cbb6228b456f" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 18 of 25</div></div><div class="clearfix"></div>
+<div class="block-quiz-test quiz_drag_drop_word quiz_check_correct mb-4" data-id="68c8d9d9e275cbb6228b456f">
+    <div class="w3-padding w3-light-grey">
+        <input type="hidden" name="Quiz[68c8d9d9e275cbb6228b456f][id]" value="68c8d9d9e275cbb6228b456f">
+        <div class="d-flex">
+            
+        </div>
+        <div class="my-3 font-weight-bold">
+            [Mai Hien key 6.0] - Reading plus - part 2 - Mae’s Journey (The first African American woman in space)
+        </div>
+        <div class="d-md-flex border rounded-md">
+            <div class="w3-large droppable droppable-list flex-2 border-right p-2">
+                <p><b>The sentences below are from some instructions. Put the sentences in the right order. The first sentence is done for you.</b></p>
+
+<p data-end="507" data-start="421">0. Mae’s father was a skilled worker and her mother was a teacher.</p>
+
+<p data-end="567" data-start="509"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-18 placeholder-visible" type="text" name="Quiz[68c8d9d9e275cbb6228b456f][answer][0]" data-index="18" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ With the support of her parents, she went to the university and studied science. ]</label></p>
+
+<p data-end="637" data-start="569"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-19 placeholder-visible" type="text" name="Quiz[68c8d9d9e275cbb6228b456f][answer][1]" data-index="19" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Her degree in this subject enabled her to get a place on a training course in the USA. ]</label></p>
+
+<p data-end="702" data-start="639"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-20 placeholder-visible" type="text" name="Quiz[68c8d9d9e275cbb6228b456f][answer][2]" data-index="20" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ This was about space and it helped Mae to become one of the members of a research team. ]</label></p>
+
+<p data-end="747" data-start="704"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-21 placeholder-visible" type="text" name="Quiz[68c8d9d9e275cbb6228b456f][answer][3]" data-index="21" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ As a part of this group, she travelled to space and did a lot of experiments there. ]</label></p>
+
+<p data-end="822" data-start="749"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-22 placeholder-visible" type="text" name="Quiz[68c8d9d9e275cbb6228b456f][answer][4]" data-index="22" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Some of those were about growing plants and some animals in a spaceship. ]</label></p>
+            </div>
+            
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p data-end="1120" data-start="873"><em><strong data-end="879" data-start="873">0. Cha của Mae là một công nhân lành nghề và mẹ cô là một giáo viên.<br>
+1. Với sự hỗ trợ của cha mẹ, cô đã vào đại học và học ngành khoa học.<br>
+2. Bằng cấp về ngành này đã giúp cô được nhận vào một khóa đào tạo tại Hoa Kỳ.<br>
+3. Khóa học này liên quan đến không gian và giúp Mae trở thành một trong những thành viên của một nhóm nghiên cứu.<br>
+4. Là một thành viên của nhóm này, cô đã du hành vào không gian và thực hiện rất nhiều thí nghiệm ở đó.<br>
+5. Một số thí nghiệm đó liên quan đến việc trồng cây và một số loài động vật trên tàu vũ trụ.</strong></em></p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="68cd6d5fe275cbd52b8b4597" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 19 of 25</div></div><div class="clearfix"></div>
+<div class="block-quiz-test quiz_drag_drop_word quiz_check_correct mb-4" data-id="68cd6d5fe275cbd52b8b4597">
+    <div class="w3-padding w3-light-grey">
+        <input type="hidden" name="Quiz[68cd6d5fe275cbd52b8b4597][id]" value="68cd6d5fe275cbd52b8b4597">
+        <div class="d-flex">
+            
+        </div>
+        <div class="my-3 font-weight-bold">
+            [Mai Hien key 6.0] - Reading plus - part 2 - End of term project
+        </div>
+        <div class="d-md-flex border rounded-md">
+            <div class="w3-large droppable droppable-list flex-2 border-right p-2">
+                <p data-end="303" data-start="172"><strong data-end="303" data-start="172">The sentences below are about an end of term project. Put the sentences in the right order. The first sentence is done for you.</strong></p>
+
+<p data-end="328" data-start="305"><strong data-end="328" data-start="305">End of term project</strong></p>
+
+<ol data-end="402" data-start="330" start="0">
+	<li data-end="402" data-start="330">
+	<p data-end="402" data-start="333">This year we have studied several chapters about the local history.</p>
+	</li>
+</ol>
+
+<p data-end="472" data-start="404"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-19 placeholder-visible" type="text" name="Quiz[68cd6d5fe275cbd52b8b4597][answer][0]" data-index="19" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Your end of term project needs to focus on at least two of them. ]</label></p>
+
+<p data-end="556" data-start="474"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-20 placeholder-visible" type="text" name="Quiz[68cd6d5fe275cbd52b8b4597][answer][1]" data-index="20" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ It has to include relevant pictures and your own written text about the topic. ]</label></p>
+
+<p data-end="659" data-start="558"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-21 placeholder-visible" type="text" name="Quiz[68cd6d5fe275cbd52b8b4597][answer][2]" data-index="21" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ You then have to use these pictures and your written work to create a presentation for the class. ]</label></p>
+
+<p data-end="738" data-start="661"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-22 placeholder-visible" type="text" name="Quiz[68cd6d5fe275cbd52b8b4597][answer][3]" data-index="22" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ This talk will give your key points and it should be around five minutes. ]</label></p>
+
+<p data-end="837" data-start="740"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-23 placeholder-visible" type="text" name="Quiz[68cd6d5fe275cbd52b8b4597][answer][4]" data-index="23" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ After this time, other students will be able to ask some questions and you will answer those. ]</label></p>
+            </div>
+            
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p data-end="1004" data-start="921">0. Năm nay chúng ta đã học nhiều chương về <strong data-end="983" data-start="961">lịch sử địa phương</strong> (<em data-end="1000" data-start="985">local history</em>).</p>
+
+<ol>
+	<li data-end="1144" data-start="1009">Bài <strong data-end="1030" data-start="1013">dự án cuối kỳ</strong> (<em data-end="1053" data-start="1032">end of term project</em>) của bạn cần tập trung vào <strong data-end="1103" data-start="1081">ít nhất hai chương</strong> (<em data-end="1128" data-start="1105">at least two chapters</em>) trong số đó.</li>
+	<li data-end="1294" data-start="1149">Bài dự án phải <strong data-end="1194" data-start="1164">bao gồm hình ảnh liên quan</strong> (<em data-end="1215" data-start="1196">relevant pictures</em>) và phần <strong data-end="1251" data-start="1225">bài viết của riêng bạn</strong> (<em data-end="1276" data-start="1253">your own written text</em>) về chủ đề này.</li>
+	<li data-end="1424" data-start="1299">Sau đó, bạn sẽ <strong data-end="1387" data-start="1314">sử dụng những hình ảnh và bài viết này để tạo ra một bài thuyết trình</strong> (<em data-end="1412" data-start="1389">create a presentation</em>) cho lớp.</li>
+	<li data-end="1552" data-start="1429"><strong data-end="1481" data-start="1429">Bài thuyết trình này sẽ trình bày các điểm chính</strong> (<em data-end="1495" data-start="1483">key points</em>), và nên kéo dài khoảng <strong data-end="1532" data-start="1520">năm phút</strong> (<em data-end="1548" data-start="1534">five minutes</em>).</li>
+	<li data-end="1685" data-is-last-node="" data-start="1557">Sau phần trình bày, <strong data-end="1608" data-start="1577">các bạn khác sẽ đặt câu hỏi</strong> (<em data-end="1630" data-start="1610">ask some questions</em>), và bạn sẽ <strong data-end="1654" data-start="1643">trả lời</strong> (<em data-end="1664" data-start="1656">answer</em>) những câu hỏi đó.</li>
+</ol>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="68c8e12fe275cbc0228b4573" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 20 of 25</div></div><div class="clearfix"></div>
+<div class="block-quiz-test quiz_drag_drop_word quiz_check_correct mb-4" data-id="68c8e12fe275cbc0228b4573">
+    <div class="w3-padding w3-light-grey">
+        <input type="hidden" name="Quiz[68c8e12fe275cbc0228b4573][id]" value="68c8e12fe275cbc0228b4573">
+        <div class="d-flex">
+            
+        </div>
+        <div class="my-3 font-weight-bold">
+            [Mai Hien key 6.0] - Reading plus - part 2 - A Day at the Office (Work day)
+        </div>
+        <div class="d-md-flex border rounded-md">
+            <div class="w3-large droppable droppable-list flex-2 border-right p-2">
+                <p data-end="377" data-start="216">The sentences below are from a short description about office life. Order the sentences to make a complete text. The first sentence of the story is an example.</p>
+
+<p data-end="469" data-start="379"><strong data-end="385" data-start="379">0.</strong> The following description shows how one employee organizes her day at the office.</p>
+
+<p data-end="539" data-start="471"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-20 placeholder-visible" type="text" name="Quiz[68c8e12fe275cbc0228b4573][answer][0]" data-index="20" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ The office has flexible hours to accommodate employee schedules. ]</label></p>
+
+<p data-end="601" data-start="541"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-21 placeholder-visible" type="text" name="Quiz[68c8e12fe275cbc0228b4573][answer][1]" data-index="21" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Her desk is white, standing out in the open-plan office. ]</label></p>
+
+<p data-end="672" data-start="603"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-22 placeholder-visible" type="text" name="Quiz[68c8e12fe275cbc0228b4573][answer][2]" data-index="22" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ She uses a calendar to plan her tasks for the shortened workweek. ]</label></p>
+
+<p data-end="742" data-start="674"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-23 placeholder-visible" type="text" name="Quiz[68c8e12fe275cbc0228b4573][answer][3]" data-index="23" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ For lunch, she packs a homemade sandwich with fresh ingredients. ]</label></p>
+
+<p data-end="817" data-start="744"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-24 placeholder-visible" type="text" name="Quiz[68c8e12fe275cbc0228b4573][answer][4]" data-index="24" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ After work, they relax by reading books on productivity and wellness. ]</label></p>
+            </div>
+            
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p data-end="1113" data-start="868"><strong data-end="874" data-start="868">0.</strong> The following description shows how one employee organizes her day at the office.<br data-end="959" data-start="956">
+→ Mô tả sau đây cho thấy cách <strong data-end="1028" data-start="989">một nhân viên sắp xếp ngày làm việc</strong> của mình tại văn phòng.<br data-end="1055" data-start="1052">
+&nbsp;</p>
+
+<p data-end="1334" data-start="1115"><strong data-end="1121" data-start="1115">1.</strong> The office has flexible hours to accommodate employee schedules.<br data-end="1189" data-start="1186">
+→ Văn phòng có <strong data-end="1230" data-start="1204">giờ làm việc linh hoạt</strong> để phù hợp với <strong data-end="1274" data-start="1246">lịch trình của nhân viên</strong>.<br data-end="1278" data-start="1275">
+&nbsp;</p>
+
+<p data-end="1534" data-start="1336"><strong data-end="1342" data-start="1336">2.</strong> Her desk is white, standing out in the open-plan office.<br data-end="1402" data-start="1399">
+→ <strong data-end="1440" data-start="1404">Bàn làm việc của cô ấy màu trắng</strong>, nổi bật trong <strong data-end="1483" data-start="1456">không gian văn phòng mở</strong>.<br data-end="1487" data-start="1484">
+&nbsp;</p>
+
+<p data-end="1759" data-start="1536"><strong data-end="1542" data-start="1536">3.</strong> She uses a calendar to plan her tasks for the shortened workweek.<br data-end="1611" data-start="1608">
+→ Cô ấy sử dụng <strong data-end="1635" data-start="1627">lịch</strong> để lên kế hoạch cho <strong data-end="1697" data-start="1656">nhiệm vụ trong tuần làm việc ngắn hơn</strong>.<br data-end="1701" data-start="1698">
+&nbsp;</p>
+
+<p data-end="1980" data-start="1761"><strong data-end="1767" data-start="1761">4.</strong> For lunch, she packs a homemade sandwich with fresh ingredients.<br data-end="1835" data-start="1832">
+→ Vào giờ trưa, cô ấy chuẩn bị <strong data-end="1890" data-start="1866">bánh sandwich tự làm</strong> với <strong data-end="1915" data-start="1895">nguyên liệu tươi</strong>.<br data-end="1919" data-start="1916">
+&nbsp;</p>
+
+<p data-end="2205" data-start="1982"><strong data-end="1988" data-start="1982">5.</strong> After work, they relax by reading books on productivity and wellness.<br data-end="2061" data-start="2058">
+→ Sau giờ làm, họ thư giãn bằng cách <strong data-end="2135" data-start="2098">đọc sách về năng suất và sức khỏe</strong>.<br data-end="2139" data-start="2136">
+&nbsp;</p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="68c8e332e275cbb3228b456f" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 21 of 25</div></div><div class="clearfix"></div>
+<div class="block-quiz-test quiz_drag_drop_word quiz_check_correct mb-4" data-id="68c8e332e275cbb3228b456f">
+    <div class="w3-padding w3-light-grey">
+        <input type="hidden" name="Quiz[68c8e332e275cbb3228b456f][id]" value="68c8e332e275cbb3228b456f">
+        <div class="d-flex">
+            
+        </div>
+        <div class="my-3 font-weight-bold">
+            [Mai Hien key 6.0] - Reading plus - part 2 - A Sports Event
+        </div>
+        <div class="d-md-flex border rounded-md">
+            <div class="w3-large droppable droppable-list flex-2 border-right p-2">
+                <h2 data-end="218" data-start="190">The sentences below are from a short description of a sports day. Order the sentences to make a complete text. The first sentence of the story is an example.</h2>
+
+<p>A Sports Event</p>
+
+<p data-end="483" data-start="381"><strong data-end="387" data-start="381">0.</strong> The following passage describes a fun sports event that brought adults and children together.</p>
+
+<p data-end="557" data-start="485"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-21 placeholder-visible" type="text" name="Quiz[68c8e332e275cbb3228b456f][answer][0]" data-index="21" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ It started on Saturday morning, there was a 10-lane race for adults. ]</label></p>
+
+<p data-end="656" data-start="559"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-22 placeholder-visible" type="text" name="Quiz[68c8e332e275cbb3228b456f][answer][1]" data-index="22" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ There were sixty men and women, and among them, Ms. Kamus won the race with the fastest time. ]</label></p>
+
+<p data-end="750" data-start="658"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-23 placeholder-visible" type="text" name="Quiz[68c8e332e275cbb3228b456f][answer][2]" data-index="23" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ After she received the prize, the following time was dedicated to children's activities. ]</label></p>
+
+<p data-end="852" data-start="752"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-24 placeholder-visible" type="text" name="Quiz[68c8e332e275cbb3228b456f][answer][3]" data-index="24" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Activities included football, swimming, skipping rope, and the children played happily together. ]</label></p>
+
+<p data-end="930" data-start="854"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-25 placeholder-visible" type="text" name="Quiz[68c8e332e275cbb3228b456f][answer][4]" data-index="25" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ After playing, the children were very hungry and ate with their parents. ]</label></p>
+            </div>
+            
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p data-end="1239" data-start="981"><strong data-end="987" data-start="981">0.</strong> The following passage describes a fun sports event that brought adults and children together.<br data-end="1084" data-start="1081">
+→ Đoạn văn sau đây miêu tả một <strong data-end="1142" data-start="1115">sự kiện thể thao vui vẻ</strong> gắn kết cả <strong data-end="1177" data-start="1154">người lớn và trẻ em</strong>.<br data-end="1181" data-start="1178">
+&nbsp;</p>
+
+<p data-end="1464" data-start="1241"><strong data-end="1247" data-start="1241">1.</strong> It started on Saturday morning, there was a 10-lane race for adults.<br data-end="1319" data-start="1316">
+→ Sự kiện bắt đầu vào <strong data-end="1357" data-start="1341">sáng thứ Bảy</strong> với một <strong data-end="1404" data-start="1366">cuộc đua 10 làn dành cho người lớn</strong>.<br data-end="1408" data-start="1405">
+&nbsp;</p>
+
+<p data-end="1739" data-start="1466"><strong data-end="1472" data-start="1466">2.</strong> There were sixty men and women, and among them, Ms. Kamus won the race with the fastest time.<br data-end="1569" data-start="1566">
+→ Có <strong data-end="1601" data-start="1574">sáu mươi người tham gia</strong>, và trong số đó <strong data-end="1648" data-start="1618">cô Kamus giành chiến thắng</strong> với thời gian nhanh nhất.<br data-end="1677" data-start="1674">
+&nbsp;</p>
+
+<p data-end="1996" data-start="1741"><strong data-end="1747" data-start="1741">3.</strong> After she received the prize, the following time was dedicated to children's activities.<br data-end="1839" data-start="1836">
+→ Sau khi <strong data-end="1869" data-start="1849">nhận giải thưởng</strong>, thời gian tiếp theo được dành cho <strong data-end="1933" data-start="1905">các hoạt động của trẻ em</strong>.<br data-end="1937" data-start="1934">
+&nbsp;</p>
+
+<p data-end="2287" data-start="1998"><strong data-end="2004" data-start="1998">4.</strong> Activities included football, swimming, skipping rope, and the children played happily together.<br data-end="2104" data-start="2101">
+→ Các hoạt động bao gồm <strong data-end="2158" data-start="2128">bóng đá, bơi lội, nhảy dây</strong>, và trẻ em đã <strong data-end="2202" data-start="2173">chơi đùa vui vẻ cùng nhau</strong>.<br data-end="2206" data-start="2203">
+&nbsp;</p>
+
+<p data-end="2494" data-start="2289"><strong data-end="2295" data-start="2289">5.</strong> After playing, the children were very hungry and ate with their parents.<br data-end="2371" data-start="2368">
+→ Sau khi chơi, <strong data-end="2405" data-start="2387">trẻ em rất đói</strong> và đã cùng <strong data-end="2433" data-start="2417">ăn với bố mẹ</strong>.<br data-end="2437" data-start="2434">
+&nbsp;</p>
+
+<p data-end="2494" data-start="2289"><strong>Ace lưu ý: Phần này đi thi nội dung sẽ tương tự nhưng câu từ khác đi, ae chú ý đọc bài nhé!</strong></p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="68e130a8e275cbcba58b4579" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 22 of 25</div></div><div class="clearfix"></div>
+<div class="block-quiz-test quiz_drag_drop_word quiz_check_correct mb-4" data-id="68e130a8e275cbcba58b4579">
+    <div class="w3-padding w3-light-grey">
+        <input type="hidden" name="Quiz[68e130a8e275cbcba58b4579][id]" value="68e130a8e275cbcba58b4579">
+        <div class="d-flex">
+            
+        </div>
+        <div class="my-3 font-weight-bold">
+            [Mai Hien key 6.0] - Reading plus - part 2 - Startup Showcase
+        </div>
+        <div class="d-md-flex border rounded-md">
+            <div class="w3-large droppable droppable-list flex-2 border-right p-2">
+                <p><strong>The sentences below are from some instructions. Put the sentences in the right order.</strong></p>
+
+<h3 data-end="244" data-start="220"><strong data-end="244" data-start="224">Startup Showcase</strong></h3>
+
+<ol data-end="760" data-start="246" start="0">
+	<li data-end="760" data-start="246">
+	<p data-end="760" data-start="249">This weekend, our university hosted a startup showcase to celebrate creativity and innovation among young entrepreneurs.<br data-end="372" data-start="369">
+	<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-22 placeholder-visible" type="text" name="Quiz[68e130a8e275cbcba58b4579][answer][0]" data-index="22" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ The startup showcase was held on Saturday, highlighting innovative apps. ]</label><br data-end="449" data-start="446">
+	<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-23 placeholder-visible" type="text" name="Quiz[68e130a8e275cbcba58b4579][answer][1]" data-index="23" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Over 55 entrepreneurs participated, with Ms. Vo pitching a health-tech app. ]</label><br data-end="529" data-start="526">
+	<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-24 placeholder-visible" type="text" name="Quiz[68e130a8e275cbcba58b4579][answer][2]" data-index="24" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Activities included live app demos, coding sprints, and investor Q&amp;A sessions. ]</label><br data-end="612" data-start="609">
+	<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-25 placeholder-visible" type="text" name="Quiz[68e130a8e275cbcba58b4579][answer][3]" data-index="25" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ After the pitches, awards were given for the most impactful innovation. ]</label><br data-end="688" data-start="685">
+	<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-26 placeholder-visible" type="text" name="Quiz[68e130a8e275cbcba58b4579][answer][4]" data-index="26" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Attendees networked over smoothies, brainstorming future partnerships. ]</label></p>
+	</li>
+</ol>
+            </div>
+            
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p>0. Cuối tuần này, trường đại học của chúng tôi tổ chức <strong data-end="887" data-start="843">triển lãm khởi nghiệp (startup showcase)</strong> nhằm tôn vinh <strong data-end="930" data-start="902">sự sáng tạo (creativity)</strong> và <strong data-end="958" data-start="934">đổi mới (innovation)</strong> của các <strong data-end="1007" data-start="967">doanh nhân trẻ (young entrepreneurs)</strong>.</p>
+
+<ol>
+	<li>&nbsp;<strong data-end="1059" data-start="1015">Triển lãm khởi nghiệp (startup showcase)</strong> được tổ chức vào thứ Bảy, giới thiệu các <strong data-end="1140" data-start="1101">ứng dụng sáng tạo (innovative apps)</strong>.</li>
+	<li>&nbsp;Hơn 55 <strong data-end="1185" data-start="1155">doanh nhân (entrepreneurs)</strong> tham gia, trong đó cô Võ giới thiệu một <strong data-end="1275" data-start="1226">ứng dụng công nghệ sức khỏe (health-tech app)</strong>.</li>
+	<li>&nbsp;Các hoạt động bao gồm <strong data-end="1350" data-start="1305">trình diễn ứng dụng trực tiếp (app demos)</strong>, <strong data-end="1388" data-start="1352">lập trình nhanh (coding sprints)</strong> và <strong data-end="1439" data-start="1392">phiên hỏi đáp với nhà đầu tư (Q&amp;A sessions)</strong>.</li>
+	<li>&nbsp;Sau các <strong data-end="1486" data-start="1455">phần thuyết trình (pitches)</strong>, giải thưởng được trao cho <strong data-end="1556" data-start="1514">đổi mới có ảnh hưởng nhất (innovation)</strong>.</li>
+	<li>&nbsp;Những người tham dự cùng <strong data-end="1621" data-start="1589">giao lưu kết nối (networked)</strong> khi thưởng thức sinh tố, cùng nhau lên ý tưởng cho các <strong data-end="1713" data-start="1677">hợp tác tương lai (partnerships)</strong>.</li>
+</ol>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="68cebcffe275cb83768b4590" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 23 of 25</div></div><div class="clearfix"></div>
+<div class="block-quiz-test quiz_drag_drop_word quiz_check_correct mb-4" data-id="68cebcffe275cb83768b4590">
+    <div class="w3-padding w3-light-grey">
+        <input type="hidden" name="Quiz[68cebcffe275cb83768b4590][id]" value="68cebcffe275cb83768b4590">
+        <div class="d-flex">
+            
+        </div>
+        <div class="my-3 font-weight-bold">
+            [Mai Hien key 6.0] - Reading plus - part 2 - Music festivals
+        </div>
+        <div class="d-md-flex border rounded-md">
+            <div class="w3-large droppable droppable-list flex-2 border-right p-2">
+                <p><strong>The sentences below are from some instructions. Put the sentences in the right order.</strong></p>
+
+<p data-end="215" data-start="158"><strong>Music festival</strong></p>
+
+<p data-end="215" data-start="158">0. Last Saturday, a live music show was held in town park.</p>
+
+<p data-end="282" data-start="217"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-23 placeholder-visible" type="text" name="Quiz[68cebcffe275cb83768b4590][answer][0]" data-index="23" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ The local government planned, funded and paid for everything. ]</label></p>
+
+<p data-end="341" data-start="284"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-24 placeholder-visible" type="text" name="Quiz[68cebcffe275cb83768b4590][answer][1]" data-index="24" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Because it was free, more than 5,000 people attended. ]</label></p>
+
+<p data-end="416" data-start="343"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-25 placeholder-visible" type="text" name="Quiz[68cebcffe275cb83768b4590][answer][2]" data-index="25" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ People came early and sat in nearby shops waiting for the start time. ]</label></p>
+
+<p data-end="499" data-start="418"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-26 placeholder-visible" type="text" name="Quiz[68cebcffe275cb83768b4590][answer][3]" data-index="26" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ The staff were very busy but still closed the shop early to watch the singer. ]</label></p>
+
+<p data-end="562" data-start="501"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-27 placeholder-visible" type="text" name="Quiz[68cebcffe275cb83768b4590][answer][4]" data-index="27" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ The singer performed for 2 hours, everyone had great fun. ]</label></p>
+            </div>
+            
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p><strong>Lễ hội âm nhạc</strong></p>
+
+<ol data-end="698" data-start="589" start="0">
+	<li data-end="698" data-start="589">
+	<p data-end="698" data-start="592"><strong data-end="614" data-start="592">Thứ Bảy tuần trước</strong>, một buổi biểu diễn nhạc sống đã được tổ chức tại công viên thị trấn.</p>
+	</li>
+	<li data-end="1010" data-start="910">
+	<p data-end="1010" data-start="913"><strong data-end="939" data-start="913">Chính quyền địa phương</strong> đã <strong data-end="979" data-start="943">lên kế hoạch, tài trợ và chi trả</strong> mọi chi phí cho sự kiện này.</p>
+	</li>
+	<li data-end="1068" data-start="1011">
+	<p data-end="1068" data-start="1014">Vì <strong data-end="1029" data-start="1017">miễn phí</strong>, nên có hơn <strong data-end="1065" data-start="1042">5.000 người tham dự</strong>.</p>
+	</li>
+	<li data-end="1149" data-start="1069">
+	<p data-end="1149" data-start="1072">Mọi người đến sớm và <strong data-end="1123" data-start="1093">ngồi ở các cửa hàng gần đó</strong> để chờ đến giờ bắt đầu.</p>
+	</li>
+	<li data-end="1234" data-start="1150">
+	<p data-end="1234" data-start="1153">Nhân viên dù rất <strong data-end="1181" data-start="1170">bận rộn</strong> nhưng vẫn <strong data-end="1208" data-start="1192">đóng cửa sớm</strong> để xem ca sĩ biểu diễn.</p>
+	</li>
+	<li data-end="1303" data-is-last-node="" data-start="1235">
+	<p data-end="1303" data-is-last-node="" data-start="1238">Ca sĩ <strong data-end="1257" data-start="1244">biểu diễn</strong> trong <strong data-end="1273" data-start="1264">2 giờ</strong>, và mọi người đều rất vui vẻ.</p>
+	</li>
+</ol>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="68d0ddcce275cb0f448b4581" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 24 of 25</div></div><div class="clearfix"></div>
+<div class="block-quiz-test quiz_drag_drop_word quiz_check_correct mb-4" data-id="68d0ddcce275cb0f448b4581">
+    <div class="w3-padding w3-light-grey">
+        <input type="hidden" name="Quiz[68d0ddcce275cb0f448b4581][id]" value="68d0ddcce275cb0f448b4581">
+        <div class="d-flex">
+            
+        </div>
+        <div class="my-3 font-weight-bold">
+            [Mai Hien key 6.0] - Reading plus - part 2 - Music festivals (another version)
+        </div>
+        <div class="d-md-flex border rounded-md">
+            <div class="w3-large droppable droppable-list flex-2 border-right p-2">
+                <p><strong>The sentences below are from some instructions. Put the sentences in the right order.</strong></p>
+
+<p data-end="484" data-start="387"><strong data-end="393" data-start="387">0.</strong> Last Saturday the town hosted a major music event that drew people from across the region.</p>
+
+<p data-end="1033" data-start="486"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-24 placeholder-visible" type="text" name="Quiz[68d0ddcce275cb0f448b4581][answer][0]" data-index="24" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ The event was carefully planned, fully financed, and strongly supported by the local authorities. ]</label><br data-end="588" data-start="585">
+<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-25 placeholder-visible" type="text" name="Quiz[68d0ddcce275cb0f448b4581][answer][1]" data-index="25" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ As a result, entry was completely free, and nearly five thousand people attended. ]</label><br data-end="674" data-start="671">
+<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-26 placeholder-visible" type="text" name="Quiz[68d0ddcce275cb0f448b4581][answer][2]" data-index="26" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Many visitors came early and spent time browsing the local shops before the program officially started. ]</label><br data-end="782" data-start="779">
+<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-27 placeholder-visible" type="text" name="Quiz[68d0ddcce275cb0f448b4581][answer][3]" data-index="27" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Even though it was a very busy day, workers managed to finish everything ahead of schedule and then watched the famous singer perform. ]</label><br data-end="921" data-start="918">
+<input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-28 placeholder-visible" type="text" name="Quiz[68d0ddcce275cb0f448b4581][answer][4]" data-index="28" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ The two-hour performance truly thrilled the audience, leaving everyone in high spirits and full of excitement. ]</label></p>
+            </div>
+            
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p><em>0. Thứ Bảy tuần trước, thị trấn đã tổ chức một sự kiện âm nhạc lớn thu hút người dân từ khắp nơi trong khu vực.</em></p>
+
+<p><em>1. Sự kiện đã được lên kế hoạch kỹ lưỡng, tài trợ đầy đủ và được chính quyền địa phương hỗ trợ mạnh mẽ.<br>
+2. Do đó, vé vào cửa hoàn toàn miễn phí và có gần năm nghìn người tham dự.<br>
+3. Nhiều du khách đã đến sớm và dành thời gian dạo quanh các cửa hàng địa phương trước khi chương trình chính thức bắt đầu.<br>
+4. Mặc dù hôm đó rất bận rộn, các công nhân vẫn cố gắng hoàn thành mọi việc sớm hơn dự kiến &ZeroWidthSpace;&ZeroWidthSpace;và sau đó được xem nam ca sĩ nổi tiếng biểu diễn.<br>
+5. Buổi biểu diễn kéo dài hai giờ thực sự đã khiến khán giả phấn khích, khiến mọi người phấn khởi và tràn đầy hứng khởi.</em></p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="68d8c817e275cb74488b4583" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 25 of 25</div></div><div class="clearfix"></div>
+<div class="block-quiz-test quiz_drag_drop_word quiz_check_correct mb-4" data-id="68d8c817e275cb74488b4583">
+    <div class="w3-padding w3-light-grey">
+        <input type="hidden" name="Quiz[68d8c817e275cb74488b4583][id]" value="68d8c817e275cb74488b4583">
+        <div class="d-flex">
+            
+        </div>
+        <div class="my-3 font-weight-bold">
+            [Mai Hien key 6.0] - Reading plus - part 2 - University welcome day (Visit to a University)
+        </div>
+        <div class="d-md-flex border rounded-md">
+            <div class="w3-large droppable droppable-list flex-2 border-right p-2">
+                <h3 data-end="358" data-start="305"><strong>The sentences below are from some instructions. Put the sentences in the right order.</strong></h3>
+
+<h3 data-end="358" data-start="305">University Welcome Day</h3>
+
+<p data-end="457" data-start="363">0. The event took place on <strong data-end="399" data-start="387">Saturday</strong>, and many new students joined the welcoming activities.</p>
+
+<p data-end="556" data-start="462"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-25 placeholder-visible" type="text" name="Quiz[68d8c817e275cb74488b4583][answer][0]" data-index="25" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ The event starts at 10 a.m. with a short presentation in the main hall. ]</label></p>
+
+<p data-end="251" data-start="167"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-26 placeholder-visible" type="text" name="Quiz[68d8c817e275cb74488b4583][answer][1]" data-index="26" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ At the end of the talk, you will meet the head of the department and the teachers. ]</label></p>
+
+<p data-end="311" data-start="255"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-27 placeholder-visible" type="text" name="Quiz[68d8c817e275cb74488b4583][answer][2]" data-index="27" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ These staff members will then give you a guided tour of the building. ]</label></p>
+
+<p data-end="388" data-start="315"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-28 placeholder-visible" type="text" name="Quiz[68d8c817e275cb74488b4583][answer][3]" data-index="28" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ You are required to stay with the other students until the lunch break. ]</label></p>
+
+<p data-end="451" data-start="392"><input autocomplete="off" class="input_answer_quiz_fill_words scroll-page-29 placeholder-visible" type="text" name="Quiz[68d8c817e275cb74488b4583][answer][4]" data-index="29" value="" placeholder="" readonly="readonly" size="1" style="pointer-events: unset;"><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Lunch meal will be served on the second floor of the building. ]</label></p>
+            </div>
+            
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p data-end="288" data-start="101">0. The event took place on Saturday, and many new students joined the welcoming activities.<br data-end="192" data-start="189">
+<em>→ Sự kiện diễn ra vào ngày thứ Bảy, và nhiều sinh viên mới đã tham gia các hoạt động chào đón.</em></p>
+
+<p data-end="453" data-start="293">1. The event starts at 10 a.m. with a short presentation in the main hall.<br data-end="367" data-start="364">
+<em>→ Sự kiện bắt đầu lúc 10 giờ sáng với một buổi giới thiệu ngắn tại hội trường chính.</em></p>
+
+<p data-end="618" data-start="458">2. At the end of the talk, you will meet the head of the department and the teachers.<br data-end="543" data-start="540">
+<em>→ Khi buổi nói chuyện kết thúc, bạn sẽ gặp trưởng khoa và các giảng viên.</em></p>
+
+<p data-end="760" data-start="623">3. These staff members will then give you a guided tour of the building.<br data-end="695" data-start="692">
+<em>→ Sau đó, các nhân viên này sẽ hướng dẫn bạn tham quan tòa nhà.</em></p>
+
+<p data-end="908" data-start="765">4. You are required to stay with the other students until the lunch break.<br data-end="839" data-start="836">
+<em>→ Bạn được yêu cầu ở cùng các sinh viên khác cho đến giờ nghỉ trưa.</em></p>
+
+<p data-end="1032" data-start="913">5. Lunch meal will be served on the second floor of the building.<br data-end="978" data-start="975">
+<em>→ Bữa trưa sẽ được phục vụ tại tầng hai của tòa nhà.</em></p>
+    </div>
+</div>
+</div></div></form>

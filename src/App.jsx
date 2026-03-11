@@ -1,7 +1,11 @@
 import { Navigate, Route, Routes } from "react-router-dom";
 import HomePage from "./pages/HomePage";
 import ListeningPage from "./pages/ListeningPage";
+import ListeningPartPage from "./pages/ListeningPartPage";
+import ListeningPartsPage from "./pages/ListeningPartsPage";
 import ReadingPage from "./pages/ReadingPage";
+import ReadingPartPage from "./pages/ReadingPartPage";
+import ReadingPartsPage from "./pages/ReadingPartsPage";
 import ReadingTest1Page from "./pages/ReadingTest1Page";
 import ReadingTest2Page from "./pages/ReadingTest2Page";
 import ReadingTest3Page from "./pages/ReadingTest3Page";
@@ -40,6 +44,8 @@ export default function App() {
     <Routes>
       <Route path="/" element={<HomePage />} />
       <Route path="/listening" element={<ListeningPage />} />
+      <Route path="/listening-parts" element={<ListeningPartsPage />} />
+      <Route path="/listening-parts/:partId" element={<ListeningPartPage />} />
       <Route path="/listening/test-1" element={<ListeningTest1Page />} />
       <Route path="/listening/test-2" element={<ListeningTest2Page />} />
       <Route path="/listening/test-3" element={<ListeningTest3Page />} />
@@ -58,6 +64,8 @@ export default function App() {
       <Route path="/listening/:testId" element={<ListeningTestPlaceholderPage />} />
       <Route path="/listening1-13" element={<ListeningTestPage />} />
       <Route path="/reading" element={<ReadingPage />} />
+      <Route path="/reading-parts" element={<ReadingPartsPage />} />
+      <Route path="/reading-parts/:partId" element={<ReadingPartPage />} />
       <Route path="/reading/test-1" element={<ReadingTest1Page />} />
       <Route path="/reading/test-2" element={<ReadingTest2Page />} />
       <Route path="/reading/test-3" element={<ReadingTest3Page />} />

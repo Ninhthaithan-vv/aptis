@@ -1,7 +1,9 @@
-const optionEntries = ["A", "B", "C"];
-
 function getAnswerKey(questionId, itemId = "main") {
   return `${questionId}:${itemId}`;
+}
+
+function getOptionEntries(question) {
+  return Object.keys(question.options || {});
 }
 
 function getQuestionTotal(question) {
@@ -14,11 +16,17 @@ function getQuestionTotal(question) {
 
 function getQuestionScore(question, answers) {
   if (question.type === "single_choice") {
+    if (!question.correctAnswer) {
+      return 0;
+    }
     return answers[getAnswerKey(question.id)] === question.correctAnswer ? 1 : 0;
   }
 
   return question.items.reduce((total, item) => {
     const answerKey = getAnswerKey(question.id, item.id);
+    if (!item.correctAnswer) {
+      return total;
+    }
     return total + (answers[answerKey] === item.correctAnswer ? 1 : 0);
   }, 0);
 }
@@ -52,7 +60,9 @@ function renderNote(note) {
 function SingleChoiceQuestion({ question, answers, onAnswerChange, submitted }) {
   const answerKey = getAnswerKey(question.id);
   const selectedAnswer = answers[answerKey];
-  const isCorrect = submitted && selectedAnswer === question.correctAnswer;
+  const hasCorrectAnswer = Boolean(question.correctAnswer);
+  const isCorrect = submitted && hasCorrectAnswer && selectedAnswer === question.correctAnswer;
+  const optionEntries = getOptionEntries(question);
 
   return (
     <>
@@ -88,7 +98,7 @@ function SingleChoiceQuestion({ question, answers, onAnswerChange, submitted }) 
         })}
       </div>
 
-      {submitted ? (
+      {submitted && hasCorrectAnswer ? (
         <>
           <div className={`question-card__result ${isCorrect ? "is-correct" : "is-wrong"}`}>
             <strong>Correct answer: {question.correctAnswer}</strong>
@@ -120,9 +130,13 @@ function MatchingQuestion({ question, answers, onAnswerChange, submitted }) {
         {question.items.map((item) => {
           const answerKey = getAnswerKey(question.id, item.id);
           const selectedAnswer = answers[answerKey] || "";
-          const isCorrect = submitted && selectedAnswer === item.correctAnswer;
+          const hasCorrectAnswer = Boolean(item.correctAnswer);
+          const isCorrect = submitted && hasCorrectAnswer && selectedAnswer === item.correctAnswer;
           const isWrong =
-            submitted && selectedAnswer && selectedAnswer !== item.correctAnswer;
+            submitted &&
+            hasCorrectAnswer &&
+            selectedAnswer &&
+            selectedAnswer !== item.correctAnswer;
 
           return (
             <div key={item.id} className="matching-item">
@@ -143,7 +157,7 @@ function MatchingQuestion({ question, answers, onAnswerChange, submitted }) {
                 ))}
               </select>
 
-              {submitted ? (
+              {submitted && hasCorrectAnswer ? (
                 <>
                   <div
                     className={`question-card__result ${
@@ -187,7 +201,9 @@ function GroupedQuestion({ question, answers, onAnswerChange, submitted }) {
         {question.items.map((item, itemIndex) => {
           const answerKey = getAnswerKey(question.id, item.id);
           const selectedAnswer = answers[answerKey];
-          const isCorrect = submitted && selectedAnswer === item.correctAnswer;
+          const hasCorrectAnswer = Boolean(item.correctAnswer);
+          const isCorrect = submitted && hasCorrectAnswer && selectedAnswer === item.correctAnswer;
+          const optionEntries = getOptionEntries(item);
 
           return (
             <section key={item.id} className="grouped-question-item">
@@ -197,9 +213,10 @@ function GroupedQuestion({ question, answers, onAnswerChange, submitted }) {
               <div className="question-card__options">
                 {optionEntries.map((optionKey) => {
                   const isSelected = selectedAnswer === optionKey;
-                  const shouldMarkCorrect = submitted && item.correctAnswer === optionKey;
+                  const shouldMarkCorrect =
+                    submitted && hasCorrectAnswer && item.correctAnswer === optionKey;
                   const shouldMarkWrong =
-                    submitted && isSelected && item.correctAnswer !== optionKey;
+                    submitted && hasCorrectAnswer && isSelected && item.correctAnswer !== optionKey;
 
                   return (
                     <label
@@ -225,7 +242,7 @@ function GroupedQuestion({ question, answers, onAnswerChange, submitted }) {
                 })}
               </div>
 
-              {submitted ? (
+              {submitted && hasCorrectAnswer ? (
                 <>
                   <div
                     className={`question-card__result ${

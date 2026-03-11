@@ -1,0 +1,1942 @@
+<form id="form-save-test" class="skill-content container">
+        <div class="skill-instruction" style="display: none;">
+            <p><span style="font-size:18px;"></span><em><span style="font-size:12pt"><span style="background:white"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="color:#c00000"><span style="font-size:14.0pt"><span new="" roman="" style="font-family:" times=""><span style="color:#081b3a"></span></span></span><span style="font-size:14.0pt"><span new="" roman="" style="font-family:" times=""><span style="color:#081b3a"><span style="letter-spacing:.15pt"></span></span></span></span></span></span></span></span></span></em>Đây là các câu hỏi mới cập nhật, đã có cả video transcrip, giải thích,... chỉ có tại Mai Hien Aptis ESOL, mến chúc các bạn học tốt nhé!</p>
+
+<p>Thân mến,</p>
+
+<p>Dr. Lam</p>
+
+<p align="right" style="text-align:right"><em><span style="font-size:12pt"><span style="background:white"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="color:#c00000"><span style="font-size:14.0pt"><span new="" roman="" style="font-family:" times=""><span style="color:#081b3a"><span style="letter-spacing:.15pt"></span></span></span></span></span></span></span></span></span></em></p>
+
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><span style="color:#c00000"></span></span></span></span></p>
+
+<p><span style="font-size:18px;"></span></p>
+        </div>
+    <div class="question-item" data-id="690616f2e275cb4a948b4580" style="display: none;"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">listening</span><div>Question 1 of 15</div></div><div class="clearfix"></div>
+<div class="block-quiz-test" data-id="690616f2e275cb4a948b4580">
+    <div class="title-quiz-choice my-3">
+        <div class="font-weight-600">[Mai Hien key 6.0] - Listening part 4 - A Break from Studying</div>
+        <div><p><strong data-end="356" data-start="258">Listen to a student talking about taking a break from studying and answer the questions below.</strong></p>
+
+<p style="text-align: center;"><iframe allowfullscreen="true" frameborder="0" src="https://file.unica.vn/embed/459198" style="width: 480px; height: 270px;" loading="lazy"></iframe></p></div>
+    </div>
+    <input type="hidden" name="Quiz[690616f2e275cb4a948b4580][id]" value="690616f2e275cb4a948b4580">
+    
+    <div class="clearfix"></div>
+    <div class="read_and_answer-child mt-3">
+                <div class="clearfix"></div>
+        <div class="w3-padding w3-light-grey question-item-child mb-3" data-id="690616f2e275cb4a948b4580-0">
+            <div class="d-flex">
+                
+            </div>
+            <div class="title-quiz-choice my-3">
+                <div><p>Why hasn’t he gone to college?</p></div>
+            </div>
+            <div class="answer-quiz-choice px-2">
+                                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">A</b>
+                            <input type="radio" name="Quiz[690616f2e275cb4a948b4580][answer][0]" value="0">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p>He couldn’t afford the tuition fees.</p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text-correct text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">B</b>
+                            <input type="radio" name="Quiz[690616f2e275cb4a948b4580][answer][0]" value="1">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p>He wasn’t ready to start higher education.</p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">C</b>
+                            <input type="radio" name="Quiz[690616f2e275cb4a948b4580][answer][0]" value="2">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p>He didn’t get good enough grades.</p>
+                        </div>
+                    </label>
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="clearfix"></div>
+        <div class="w3-padding w3-light-grey question-item-child mb-3" data-id="690616f2e275cb4a948b4580-1">
+            <div class="d-flex">
+                
+            </div>
+            <div class="title-quiz-choice my-3">
+                <div><p>Why did he decide to travel for two years?</p></div>
+            </div>
+            <div class="answer-quiz-choice px-2">
+                                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text-correct text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">A</b>
+                            <input type="radio" name="Quiz[690616f2e275cb4a948b4580][answer][1]" value="0">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p>To gain life experience and become independent.</p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">B</b>
+                            <input type="radio" name="Quiz[690616f2e275cb4a948b4580][answer][1]" value="1">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p>To avoid studying.</p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">C</b>
+                            <input type="radio" name="Quiz[690616f2e275cb4a948b4580][answer][1]" value="2">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p>To travel for fun only.</p>
+                        </div>
+                    </label>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p style="margin-bottom:13px"><strong>A Break from Studying <em>(Lập kế hoạch để thành công)</em></strong></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b>Question 1: Why hasn’t he gone to college? </b><em>(Tại sao anh ấy chưa đi học đại học?)</em><br>
+<b><span emoji="" segoe="" style="font-family:" ui="">🟩</span></b><b> Đáp án đúng: A. He wasn’t ready to start higher education.<br>
+Giải thích: Anh ấy nói rõ rằng mình chưa sẵn sàng bước vào học đại học ngay sau trung học.</b><br>
+<b><span emoji="" segoe="" style="font-family:" ui="">📘</span></b><b> Trích dẫn: “I wasn’t ready to start higher education right away.”<br>
+<i>(Tôi chưa sẵn sàng để bắt đầu học đại học ngay lập tức.)</i></b></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b>Question 2: Why did he decide to travel for two years?</b><em>(Tại sao anh ấy quyết định đi du lịch trong hai năm?)</em><br>
+<b><span emoji="" segoe="" style="font-family:" ui="">🟩</span></b><b> Đáp án đúng: A. To be more independent.<br>
+Giải thích: Anh ấy nhấn mạnh rằng việc đi du lịch giúp mình trưởng thành và độc lập hơn.</b><br>
+<b><span emoji="" segoe="" style="font-family:" ui="">📘</span></b><b> Trích dẫn: “That’s why I can say it really helped me become more independent and confident.”<br>
+<i>(Đó là lý do tôi có thể nói rằng chuyến đi này giúp tôi độc lập và tự tin hơn.)</i></b></span></span></span></p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="690a15efe275cbcdb98b4572" style="display: none;"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">listening</span><div>Question 2 of 15</div></div><div class="clearfix"></div>
+<div class="block-quiz-test" data-id="690a15efe275cbcdb98b4572">
+    <div class="title-quiz-choice my-3">
+        <div class="font-weight-600">Listening Part 4 – Advice for Travelers</div>
+        <div><p style="margin-bottom:13px"><strong><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">A travel expert is giving advice to people who are preparing for an international trip.</span></span></span></span></strong></p>
+
+<p style="margin-bottom: 13px; text-align: center;"><iframe allowfullscreen="true" frameborder="0" src="https://file.unica.vn/embed/459191" style="width: 480px; height: 270px;" loading="lazy"></iframe></p></div>
+    </div>
+    <input type="hidden" name="Quiz[690a15efe275cbcdb98b4572][id]" value="690a15efe275cbcdb98b4572">
+    
+    <div class="clearfix"></div>
+    <div class="read_and_answer-child mt-3">
+                <div class="clearfix"></div>
+        <div class="w3-padding w3-light-grey question-item-child mb-3" data-id="690a15efe275cbcdb98b4572-0">
+            <div class="d-flex">
+                
+            </div>
+            <div class="title-quiz-choice my-3">
+                <div><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">What is the speaker’s advice</span></b><span new="" roman="" style="font-family:" times=""></span></span></span></span></p></div>
+            </div>
+            <div class="answer-quiz-choice px-2">
+                                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text-correct text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">A</b>
+                            <input type="radio" name="Quiz[690a15efe275cbcdb98b4572][answer][0]" value="0">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">Be well informed of the places you are going to visit&nbsp;</span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">B</b>
+                            <input type="radio" name="Quiz[690a15efe275cbcdb98b4572][answer][0]" value="1">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">Always travel with a group</span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">C</b>
+                            <input type="radio" name="Quiz[690a15efe275cbcdb98b4572][answer][0]" value="2">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">Visit as many countries as possible</span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="clearfix"></div>
+        <div class="w3-padding w3-light-grey question-item-child mb-3" data-id="690a15efe275cbcdb98b4572-1">
+            <div class="d-flex">
+                
+            </div>
+            <div class="title-quiz-choice my-3">
+                <div><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">What is the speaker’s advice in general?</span></b></span></span></span></p></div>
+            </div>
+            <div class="answer-quiz-choice px-2">
+                                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">A</b>
+                            <input type="radio" name="Quiz[690a15efe275cbcdb98b4572][answer][1]" value="0">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">Avoid unfamiliar customs</span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">B</b>
+                            <input type="radio" name="Quiz[690a15efe275cbcdb98b4572][answer][1]" value="1">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">Focus only on famous landmarks</span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text-correct text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">C</b>
+                            <input type="radio" name="Quiz[690a15efe275cbcdb98b4572][answer][1]" value="2">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">Knowing the people and cultures in the different countries</span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p style="margin-bottom:13px"><strong><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">A travel expert is giving advice to people who are preparing for an international trip. </span></span></span></span><em><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">(</span></span></span></span>Một chuyên gia du lịch đang đưa ra lời khuyên cho những người đang chuẩn bị cho một chuyến đi quốc tế<span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">)</span></span></span></span></em></strong></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">Question 1: What is the speaker’s advice? </span></b><em><span new="" roman="" style="font-family:" times="">(</span>Lời khuyên của chuyên gia&nbsp;là gì?<span new="" roman="" style="font-family:" times="">)</span></em><span new="" roman="" style="font-family:" times=""></span><br>
+<span emoji="" segoe="" style="font-family:" ui="">🟩</span><span new="" roman="" style="font-family:" times=""> <b>Đáp án đúng: A. Be well informed of the places you are going to visit.</b><br>
+<b>Giải thích:</b> Diễn giả nhấn mạnh tầm quan trọng của việc tìm hiểu trước về nơi sẽ đến, từ phong tục đến văn hóa địa phương.</span><br>
+<span emoji="" segoe="" style="font-family:" ui="">📘</span><span new="" roman="" style="font-family:" times=""> <b>Trích dẫn:</b> “Before going anywhere, you should be well informed of the places you are going to visit.”<br>
+<i>(Trước khi đi bất cứ đâu, bạn nên hiểu rõ về nơi mình sắp đến.)</i></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">Question 2: What is the speaker’s advice in general? </span></b><em><span new="" roman="" style="font-family:" times="">(</span>Nhìn chung, lời khuyên của chuyên gia&nbsp;là gì?<span new="" roman="" style="font-family:" times="">)</span></em><span new="" roman="" style="font-family:" times=""></span><br>
+<span emoji="" segoe="" style="font-family:" ui="">🟩</span><span new="" roman="" style="font-family:" times=""> <b>Đáp án đúng: C. Knowing the people and cultures in the different countries.</b><br>
+<b>Giải thích:</b> Lời khuyên tổng thể của diễn giả là nên tìm hiểu, thấu hiểu con người và văn hóa ở các quốc gia khác nhau.</span><br>
+<span emoji="" segoe="" style="font-family:" ui="">📘</span><span new="" roman="" style="font-family:" times=""> <b>Trích dẫn:</b> “Knowing the people and cultures in different countries helps you become more open-minded and empathetic.”<br>
+<i>(Hiểu biết về con người và văn hóa của các quốc gia khác nhau giúp bạn cởi mở và đồng cảm hơn.)</i></span></span></span></span><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-US" new="" roman="" style="font-family:" times=""></span></span></span></span></p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="690a155ce275cbea8f8b458b" style="display: none;"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">listening</span><div>Question 3 of 15</div></div><div class="clearfix"></div>
+<div class="block-quiz-test" data-id="690a155ce275cbea8f8b458b">
+    <div class="title-quiz-choice my-3">
+        <div class="font-weight-600">Listening Part 4 – A Nutritionist’s Career Path (Con đường sự nghiệp của một chuyên gia dinh dưỡng)</div>
+        <div><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">A journalist is interviewing a nutritionist about her professional journey.</span></b></span></span></span></p>
+
+<p style="margin-bottom: 13px; text-align: center;"><iframe allowfullscreen="true" frameborder="0" src="https://file.unica.vn/embed/459007" style="width: 480px; height: 270px;" loading="lazy"></iframe></p></div>
+    </div>
+    <input type="hidden" name="Quiz[690a155ce275cbea8f8b458b][id]" value="690a155ce275cbea8f8b458b">
+    
+    <div class="clearfix"></div>
+    <div class="read_and_answer-child mt-3">
+                <div class="clearfix"></div>
+        <div class="w3-padding w3-light-grey question-item-child mb-3" data-id="690a155ce275cbea8f8b458b-0">
+            <div class="d-flex">
+                
+            </div>
+            <div class="title-quiz-choice my-3">
+                <div><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">When did she become a nutritionist</span></b></span></span></span></span></p></div>
+            </div>
+            <div class="answer-quiz-choice px-2">
+                                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">A</b>
+                            <input type="radio" name="Quiz[690a155ce275cbea8f8b458b][answer][0]" value="0">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">When she studied diet planning abroad</span></span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text-correct text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">B</b>
+                            <input type="radio" name="Quiz[690a155ce275cbea8f8b458b][answer][0]" value="1">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">When she did a biology degree&nbsp;</span></span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">C</b>
+                            <input type="radio" name="Quiz[690a155ce275cbea8f8b458b][answer][0]" value="2">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">When she joined a health clinic</span></span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="clearfix"></div>
+        <div class="w3-padding w3-light-grey question-item-child mb-3" data-id="690a155ce275cbea8f8b458b-1">
+            <div class="d-flex">
+                
+            </div>
+            <div class="title-quiz-choice my-3">
+                <div><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">When did she become famous</span></b></span></span></span></span></p></div>
+            </div>
+            <div class="answer-quiz-choice px-2">
+                                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">A</b>
+                            <input type="radio" name="Quiz[690a155ce275cbea8f8b458b][answer][1]" value="0">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">After publishing her first book</span></span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text-correct text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">B</b>
+                            <input type="radio" name="Quiz[690a155ce275cbea8f8b458b][answer][1]" value="1">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">After solving people’s problems in a helpline </span></span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">C</b>
+                            <input type="radio" name="Quiz[690a155ce275cbea8f8b458b][answer][1]" value="2">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">After appearing on a television program</span></span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">A journalist is interviewing a nutritionist about her professional journey. </span></b><em><span new="" roman="" style="font-family:" times="">(</span>Một nhà báo đang phỏng vấn một chuyên gia dinh dưỡng về hành trình nghề nghiệp của cô ấy.<span new="" roman="" style="font-family:" times="">)</span></em></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">Question 1: When did she become a nutritionist? </span></b><em><span new="" roman="" style="font-family:" times="">(</span>Cô ấy trở thành chuyên gia dinh dưỡng khi nào?<span new="" roman="" style="font-family:" times="">)</span></em><br>
+<b><span emoji="" segoe="" style="font-family:" ui="">🟩</span></b><b><span new="" roman="" style="font-family:" times=""> Đáp án đúng: B. When she did a biology degree.</span></b><br>
+<span new="" roman="" style="font-family:" times="">Giải thích: Người nói cho biết chính khi học đại học chuyên ngành sinh học, cô mới quyết định trở thành chuyên gia dinh dưỡng.</span><br>
+<span emoji="" segoe="" style="font-family:" ui="">📘</span><span new="" roman="" style="font-family:" times=""> Trích dẫn: “During my biology degree, I became fascinated… That’s when I decided to train as a nutritionist.”<br>
+(<i>Trong thời gian học sinh học, tôi bắt đầu say mê và quyết định trở thành chuyên gia dinh dưỡng.</i>)</span></span></span></span></p>
+
+<div align="center" style="text-align:center; margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b> </b></span></span></span></div>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">Question 2: When did she become famous? </span></b><em><span new="" roman="" style="font-family:" times="">(</span>Cô ấy trở nên nổi tiếng khi nào?<span new="" roman="" style="font-family:" times="">)</span></em><br>
+<b><span emoji="" segoe="" style="font-family:" ui="">🟩</span></b><b><span new="" roman="" style="font-family:" times=""> Đáp án đúng: B. After solving people’s problems in a helpline.</span></b><br>
+<span new="" roman="" style="font-family:" times="">Giải thích: Người nói khẳng định cô trở nên nổi tiếng sau khi giúp nhiều người thông qua đường dây tư vấn.</span><br>
+<span emoji="" segoe="" style="font-family:" ui="">📘</span><span new="" roman="" style="font-family:" times=""> Trích dẫn: “I joined a health helpline… as I helped more and more people solve their issues, my name started to spread.”<br>
+(<i>Tôi làm việc tại đường dây tư vấn sức khỏe… khi giúp ngày càng nhiều người, tên tuổi của tôi bắt đầu được biết đến.</i>)</span></span></span></span></p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="690a14c2e275cb42908b4581" style="display: none;"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">listening</span><div>Question 4 of 15</div></div><div class="clearfix"></div>
+<div class="block-quiz-test" data-id="690a14c2e275cb42908b4581">
+    <div class="title-quiz-choice my-3">
+        <div class="font-weight-600">Listening Part 4 – Advertising and Sponsoring (Quảng cáo và tài trợ)</div>
+        <div><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">A marketing consultant is talking about the role of advertising and sponsorships in business.</span></b></span></span></span></p>
+
+<p style="margin-bottom: 13px; text-align: center;"><iframe allowfullscreen="true" frameborder="0" src="https://file.unica.vn/embed/459006" style="width: 480px; height: 270px;" loading="lazy"></iframe></p></div>
+    </div>
+    <input type="hidden" name="Quiz[690a14c2e275cb42908b4581][id]" value="690a14c2e275cb42908b4581">
+    
+    <div class="clearfix"></div>
+    <div class="read_and_answer-child mt-3">
+                <div class="clearfix"></div>
+        <div class="w3-padding w3-light-grey question-item-child mb-3" data-id="690a14c2e275cb42908b4581-0">
+            <div class="d-flex">
+                
+            </div>
+            <div class="title-quiz-choice my-3">
+                <div><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">What is the importance of advertising</span></b></span></span></span></span></p></div>
+            </div>
+            <div class="answer-quiz-choice px-2">
+                                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">A</b>
+                            <input type="radio" name="Quiz[690a14c2e275cb42908b4581][answer][0]" value="0">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">It makes a company look more professional</span></span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">B</b>
+                            <input type="radio" name="Quiz[690a14c2e275cb42908b4581][answer][0]" value="1">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">It builds better relationships with suppliers</span></span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text-correct text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">C</b>
+                            <input type="radio" name="Quiz[690a14c2e275cb42908b4581][answer][0]" value="2">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">It can help reach new customers</span></span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="clearfix"></div>
+        <div class="w3-padding w3-light-grey question-item-child mb-3" data-id="690a14c2e275cb42908b4581-1">
+            <div class="d-flex">
+                
+            </div>
+            <div class="title-quiz-choice my-3">
+                <div><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">Why shouldn’t we sponsor sports tournaments?</span></b></span></span></span></span></p></div>
+            </div>
+            <div class="answer-quiz-choice px-2">
+                                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">A</b>
+                            <input type="radio" name="Quiz[690a14c2e275cb42908b4581][answer][1]" value="0">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">They rarely attract enough audiences</span></span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text-correct text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">B</b>
+                            <input type="radio" name="Quiz[690a14c2e275cb42908b4581][answer][1]" value="1">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">They can generate negative publicity for the sport&nbsp;</span></span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">C</b>
+                            <input type="radio" name="Quiz[690a14c2e275cb42908b4581][answer][1]" value="2">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">They cost more than most advertising campaigns</span></span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">A marketing consultant is talking about the role of advertising and sponsorships in business. <em>(</em></span></b></span></span></span><em><strong>Một chuyên gia tư vấn marketing đang nói về vai trò của quảng cáo và tài trợ trong kinh doanh.)</strong></em></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">Question 1: What is the importance of advertising? </span></b><em><span new="" roman="" style="font-family:" times="">(</span>Tầm quan trọng của quảng cáo<span new="" roman="" style="font-family:" times="">)</span></em><br>
+<b><span emoji="" segoe="" style="font-family:" ui="">🟩</span></b><b><span new="" roman="" style="font-family:" times=""> Đáp án đúng: A. It can help reach new customers.</span></b><br>
+<span new="" roman="" style="font-family:" times="">Giải thích: Người nói nhấn mạnh rằng quảng cáo giúp doanh nghiệp tiếp cận những khách hàng mới.</span><br>
+<span emoji="" segoe="" style="font-family:" ui="">📘</span><span new="" roman="" style="font-family:" times=""> Trích dẫn: “A well-planned advertisement… helps you reach new customers who might never have heard about your products before.”<br>
+(<i>Một quảng cáo được lên kế hoạch tốt giúp bạn tiếp cận khách hàng mới chưa từng biết đến sản phẩm của bạn.</i>)</span></span></span></span></p>
+
+<div align="center" style="text-align:center; margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b> </b></span></span></span></div>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">Question 2: Why shouldn’t we sponsor sports tournaments?</span></b><em><span new="" roman="" style="font-family:" times="">(</span>Tại sao chúng ta không nên tài trợ cho các giải đấu thể thao?<span new="" roman="" style="font-family:" times="">)</span></em><br>
+<b><span emoji="" segoe="" style="font-family:" ui="">🟩</span></b><b><span new="" roman="" style="font-family:" times=""> Đáp án đúng: B. They can generate negative publicity for the sport.</span></b><br>
+<span new="" roman="" style="font-family:" times="">Giải thích: Người nói cho rằng việc tài trợ các giải thể thao có thể gây ra dư luận xấu, đặc biệt khi sự kiện có vấn đề.</span><br>
+<span emoji="" segoe="" style="font-family:" ui="">📘</span><span new="" roman="" style="font-family:" times=""> Trích dẫn: “If a match is poorly organized or players behave badly, it can generate negative publicity for the sport — and for your company.”<br>
+(<i>Nếu trận đấu được tổ chức kém hoặc vận động viên cư xử tệ, nó có thể tạo dư luận tiêu cực cho môn thể thao đó — và cho cả công ty của bạn.</i>)</span></span></span></span></p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="690a1408e275cb20a88b4579" style="display: none;"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">listening</span><div>Question 5 of 15</div></div><div class="clearfix"></div>
+<div class="block-quiz-test" data-id="690a1408e275cb20a88b4579">
+    <div class="title-quiz-choice my-3">
+        <div class="font-weight-600">Listening Part 4 – Making Plans for Success (Lên kế hoạch để đạt thành công)</div>
+        <div><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">A motivational speaker is talking about the importance of making plans.</span></b></span></span></span></p>
+
+<p style="margin-bottom: 13px; text-align: center;"><iframe allowfullscreen="true" frameborder="0" src="https://file.unica.vn/embed/459005" style="width: 480px; height: 270px;" loading="lazy"></iframe></p></div>
+    </div>
+    <input type="hidden" name="Quiz[690a1408e275cb20a88b4579][id]" value="690a1408e275cb20a88b4579">
+    
+    <div class="clearfix"></div>
+    <div class="read_and_answer-child mt-3">
+                <div class="clearfix"></div>
+        <div class="w3-padding w3-light-grey question-item-child mb-3" data-id="690a1408e275cb20a88b4579-0">
+            <div class="d-flex">
+                
+            </div>
+            <div class="title-quiz-choice my-3">
+                <div><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">How does creating each small plan help you?</span></b></span></span></span></span></p></div>
+            </div>
+            <div class="answer-quiz-choice px-2">
+                                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text-correct text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">A</b>
+                            <input type="radio" name="Quiz[690a1408e275cb20a88b4579][answer][0]" value="0">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p style="margin-bottom:13px"><span style="font-size:11pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">They help you make decisions&nbsp;</span></span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">B</b>
+                            <input type="radio" name="Quiz[690a1408e275cb20a88b4579][answer][0]" value="1">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p style="margin-bottom:13px"><span style="font-size:11pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">They make you more confident about your goals</span><b><span new="" roman="" style="font-family:" times=""></span></b></span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">C</b>
+                            <input type="radio" name="Quiz[690a1408e275cb20a88b4579][answer][0]" value="2">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">They save you a lot of time every day</span></span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="clearfix"></div>
+        <div class="w3-padding w3-light-grey question-item-child mb-3" data-id="690a1408e275cb20a88b4579-1">
+            <div class="d-flex">
+                
+            </div>
+            <div class="title-quiz-choice my-3">
+                <div><p><b><span style="font-size:11.0pt"><span style="line-height:115%"><span new="" roman="" style="font-family:" times="">How does creating a plan help you in general?</span></span></span></b></p></div>
+            </div>
+            <div class="answer-quiz-choice px-2">
+                                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">A</b>
+                            <input type="radio" name="Quiz[690a1408e275cb20a88b4579][answer][1]" value="0">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11.0pt"><span style="line-height:115%"><span new="" roman="" style="font-family:" times="">It makes you think more creatively</span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text-correct text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">B</b>
+                            <input type="radio" name="Quiz[690a1408e275cb20a88b4579][answer][1]" value="1">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11.0pt"><span style="line-height:115%"><span new="" roman="" style="font-family:" times="">It requires you to set yourself certain limits </span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">C</b>
+                            <input type="radio" name="Quiz[690a1408e275cb20a88b4579][answer][1]" value="2">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11.0pt"><span style="line-height:115%"><span new="" roman="" style="font-family:" times="">It prevents you from making any mistakes</span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">A motivational speaker is talking about the importance of making plans. </span></b><strong><em><span new="" roman="" style="font-family:" times="">(</span>Một diễn giả truyền cảm hứng đang nói về tầm quan trọng của việc lập kế hoạch.<span new="" roman="" style="font-family:" times="">)</span></em></strong></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">Question 1: How does creating each small plan help you?</span></b><em><span new="" roman="" style="font-family:" times="">(</span>Việc lập kế hoạch nhỏ mỗi bước giúp bạn như thế nào?<span new="" roman="" style="font-family:" times="">)</span></em><br>
+<b><span emoji="" segoe="" style="font-family:" ui="">🟩</span></b><b><span new="" roman="" style="font-family:" times=""> Đáp án đúng: A. They help you make decisions.</span></b><br>
+<span new="" roman="" style="font-family:" times="">Giải thích: Mỗi kế hoạch nhỏ giúp người nói đưa ra quyết định dễ dàng và chính xác hơn.</span><br>
+<span emoji="" segoe="" style="font-family:" ui="">📘</span><span new="" roman="" style="font-family:" times=""> Trích dẫn: “Each small plan… helps you make better decisions along the way.”<br>
+(<i>Mỗi kế hoạch nhỏ giúp bạn đưa ra quyết định tốt hơn trong quá trình thực hiện.</i>)</span></span></span></span></p>
+
+<div align="center" style="text-align:center; margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b> </b></span></span></span></div>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">Question 2: How does creating a plan help you in general?</span></b><em><span new="" roman="" style="font-family:" times="">(</span>Việc lập kế hoạch giúp bạn như thế nào nói chung?<span new="" roman="" style="font-family:" times="">)</span></em><br>
+<b><span emoji="" segoe="" style="font-family:" ui="">🟩</span></b><b><span new="" roman="" style="font-family:" times=""> Đáp án đúng: B. It requires you to set yourself certain limits.</span></b><br>
+<span new="" roman="" style="font-family:" times="">Giải thích: Việc lập kế hoạch nói chung giúp bạn đặt ra giới hạn về thời gian, nguồn lực, và năng lượng.</span><br>
+<span emoji="" segoe="" style="font-family:" ui="">📘</span><span new="" roman="" style="font-family:" times=""> Trích dẫn: “It’s also about setting clear limits for yourself.”<br>
+(<i>Nó còn là việc đặt ra giới hạn rõ ràng cho bản thân.</i>)</span></span></span></span></p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="690a1332e275cbca8d8b4582" style="display: none;"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">listening</span><div>Question 6 of 15</div></div><div class="clearfix"></div>
+<div class="block-quiz-test" data-id="690a1332e275cbca8d8b4582">
+    <div class="title-quiz-choice my-3">
+        <div class="font-weight-600">Listening Part 4 – A critic reviews a Book</div>
+        <div><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">A critic is reviewing a recently published book about a famous scientist.</span></b></span></span></span></p>
+
+<p style="margin-bottom: 13px; text-align: center;"><iframe allowfullscreen="true" frameborder="0" src="https://file.unica.vn/embed/459008" style="width: 480px; height: 270px;" loading="lazy"></iframe></p></div>
+    </div>
+    <input type="hidden" name="Quiz[690a1332e275cbca8d8b4582][id]" value="690a1332e275cbca8d8b4582">
+    
+    <div class="clearfix"></div>
+    <div class="read_and_answer-child mt-3">
+                <div class="clearfix"></div>
+        <div class="w3-padding w3-light-grey question-item-child mb-3" data-id="690a1332e275cbca8d8b4582-0">
+            <div class="d-flex">
+                
+            </div>
+            <div class="title-quiz-choice my-3">
+                <div><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">Why is the book so popular?</span></b></span></span></span></span></p></div>
+            </div>
+            <div class="answer-quiz-choice px-2">
+                                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">A</b>
+                            <input type="radio" name="Quiz[690a1332e275cbca8d8b4582][answer][0]" value="0">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p style="margin-bottom:13px"><span style="font-size:11pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">It presents new discoveries about the scientist</span></span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text-correct text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">B</b>
+                            <input type="radio" name="Quiz[690a1332e275cbca8d8b4582][answer][0]" value="1">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">It uses simple language to describe complex ideas</span></span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">C</b>
+                            <input type="radio" name="Quiz[690a1332e275cbca8d8b4582][answer][0]" value="2">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">It includes many rare historical photographs</span></b></span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="clearfix"></div>
+        <div class="w3-padding w3-light-grey question-item-child mb-3" data-id="690a1332e275cbca8d8b4582-1">
+            <div class="d-flex">
+                
+            </div>
+            <div class="title-quiz-choice my-3">
+                <div><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">What do people criticize about the book?</span></b></span></span></span></span></p></div>
+            </div>
+            <div class="answer-quiz-choice px-2">
+                                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">A</b>
+                            <input type="radio" name="Quiz[690a1332e275cbca8d8b4582][answer][1]" value="0">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p style="margin-bottom:13px"><span style="font-size:11pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">It focuses too much on technical theories</span></span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">B</b>
+                            <input type="radio" name="Quiz[690a1332e275cbca8d8b4582][answer][1]" value="1">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">It doesn’t provide enough scientific details</span></span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text-correct text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">C</b>
+                            <input type="radio" name="Quiz[690a1332e275cbca8d8b4582][answer][1]" value="2">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">It is similar to the author’s previous book</span></span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">A critic is reviewing a recently published book about a famous scientist.</span></b><strong><em><span new="" roman="" style="font-family:" times="">(</span>Một nhà phê bình đang đánh giá một cuốn sách mới xuất bản về một nhà khoa học nổi tiếng.<span new="" roman="" style="font-family:" times="">)</span></em></strong></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">Question 1: Why is the book so popular?<em>(Tại sao cuốn sách lại nổi tiếng đến vậy?)</em></span><br>
+<span emoji="" segoe="" style="font-family:" ui="">🟩</span><span new="" roman="" style="font-family:" times=""> <strong>Đáp án đúng: A. It uses simple language to describe complex ideas.</strong><br>
+Giải thích: Cuốn sách được yêu thích vì tác giả diễn giải các lý thuyết khó hiểu bằng ngôn ngữ dễ hiểu, giúp người đọc tiếp cận dễ dàng hơn.</span><br>
+<span emoji="" segoe="" style="font-family:" ui="">📘</span><span new="" roman="" style="font-family:" times=""> Trích dẫn: “The author has a real gift for turning complex theories into simple, engaging explanations.”<br>
+(<i>Tác giả có khả năng đặc biệt trong việc biến lý thuyết phức tạp thành những lời giải thích đơn giản và hấp dẫn.</i>)</span></span></span></span></p>
+
+<div align="center" style="text-align:center; margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"> </span></span></span></div>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">Question 2: What do people criticize about the book?<em>(Mọi người phê bình điều gì về cuốn sách?)</em></span><br>
+<span emoji="" segoe="" style="font-family:" ui="">🟩</span><span new="" roman="" style="font-family:" times=""> <strong>Đáp án đúng: B. It is similar to the author’s previous book.</strong><br>
+Giải thích: Nhiều người phê bình rằng cuốn sách mới giống với cuốn trước đó của tác giả về cùng chủ đề.</span><br>
+<span emoji="" segoe="" style="font-family:" ui="">📘</span><span new="" roman="" style="font-family:" times=""> Trích dẫn: “Several reviewers pointed out that it feels quite similar to the author’s previous work.”<br>
+(<i>Một số nhà phê bình nhận xét rằng cuốn sách này khá giống với tác phẩm trước đó của tác giả.</i>)</span></span></span></span></p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="690a10ffe275cb5ab88b4570" style="display: none;"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">listening</span><div>Question 7 of 15</div></div><div class="clearfix"></div>
+<div class="block-quiz-test" data-id="690a10ffe275cb5ab88b4570">
+    <div class="title-quiz-choice my-3">
+        <div class="font-weight-600">Listening Part 4 – Advertising and Sponsorship</div>
+        <div><h3 style="margin-top:11px; margin-bottom:5px"><span style="font-size:16px;"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span style="font-weight:normal"><span lang="EN-US" new="" roman="" style="font-family:" times="">A marketing expert is discussing the role of advertising and sponsorship in modern business.</span></span></span></span></span></h3>
+
+<p style="text-align: center;"><iframe allowfullscreen="true" frameborder="0" src="https://file.unica.vn/embed/458885" style="width: 480px; height: 270px;" loading="lazy"></iframe></p></div>
+    </div>
+    <input type="hidden" name="Quiz[690a10ffe275cb5ab88b4570][id]" value="690a10ffe275cb5ab88b4570">
+    
+    <div class="clearfix"></div>
+    <div class="read_and_answer-child mt-3">
+                <div class="clearfix"></div>
+        <div class="w3-padding w3-light-grey question-item-child mb-3" data-id="690a10ffe275cb5ab88b4570-0">
+            <div class="d-flex">
+                
+            </div>
+            <div class="title-quiz-choice my-3">
+                <div><p><strong><span lang="EN-US" style="font-size:11.0pt"><span style="line-height:115%"><span calibri="" style="font-family:">What is the importance of advertising?</span></span></span></strong></p></div>
+            </div>
+            <div class="answer-quiz-choice px-2">
+                                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">A</b>
+                            <input type="radio" name="Quiz[690a10ffe275cb5ab88b4570][answer][0]" value="0">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span lang="EN-US" style="font-size:11.0pt"><span style="line-height:115%"><span calibri="" style="font-family:">It reduces production costs</span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">B</b>
+                            <input type="radio" name="Quiz[690a10ffe275cb5ab88b4570][answer][0]" value="1">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span lang="EN-US" style="font-size:11.0pt"><span style="line-height:115%"><span calibri="" style="font-family:">It increases product quality</span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text-correct text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">C</b>
+                            <input type="radio" name="Quiz[690a10ffe275cb5ab88b4570][answer][0]" value="2">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span lang="EN-US" style="font-size:11.0pt"><span style="line-height:115%"><span calibri="" style="font-family:">It can help reach new customers</span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="clearfix"></div>
+        <div class="w3-padding w3-light-grey question-item-child mb-3" data-id="690a10ffe275cb5ab88b4570-1">
+            <div class="d-flex">
+                
+            </div>
+            <div class="title-quiz-choice my-3">
+                <div><p><strong><span lang="EN-US" style="font-size:11.0pt"><span style="line-height:115%"><span calibri="" style="font-family:">Why shouldn’t we sponsor sports tournaments?</span></span></span></strong></p></div>
+            </div>
+            <div class="answer-quiz-choice px-2">
+                                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">A</b>
+                            <input type="radio" name="Quiz[690a10ffe275cb5ab88b4570][answer][1]" value="0">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span lang="EN-US" style="font-size:11.0pt"><span style="line-height:115%"><span calibri="" style="font-family:">They are too expensive</span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text-correct text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">B</b>
+                            <input type="radio" name="Quiz[690a10ffe275cb5ab88b4570][answer][1]" value="1">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span lang="EN-US" style="font-size:11.0pt"><span style="line-height:115%"><span calibri="" style="font-family:">They can generate negative publicity for the sport&nbsp;</span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">C</b>
+                            <input type="radio" name="Quiz[690a10ffe275cb5ab88b4570][answer][1]" value="2">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span lang="EN-US" style="font-size:11.0pt"><span style="line-height:115%"><span calibri="" style="font-family:">They don’t attract enough viewers</span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <div><strong><span style="font-size:16px;"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span style="font-weight:normal"><span lang="EN-US" new="" roman="" style="font-family:" times="">A marketing expert is discussing the role of advertising and sponsorship in modern business. </span></span></span></span></span></strong><em><span style="font-size:16px;"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span style="font-weight:normal"><span lang="EN-US" new="" roman="" style="font-family:" times="">(</span></span></span></span></span>Một chuyên gia marketing đang thảo luận về vai trò của quảng cáo và tài trợ trong kinh doanh hiện đại.<span style="font-size:16px;"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span style="font-weight:normal"><span lang="EN-US" new="" roman="" style="font-family:" times="">)</span></span></span></span></span></em></div>
+
+<p><span style="font-size:12pt"><span new="" roman="" style="font-family:" times=""><strong>Question 1: What is the importance of advertising? </strong><em>(Tầm quan trọng của quảng cáo là gì?)</em><br>
+<span emoji="" segoe="" style="font-family:" ui="">🟩</span> <strong>Đáp án đúng:</strong> A. It can help reach new customers.<br>
+<strong>Giải thích:</strong> Quảng cáo giúp doanh nghiệp <strong>tiếp cận những khách hàng mới</strong> và mở rộng độ nhận biết thương hiệu.<br>
+<span emoji="" segoe="" style="font-family:" ui="">📘</span> <strong>Trích dẫn:</strong> “Advertising… <strong>helps you reach new customers</strong> who may never have heard of your brand.”<br>
+<em>(Quảng cáo giúp </em><strong><i>tiếp cận khách hàng mới</i></strong><em>, những người chưa từng biết đến thương hiệu.)</em></span></span></p>
+
+<div align="center" style="text-align:center; margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"> </span></span></span></div>
+
+<p><span style="font-size:12pt"><span new="" roman="" style="font-family:" times=""><strong>Question 2: Why shouldn’t we sponsor sports tournaments?</strong><em>(Tại sao chúng ta không nên tài trợ cho các giải đấu thể thao?)</em><br>
+<span emoji="" segoe="" style="font-family:" ui="">🟩</span> <strong>Đáp án đúng:</strong> A. They can generate negative publicity for the sport.<br>
+<strong>Giải thích:</strong> Việc tài trợ các giải đấu thể thao có thể gây <strong>hình ảnh xấu cho thương hiệu</strong>, nếu sự kiện gặp vấn đề.<br>
+<span emoji="" segoe="" style="font-family:" ui="">📘</span> <strong>Trích dẫn:</strong> “Sponsoring sports tournaments… can be risky… sponsors may suffer from <strong>negative publicity</strong>.”<br>
+<em>(Tài trợ cho các giải thể thao có thể rủi ro, nhà tài trợ có thể chịu </em><strong><i>hình ảnh tiêu cực</i></strong><em>.)</em></span></span></p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="690a1032e275cbb89c8b4579" style="display: none;"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">listening</span><div>Question 8 of 15</div></div><div class="clearfix"></div>
+<div class="block-quiz-test" data-id="690a1032e275cbb89c8b4579">
+    <div class="title-quiz-choice my-3">
+        <div class="font-weight-600">Listening Part 4 – criticism of the new novel</div>
+        <div><h3 style="margin-top:11px; margin-bottom:5px"><strong><span style="font-size:14px;"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span style="font-weight:normal"><span lang="EN-US" new="" roman="" style="font-family:" times="">A book critic is talking about a new novel.</span></span></span></span></span></strong></h3>
+
+<p style="text-align: center;"><iframe allowfullscreen="true" frameborder="0" src="https://file.unica.vn/embed/458890" style="width: 480px; height: 270px;" loading="lazy"></iframe></p></div>
+    </div>
+    <input type="hidden" name="Quiz[690a1032e275cbb89c8b4579][id]" value="690a1032e275cbb89c8b4579">
+    
+    <div class="clearfix"></div>
+    <div class="read_and_answer-child mt-3">
+                <div class="clearfix"></div>
+        <div class="w3-padding w3-light-grey question-item-child mb-3" data-id="690a1032e275cbb89c8b4579-0">
+            <div class="d-flex">
+                
+            </div>
+            <div class="title-quiz-choice my-3">
+                <div><p><strong><span lang="EN-US" style="font-size:11.0pt"><span style="line-height:115%"><span calibri="" style="font-family:">What attracts readers to this novel?</span></span></span></strong></p></div>
+            </div>
+            <div class="answer-quiz-choice px-2">
+                                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text-correct text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">A</b>
+                            <input type="radio" name="Quiz[690a1032e275cbb89c8b4579][answer][0]" value="0">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span lang="EN-US" style="font-size:11.0pt"><span style="line-height:115%"><span calibri="" style="font-family:">The characters were interesting </span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">B</b>
+                            <input type="radio" name="Quiz[690a1032e275cbb89c8b4579][answer][0]" value="1">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span lang="EN-US" style="font-size:11.0pt"><span style="line-height:115%"><span calibri="" style="font-family:">The story was based on real events</span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">C</b>
+                            <input type="radio" name="Quiz[690a1032e275cbb89c8b4579][answer][0]" value="2">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span lang="EN-US" style="font-size:11.0pt"><span style="line-height:115%"><span calibri="" style="font-family:">The setting was unusual</span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="clearfix"></div>
+        <div class="w3-padding w3-light-grey question-item-child mb-3" data-id="690a1032e275cbb89c8b4579-1">
+            <div class="d-flex">
+                
+            </div>
+            <div class="title-quiz-choice my-3">
+                <div><p><strong><span lang="EN-US" style="font-size:11.0pt"><span style="line-height:115%"><span calibri="" style="font-family:">What is the speaker’s opinion about this novel?</span></span></span></strong></p></div>
+            </div>
+            <div class="answer-quiz-choice px-2">
+                                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">A</b>
+                            <input type="radio" name="Quiz[690a1032e275cbb89c8b4579][answer][1]" value="0">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span lang="EN-US" style="font-size:11.0pt"><span style="line-height:115%"><span calibri="" style="font-family:">It is too long and complex</span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text-correct text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">B</b>
+                            <input type="radio" name="Quiz[690a1032e275cbb89c8b4579][answer][1]" value="1">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span lang="EN-US" style="font-size:11.0pt"><span style="line-height:115%"><span calibri="" style="font-family:">It will establish the author’s popularity</span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">C</b>
+                            <input type="radio" name="Quiz[690a1032e275cbb89c8b4579][answer][1]" value="2">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span lang="EN-US" style="font-size:11.0pt"><span style="line-height:115%"><span calibri="" style="font-family:">It needs a sequel to explain the ending</span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p><strong><span style="font-size:14px;"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span style="font-weight:normal"><span lang="EN-US" new="" roman="" style="font-family:" times="">A book critic is talking about a new novel. </span></span></span></span></span></strong><em><span style="font-size:14px;"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span style="font-weight:normal"><span lang="EN-US" new="" roman="" style="font-family:" times="">(</span></span></span></span></span>Một nhà phê bình sách đang nói về một tiểu thuyết mới.<span style="font-size:14px;"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span style="font-weight:normal"><span lang="EN-US" new="" roman="" style="font-family:" times="">)</span></span></span></span></span></em></p>
+
+<p><span style="font-size:12pt"><span new="" roman="" style="font-family:" times=""><strong>Question 1: What attracts readers to this novel? </strong><em>(Điều gì thu hút người đọc đến với cuốn tiểu thuyết này?)</em><br>
+<span emoji="" segoe="" style="font-family:" ui="">🟩</span> <strong>Đáp án đúng:</strong> A. The characters were interesting.<br>
+<strong>Giải thích:</strong> Người nói nhấn mạnh yếu tố hấp dẫn nhất của cuốn sách là <strong>nhân vật được khắc họa sâu sắc và thú vị</strong>.<br>
+<span emoji="" segoe="" style="font-family:" ui="">📘</span> <strong>Trích dẫn:</strong> “I found myself completely drawn in — not because of the plot, but because the <strong>characters were so interesting</strong>.”<br>
+<em>(Tôi hoàn toàn bị cuốn hút — không phải vì cốt truyện, mà vì </em><strong><i>các nhân vật rất thú vị</i></strong><em>.)</em></span></span></p>
+
+<div align="center" style="text-align:center; margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"> </span></span></span></div>
+
+<p><span style="font-size:12pt"><span new="" roman="" style="font-family:" times=""><strong>Question 2: What is the speaker’s opinion about this novel?</strong><em>(Ý kiến của người nói về cuốn tiểu thuyết này là gì?)</em><br>
+<span emoji="" segoe="" style="font-family:" ui="">🟩</span> <strong>Đáp án đúng:</strong> A. It will establish the author’s popularity.<br>
+<strong>Giải thích:</strong> Nhà phê bình khẳng định cuốn sách này sẽ <strong>giúp tác giả trở nên nổi tiếng</strong> và được công nhận nhiều hơn.<br>
+<span emoji="" segoe="" style="font-family:" ui="">📘</span> <strong>Trích dẫn:</strong> “I truly believe <em>Shadows Over the City</em> will <strong>establish her popularity</strong> as one of the most promising writers.”<br>
+<em>(Tôi tin rằng cuốn sách này sẽ </em><strong><i>giúp cô ấy trở nên nổi tiếng</i></strong><em> như một trong những cây bút triển vọng nhất.)</em></span></span></p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="690a0f1ee275cb009e8b457e" style="display: none;"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">listening</span><div>Question 9 of 15</div></div><div class="clearfix"></div>
+<div class="block-quiz-test" data-id="690a0f1ee275cb009e8b457e">
+    <div class="title-quiz-choice my-3">
+        <div class="font-weight-600">Listening Part 4 – The Role of Sports in Students’ Lives</div>
+        <div><h3 style="margin-top:11px; margin-bottom:5px"><span style="font-size:14pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span style="font-weight:normal"><span lang="EN-US" new="" roman="" style="font-family:" times="">A university lecturer is talking about sports and their influence on students.</span></span></span></span></span></h3>
+
+<p style="text-align: center;"><iframe allowfullscreen="true" frameborder="0" src="https://file.unica.vn/embed/458889" style="width: 480px; height: 270px;" loading="lazy"></iframe></p></div>
+    </div>
+    <input type="hidden" name="Quiz[690a0f1ee275cb009e8b457e][id]" value="690a0f1ee275cb009e8b457e">
+    
+    <div class="clearfix"></div>
+    <div class="read_and_answer-child mt-3">
+                <div class="clearfix"></div>
+        <div class="w3-padding w3-light-grey question-item-child mb-3" data-id="690a0f1ee275cb009e8b457e-0">
+            <div class="d-flex">
+                
+            </div>
+            <div class="title-quiz-choice my-3">
+                <div><p style="margin-bottom:13px"><strong><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">What is this person's opinion on sports?</span></span></span></span></strong></p></div>
+            </div>
+            <div class="answer-quiz-choice px-2">
+                                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text-correct text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">A</b>
+                            <input type="radio" name="Quiz[690a0f1ee275cb009e8b457e][answer][0]" value="0">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span lang="EN-US" style="font-size:11.0pt"><span style="line-height:115%"><span calibri="" style="font-family:">They have a harmful effect</span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">B</b>
+                            <input type="radio" name="Quiz[690a0f1ee275cb009e8b457e][answer][0]" value="1">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span lang="EN-US" style="font-size:11.0pt"><span style="line-height:115%"><span calibri="" style="font-family:">They are a waste of time</span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">C</b>
+                            <input type="radio" name="Quiz[690a0f1ee275cb009e8b457e][answer][0]" value="2">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span lang="EN-US" style="font-size:11.0pt"><span style="line-height:115%"><span calibri="" style="font-family:">They make students more social</span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="clearfix"></div>
+        <div class="w3-padding w3-light-grey question-item-child mb-3" data-id="690a0f1ee275cb009e8b457e-1">
+            <div class="d-flex">
+                
+            </div>
+            <div class="title-quiz-choice my-3">
+                <div><p><strong><span lang="EN-US" style="font-size:11.0pt"><span style="line-height:115%"><span calibri="" style="font-family:">What is the importance of sports for students?</span></span></span></strong></p></div>
+            </div>
+            <div class="answer-quiz-choice px-2">
+                                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text-correct text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">A</b>
+                            <input type="radio" name="Quiz[690a0f1ee275cb009e8b457e][answer][1]" value="0">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span lang="EN-US" style="font-size:11.0pt"><span style="line-height:115%"><span calibri="" style="font-family:">It helps balance students’ lives </span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">B</b>
+                            <input type="radio" name="Quiz[690a0f1ee275cb009e8b457e][answer][1]" value="1">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span lang="EN-US" style="font-size:11.0pt"><span style="line-height:115%"><span calibri="" style="font-family:">It helps students get better grades</span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">C</b>
+                            <input type="radio" name="Quiz[690a0f1ee275cb009e8b457e][answer][1]" value="2">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span lang="EN-US" style="font-size:11.0pt"><span style="line-height:115%"><span calibri="" style="font-family:">It increases competition between students</span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p><span dir="ltr"><span style="font-size:14pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span style="font-weight:normal"><span lang="EN-US" new="" roman="" style="font-family:" times="">A university lecturer is talking about sports and their influence on students. <em>(</em></span></span></span></span></span></span><em>Một giảng viên đại học đang nói về thể thao và ảnh hưởng của chúng đối với sinh viên)</em></p>
+
+<p><span style="font-size:12pt"><span new="" roman="" style="font-family:" times=""><strong>Question 1: What is this person’s opinion on sports?</strong><em>(Ý kiến của người này về thể thao là gì?)</em><br>
+<span emoji="" segoe="" style="font-family:" ui="">🟩</span> <strong>Đáp án đúng:</strong> A. They have a harmful effect.<br>
+<strong>Giải thích:</strong> Người nói cho rằng thể thao <strong>có thể gây hại</strong> nếu bị lạm dụng hoặc quản lý kém.<br>
+<span emoji="" segoe="" style="font-family:" ui="">📘</span> <strong>Trích dẫn:</strong> “I think sports can have a <strong>harmful effect</strong> when not managed properly.”<br>
+<em>(Tôi nghĩ thể thao có thể </em><strong><i>gây tác động tiêu cực</i></strong><em> nếu không được quản lý hợp lý.)</em></span></span></p>
+
+<div align="center" style="text-align:center; margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"> </span></span></span></div>
+
+<p><span style="font-size:12pt"><span new="" roman="" style="font-family:" times=""><strong>Question 2: What is the importance of sports for students?</strong><em>(Tầm quan trọng của thể thao đối với sinh viên là gì?)</em><br>
+<span emoji="" segoe="" style="font-family:" ui="">🟩</span> <strong>Đáp án đúng:</strong> A. It helps balance students’ lives.<br>
+<strong>Giải thích:</strong> Giảng viên nhấn mạnh vai trò của thể thao trong việc <strong>giúp sinh viên cân bằng cuộc sống</strong> và giảm căng thẳng.<br>
+<span emoji="" segoe="" style="font-family:" ui="">📘</span> <strong>Trích dẫn:</strong> “Sports are essential in <strong>balancing students’ lives</strong>... helping them return to their studies with more focus.”<br>
+<em>(Thể thao rất quan trọng trong việc </em><strong><i>cân bằng cuộc sống của sinh viên</i></strong><em>, giúp họ học tập tập trung hơn.)</em></span></span></p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="6909ac74e275cb062b8b4576" style="display: none;"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">listening</span><div>Question 10 of 15</div></div><div class="clearfix"></div>
+<div class="block-quiz-test" data-id="6909ac74e275cb062b8b4576">
+    <div class="title-quiz-choice my-3">
+        <div class="font-weight-600">Listening part 4 - Managing financial spending</div>
+        <div><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b>A financial advisor is giving advice on how to manage personal spending.</b></span></span></span></p>
+
+<p style="margin-bottom: 13px; text-align: center;"><iframe allowfullscreen="true" frameborder="0" src="https://file.unica.vn/embed/459199" style="width: 480px; height: 270px;" loading="lazy"></iframe></p></div>
+    </div>
+    <input type="hidden" name="Quiz[6909ac74e275cb062b8b4576][id]" value="6909ac74e275cb062b8b4576">
+    
+    <div class="clearfix"></div>
+    <div class="read_and_answer-child mt-3">
+                <div class="clearfix"></div>
+        <div class="w3-padding w3-light-grey question-item-child mb-3" data-id="6909ac74e275cb062b8b4576-0">
+            <div class="d-flex">
+                
+            </div>
+            <div class="title-quiz-choice my-3">
+                <div><p><b><span style="font-size:11.0pt"><span style="line-height:115%"><span new="" roman="" style="font-family:" times="">What should you do to better control your short-term spending?</span></span></span></b></p></div>
+            </div>
+            <div class="answer-quiz-choice px-2">
+                                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">A</b>
+                            <input type="radio" name="Quiz[6909ac74e275cb062b8b4576][answer][0]" value="0">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11.0pt"><span style="line-height:115%"><span new="" roman="" style="font-family:" times="">Avoid using credit cards</span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text-correct text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">B</b>
+                            <input type="radio" name="Quiz[6909ac74e275cb062b8b4576][answer][0]" value="1">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11.0pt"><span style="line-height:115%"><span new="" roman="" style="font-family:" times="">Monitor your spending for a weekly plan </span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">C</b>
+                            <input type="radio" name="Quiz[6909ac74e275cb062b8b4576][answer][0]" value="2">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11.0pt"><span style="line-height:115%"><span new="" roman="" style="font-family:" times="">Buy only discounted items</span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="clearfix"></div>
+        <div class="w3-padding w3-light-grey question-item-child mb-3" data-id="6909ac74e275cb062b8b4576-1">
+            <div class="d-flex">
+                
+            </div>
+            <div class="title-quiz-choice my-3">
+                <div><p><b><span style="font-size:11.0pt"><span style="line-height:115%"><span new="" roman="" style="font-family:" times="">What should you do to better control your long-term spending?</span></span></span></b></p></div>
+            </div>
+            <div class="answer-quiz-choice px-2">
+                                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">A</b>
+                            <input type="radio" name="Quiz[6909ac74e275cb062b8b4576][answer][1]" value="0">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11.0pt"><span style="line-height:115%"><span new="" roman="" style="font-family:" times="">Set strict daily limits</span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text-correct text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">B</b>
+                            <input type="radio" name="Quiz[6909ac74e275cb062b8b4576][answer][1]" value="1">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p><span style="font-size:11.0pt"><span style="line-height:115%"><span new="" roman="" style="font-family:" times="">Seek advice from someone who has experience </span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">C</b>
+                            <input type="radio" name="Quiz[6909ac74e275cb062b8b4576][answer][1]" value="2">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">Always save the same amount every month</span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b>A financial advisor is giving advice on how to manage personal spending.&nbsp;</b><strong><em>(Một cố vấn tài chính đang đưa ra lời khuyên về cách quản lý chi tiêu cá nhân.)</em></strong></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">Question 1: What should you do to better control your short-term spending?&nbsp;</span></b><em><span new="" roman="" style="font-family:" times="">(</span>Bạn nên làm gì để kiểm soát chi tiêu ngắn hạn tốt hơn?<span new="" roman="" style="font-family:" times="">)</span></em><br>
+<span emoji="" segoe="" style="font-family:" ui="">🟩</span><span new="" roman="" style="font-family:" times=""> Đáp án đúng: B. Monitor your spending for a weekly plan.<br>
+Giải thích: Diễn giả khuyên nên theo dõi chi tiêu hàng tuần để kiểm soát tốt hơn.</span><br>
+<span emoji="" segoe="" style="font-family:" ui="">📘</span><span new="" roman="" style="font-family:" times=""> Trích dẫn: “My advice is to monitor your spending closely and create a simple weekly plan.”<br>
+<i>(Lời khuyên của tôi là theo dõi chi tiêu thật kỹ và lập kế hoạch chi tiêu theo tuần.)</i></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">Question 2: What should you do to better control your long-term spending?&nbsp;</span></b><span new="" roman="" style="font-family:" times=""><em>(</em></span><em>Bạn nên làm gì để kiểm soát chi tiêu dài hạn tốt hơn?<span new="" roman="" style="font-family:" times="">)</span></em><br>
+<span emoji="" segoe="" style="font-family:" ui="">🟩</span><span new="" roman="" style="font-family:" times=""> Đáp án đúng: B. Seek advice from someone who has experience.<br>
+Giải thích: Diễn giả nhấn mạnh rằng nên tìm lời khuyên từ người có kinh nghiệm để tránh sai lầm.</span><br>
+<span emoji="" segoe="" style="font-family:" ui="">📘</span><span new="" roman="" style="font-family:" times=""> Trích dẫn: “It’s helpful to seek advice from someone who has experience.”<br>
+<i>(Sẽ rất hữu ích nếu bạn tìm lời khuyên từ người có kinh nghiệm.)</i></span></span></span></span></p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="6740a4bce275cb70938e2d2f" style="display: none;"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">listening</span><div>Question 11 of 15</div></div><div class="clearfix"></div>
+<div class="block-quiz-test" data-id="6740a4bce275cb70938e2d2f">
+    <div class="title-quiz-choice my-3">
+        <div class="font-weight-600">Listening Part 4 – A Promotion Campaign</div>
+        <div><p style="margin-bottom:11px"><strong><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="line-height:107%">Listen to a man talk about a promotion campaign for a product and answer the questions below.&nbsp;</span></span></span></span></span></strong></p>
+
+<p style="text-align: center;"><iframe allowfullscreen="true" frameborder="0" loading="lazy" src="https://file.unica.vn/embed/472344"></iframe></p></div>
+    </div>
+    <input type="hidden" name="Quiz[6740a4bce275cb70938e2d2f][id]" value="6740a4bce275cb70938e2d2f">
+    
+    <div class="clearfix"></div>
+    <div class="read_and_answer-child mt-3">
+                <div class="clearfix"></div>
+        <div class="w3-padding w3-light-grey question-item-child mb-3" data-id="6740a4bce275cb70938e2d2f-0">
+            <div class="d-flex">
+                
+            </div>
+            <div class="title-quiz-choice my-3">
+                <div><p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="line-height:107%">What is the main issue with the product's promotion campaign?</span></span></span></span></span></p></div>
+            </div>
+            <div class="answer-quiz-choice px-2">
+                                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text-correct text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">A</b>
+                            <input type="radio" name="Quiz[6740a4bce275cb70938e2d2f][answer][0]" value="0">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="line-height:107%">They use exaggerated claims</span></span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">B</b>
+                            <input type="radio" name="Quiz[6740a4bce275cb70938e2d2f][answer][0]" value="1">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="line-height:107%">It is not targeting the correct market</span></span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">C</b>
+                            <input type="radio" name="Quiz[6740a4bce275cb70938e2d2f][answer][0]" value="2">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="line-height:107%">It is using outdated advertising methods </span></span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="clearfix"></div>
+        <div class="w3-padding w3-light-grey question-item-child mb-3" data-id="6740a4bce275cb70938e2d2f-1">
+            <div class="d-flex">
+                
+            </div>
+            <div class="title-quiz-choice my-3">
+                <div><p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="line-height:107%">Why is the product struggling to stand out in the market?</span></span></span></span></span></p></div>
+            </div>
+            <div class="answer-quiz-choice px-2">
+                                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">A</b>
+                            <input type="radio" name="Quiz[6740a4bce275cb70938e2d2f][answer][1]" value="0">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="line-height:107%">It is priced too high compared to its competitors</span></span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text-correct text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">B</b>
+                            <input type="radio" name="Quiz[6740a4bce275cb70938e2d2f][answer][1]" value="1">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="line-height:107%">It is too similar to many existing products</span></span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">C</b>
+                            <input type="radio" name="Quiz[6740a4bce275cb70938e2d2f][answer][1]" value="2">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="line-height:107%">It is not available in enough stores</span></span></span></span></span></p>
+                        </div>
+                    </label>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <h3 data-end="188" data-start="110"><strong data-end="186" data-start="114">Câu 1. What is the main issue with the product's promotion campaign?</strong></h3>
+
+<p data-end="231" data-start="189"><strong data-end="200" data-start="189">Đáp án:</strong>&nbsp;<strong><em data-end="231" data-start="201">They use exaggerated claims.</em></strong></p>
+
+<p data-end="249" data-start="233"><strong data-end="247" data-start="233">Trích dẫn:&nbsp;</strong><em data-end="375" data-start="252">“Some advertisements make very strong promises about the product, and in my opinion, these claims are a bit exaggerated.”</em></p>
+
+<p data-end="394" data-start="377"><strong data-end="392" data-start="377">Dịch nghĩa:&nbsp;</strong>“Một số quảng cáo đưa ra những lời hứa rất mạnh mẽ về sản phẩm, và theo ý kiến của tôi, những tuyên bố này hơi phóng đại.”</p>
+
+<p data-end="706" data-start="521">&nbsp;</p>
+
+<h3 data-end="787" data-start="713"><strong data-end="785" data-start="717">Câu 2. Why is the product struggling to stand out in the market?</strong></h3>
+
+<p data-end="855" data-start="788"><strong data-end="804" data-start="788">Đáp án đúng:</strong>&nbsp;<em><strong data-end="855" data-start="805">It is too similar to many existing products</strong></em></p>
+
+<p data-end="873" data-start="857"><strong data-end="871" data-start="857">Trích dẫn:&nbsp;</strong><em data-end="961" data-start="876">“Many customers feel it looks and works almost the same as many existing products.”</em></p>
+
+<p data-end="980" data-start="963"><strong data-end="978" data-start="963">Dịch nghĩa:&nbsp;</strong>“Nhiều khách hàng cảm thấy sản phẩm này trông và hoạt động gần như giống hệt nhiều sản phẩm hiện có.”</p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="668579a4e275cb551a45e6a7" style=""><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">listening</span><div>Question 12 of 15</div></div><div class="clearfix"></div>
+<div class="block-quiz-test" data-id="668579a4e275cb551a45e6a7">
+    <div class="title-quiz-choice my-3">
+        <div class="font-weight-600">Topic: A critic reviews a book</div>
+        <div></div>
+    </div>
+    <input type="hidden" name="Quiz[668579a4e275cb551a45e6a7][id]" value="668579a4e275cb551a45e6a7">
+    
+    <div class="clearfix"></div>
+    <div class="read_and_answer-child mt-3">
+                <div class="clearfix"></div>
+        <div class="w3-padding w3-light-grey question-item-child mb-3" data-id="668579a4e275cb551a45e6a7-0">
+            <div class="d-flex">
+                
+            </div>
+            <div class="title-quiz-choice my-3">
+                <div><p><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Why is the book so popular?</span></span></span></p></div>
+            </div>
+            <div class="answer-quiz-choice px-2">
+                                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text-correct text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">A</b>
+                            <input type="radio" name="Quiz[668579a4e275cb551a45e6a7][answer][0]" value="0">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p>It uses simple language to describe complex ideas</p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">B</b>
+                            <input type="radio" name="Quiz[668579a4e275cb551a45e6a7][answer][0]" value="1">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p>The book is very good</p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">C</b>
+                            <input type="radio" name="Quiz[668579a4e275cb551a45e6a7][answer][0]" value="2">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p>The book sells very well</p>
+                        </div>
+                    </label>
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="clearfix"></div>
+        <div class="w3-padding w3-light-grey question-item-child mb-3" data-id="668579a4e275cb551a45e6a7-1">
+            <div class="d-flex">
+                
+            </div>
+            <div class="title-quiz-choice my-3">
+                <div><p><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">What do people criticize about the book?</span></span></span></p></div>
+            </div>
+            <div class="answer-quiz-choice px-2">
+                                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">A</b>
+                            <input type="radio" name="Quiz[668579a4e275cb551a45e6a7][answer][1]" value="0">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p>This is a book about fiction</p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text-correct text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">B</b>
+                            <input type="radio" name="Quiz[668579a4e275cb551a45e6a7][answer][1]" value="1">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p>It is similar to the previous book about the scientist</p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">C</b>
+                            <input type="radio" name="Quiz[668579a4e275cb551a45e6a7][answer][1]" value="2">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p>Book about literature</p>
+                        </div>
+                    </label>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p><strong>A critic reviews a book <em>(Một nhà phê bình đánh giá một cuốn sách)</em></strong></p>
+
+<p><strong>1. </strong><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><strong>Why is the book so popular?</strong> <em>(</em></span></span></span><em>Tại sao cuốn sách lại nổi tiếng như vậy?)</em></p>
+
+<p>- It uses simple language to describe complex ideas&nbsp;</p>
+
+<p><em>Nó sử dụng ngôn ngữ đơn giản để mô tả những ý tưởng phức tạp.</em></p>
+
+<p>&nbsp;</p>
+
+<p><strong>2. <span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">What do people criticize about the book? </span></span></span></strong><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><em>(</em></span></span></span><em>Người ta chỉ trích gì về cuốn sách này?)</em></p>
+
+<p><em>-&nbsp;</em>It is similar to the previous book about the scientist</p>
+
+<p><em>Nó giống với cuốn sách trước về nhà khoa học.</em></p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="663dfbe2e275cb7a98edd1b4" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">listening</span><div>Question 13 of 15</div></div><div class="clearfix"></div>
+<div class="block-quiz-test" data-id="663dfbe2e275cb7a98edd1b4">
+    <div class="title-quiz-choice my-3">
+        <div class="font-weight-600">Listening part 4: 2 famous writers</div>
+        <div><p style="margin-bottom:13px"><strong><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times=""><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">A literature lecturer is talking about two famous writers and their relationship through their works.</span></span></span></span></span></span></span></span></strong></p>
+
+<p style="margin-bottom: 13px; text-align: center;"><iframe allowfullscreen="true" frameborder="0" src="https://file.unica.vn/embed/459211" style="width: 480px; height: 270px;" loading="lazy"></iframe></p></div>
+    </div>
+    <input type="hidden" name="Quiz[663dfbe2e275cb7a98edd1b4][id]" value="663dfbe2e275cb7a98edd1b4">
+    
+    <div class="clearfix"></div>
+    <div class="read_and_answer-child mt-3">
+                <div class="clearfix"></div>
+        <div class="w3-padding w3-light-grey question-item-child mb-3" data-id="663dfbe2e275cb7a98edd1b4-0">
+            <div class="d-flex">
+                
+            </div>
+            <div class="title-quiz-choice my-3">
+                <div><p><b><span style="font-size:11.0pt"><span style="line-height:115%"><span new="" roman="" style="font-family:" times="">What do these two famous writers have in common?</span></span></span></b></p></div>
+            </div>
+            <div class="answer-quiz-choice px-2">
+                                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">A</b>
+                            <input type="radio" name="Quiz[663dfbe2e275cb7a98edd1b4][answer][0]" value="0">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p>Neither of them mentioned each other in their work</p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text-correct text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">B</b>
+                            <input type="radio" name="Quiz[663dfbe2e275cb7a98edd1b4][answer][0]" value="1">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p>They both make references to each other in their work</p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">C</b>
+                            <input type="radio" name="Quiz[663dfbe2e275cb7a98edd1b4][answer][0]" value="2">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p>Neither of them knew each other</p>
+                        </div>
+                    </label>
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="clearfix"></div>
+        <div class="w3-padding w3-light-grey question-item-child mb-3" data-id="663dfbe2e275cb7a98edd1b4-1">
+            <div class="d-flex">
+                
+            </div>
+            <div class="title-quiz-choice my-3">
+                <div><p><strong><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-US" new="" roman="" style="font-family:" times="">What is special about their works?</span></span></span></span></strong></p></div>
+            </div>
+            <div class="answer-quiz-choice px-2">
+                                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">A</b>
+                            <input type="radio" name="Quiz[663dfbe2e275cb7a98edd1b4][answer][1]" value="0">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p>The meaning of their work is always easy to determine</p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">B</b>
+                            <input type="radio" name="Quiz[663dfbe2e275cb7a98edd1b4][answer][1]" value="1">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p>The meaning of their work is quite easy</p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text-correct text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">C</b>
+                            <input type="radio" name="Quiz[663dfbe2e275cb7a98edd1b4][answer][1]" value="2">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p>The meaning of their work is not always easily identified</p>
+                        </div>
+                    </label>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p style="margin-bottom:13px"><strong><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times=""><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">A literature lecturer is talking about two famous writers and their relationship through their works. </span></span></span></span></span></span></span></span><em><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times=""><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">(</span></span></span></span></span></span></span></span>Một giảng viên văn học đang nói về hai nhà văn nổi tiếng và mối quan hệ của họ qua các tác phẩm.<span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times=""><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span new="" roman="" style="font-family:" times="">)</span></span></span></span></span></span></span></span></em></strong></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">Question 1: What do these two famous writers have in common?</span></b><em><span new="" roman="" style="font-family:" times="">(</span>Hai nhà văn nổi tiếng này có điểm gì chung?<span new="" roman="" style="font-family:" times="">)</span></em><span new="" roman="" style="font-family:" times=""></span><br>
+<span emoji="" segoe="" style="font-family:" ui="">🟩</span><span new="" roman="" style="font-family:" times=""> <b>Đáp án đúng: B. They both make references to each other in their work.</b><br>
+<b>Giải thích:</b> Cả hai nhà văn đều nhắc đến hoặc gợi ý về tác phẩm của nhau trong sáng tác của mình.</span><br>
+<span emoji="" segoe="" style="font-family:" ui="">📘</span><span new="" roman="" style="font-family:" times=""> <b>Trích dẫn:</b> “She directly mentioned David Sinclair as a major inspiration... In his later works, he made several subtle references to her stories.”<br>
+<i>(Bà nhắc đến David Sinclair như một nguồn cảm hứng... Trong các tác phẩm sau này, ông cũng ám chỉ đến truyện của bà.)</i></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b><span new="" roman="" style="font-family:" times="">Question 2: What is special about their works?</span></b><em><span new="" roman="" style="font-family:" times="">(</span>Điều gì đặc biệt về các tác phẩm của họ?<span new="" roman="" style="font-family:" times="">)</span></em><span new="" roman="" style="font-family:" times=""></span><br>
+<span emoji="" segoe="" style="font-family:" ui="">🟩</span><span new="" roman="" style="font-family:" times=""> <b>Đáp án đúng: C. The meaning of their work is not always easily identified.</b><br>
+<b>Giải thích:</b> Các tác phẩm của họ có nhiều tầng ý nghĩa, khó hiểu ngay, buộc người đọc phải tự diễn giải.</span><br>
+<span emoji="" segoe="" style="font-family:" ui="">📘</span><span new="" roman="" style="font-family:" times=""> <b>Trích dẫn:</b> “Neither author provided straightforward meanings; instead, they left space for readers to form their own understanding.”<br>
+<i>(Cả hai đều không đưa ra ý nghĩa rõ ràng, mà để người đọc tự tìm hiểu.)</i></span></span></span></span></p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="6638a1a5e275cb6c8fedd19d" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">listening</span><div>Question 14 of 15</div></div><div class="clearfix"></div>
+<div class="block-quiz-test" data-id="6638a1a5e275cb6c8fedd19d">
+    <div class="title-quiz-choice my-3">
+        <div class="font-weight-600">Topic: Television series/Chủ đề: loạt phim truyền hình</div>
+        <div><h3 style="margin-top:11px; margin-bottom:5px"><span style="font-size:14pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span style="color:#365f91"><span style="font-weight:normal"><b><span lang="EN-US" new="" roman="" style="font-family:" times=""><span style="color:black">A TV critic is giving opinions about television series.</span></span></b></span></span></span></span></span></h3>
+
+<p style="text-align: center;"><iframe allowfullscreen="true" frameborder="0" src="https://file.unica.vn/embed/458891" style="width: 480px; height: 270px;" loading="lazy"></iframe></p></div>
+    </div>
+    <input type="hidden" name="Quiz[6638a1a5e275cb6c8fedd19d][id]" value="6638a1a5e275cb6c8fedd19d">
+    
+    <div class="clearfix"></div>
+    <div class="read_and_answer-child mt-3">
+                <div class="clearfix"></div>
+        <div class="w3-padding w3-light-grey question-item-child mb-3" data-id="6638a1a5e275cb6c8fedd19d-0">
+            <div class="d-flex">
+                
+            </div>
+            <div class="title-quiz-choice my-3">
+                <div><p><strong><span lang="EN-US" style="font-size:11.0pt"><span style="line-height:115%">Why is this series so popular?</span></span></strong></p></div>
+            </div>
+            <div class="answer-quiz-choice px-2">
+                                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text-correct text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">A</b>
+                            <input type="radio" name="Quiz[6638a1a5e275cb6c8fedd19d][answer][0]" value="0">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p>It has the consistent quality throughout</p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">B</b>
+                            <input type="radio" name="Quiz[6638a1a5e275cb6c8fedd19d][answer][0]" value="1">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p>It's really worth it</p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">C</b>
+                            <input type="radio" name="Quiz[6638a1a5e275cb6c8fedd19d][answer][0]" value="2">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p>It's priceless</p>
+                        </div>
+                    </label>
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="clearfix"></div>
+        <div class="w3-padding w3-light-grey question-item-child mb-3" data-id="6638a1a5e275cb6c8fedd19d-1">
+            <div class="d-flex">
+                
+            </div>
+            <div class="title-quiz-choice my-3">
+                <div><p><strong><span lang="EN-US" style="font-size:11.0pt"><span style="line-height:115%">What is the current series industry affected by?</span></span></strong></p></div>
+            </div>
+            <div class="answer-quiz-choice px-2">
+                                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">A</b>
+                            <input type="radio" name="Quiz[6638a1a5e275cb6c8fedd19d][answer][1]" value="0">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p>That's Film very great</p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text- text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">B</b>
+                            <input type="radio" name="Quiz[6638a1a5e275cb6c8fedd19d][answer][1]" value="1">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p>They don't like this movie</p>
+                        </div>
+                    </label>
+                </div>
+                
+                <div class="answer-radio cursor-pointer mb-2">
+                    <label class="text-correct text- area-answer-quiz d-flex gap-1 border">
+                        <div class="py-2 px-3 border-right mb-0">
+                            <b class="text-capitalize text-2xl">C</b>
+                            <input type="radio" name="Quiz[6638a1a5e275cb6c8fedd19d][answer][1]" value="2">
+                        </div>
+                        <div class="flex-1 p-2">
+                            <p>Viewer habits influence the way that series are made</p>
+                        </div>
+                    </label>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <div><span style="font-size:14pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span style="color:#365f91"><span style="font-weight:normal"><b><span lang="EN-US" new="" roman="" style="font-family:" times=""><span style="color:black">A TV critic is giving opinions about television series.&nbsp;</span></span></b><em><span lang="EN-US" new="" roman="" style="font-family:" times=""><span style="color:black">(</span></span>Một nhà phê bình truyền hình đang đưa ra ý kiến về các bộ phim truyền hình.<span lang="EN-US" new="" roman="" style="font-family:" times=""><span style="color:black">)</span></span></em></span></span></span></span></span></div>
+
+<p><span style="font-size:12pt"><span new="" roman="" style="font-family:" times=""><strong>Question 1: Why is this series so popular?</strong><em>(Tại sao bộ phim truyền hình này lại nổi tiếng đến vậy?)</em><br>
+<span emoji="" segoe="" style="font-family:" ui="">🟩</span> <strong>Đáp án đúng:</strong> A. It has consistent quality throughout.<br>
+<strong>Giải thích:</strong> Nhà phê bình nói rõ rằng sức hút của phim nằm ở <strong>chất lượng ổn định xuyên suốt</strong> — từ kịch bản, diễn xuất đến đạo diễn.<br>
+<span emoji="" segoe="" style="font-family:" ui="">📘</span> <strong>Trích dẫn:</strong> “It’s because of its <strong>consistent quality throughout</strong> the entire run.”<br>
+<em>(Là vì </em><strong><i>chất lượng ổn định xuyên suốt</i></strong><em> toàn bộ loạt phim.)</em></span></span></p>
+
+<div align="center" style="text-align:center; margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"> </span></span></span></div>
+
+<p><span style="font-size:12pt"><span new="" roman="" style="font-family:" times=""><strong>Question 2: What is the current series industry affected by?</strong><em>(Ngành công nghiệp phim truyền hình hiện nay bị ảnh hưởng bởi điều gì?)</em><br>
+<span emoji="" segoe="" style="font-family:" ui="">🟩</span> <strong>Đáp án đúng:</strong> A. Viewer habits influence the way that series are made.<br>
+<strong>Giải thích:</strong> Người nói khẳng định rằng <strong>thói quen xem phim của khán giả ảnh hưởng mạnh đến cách làm phim</strong> hiện nay.<br>
+<span emoji="" segoe="" style="font-family:" ui="">📘</span> <strong>Trích dẫn:</strong> “Viewer habits have a huge impact… producers now design episodes to grab attention quickly.”<br>
+<em>(</em><strong><i>Thói quen người xem</i></strong><em> có ảnh hưởng lớn… các nhà sản xuất phải thiết kế tập phim sao cho thu hút nhanh.)</em></span></span></p>
+    </div>
+</div>
+</div></div><div class="question-item" data-id="682edceae275cb23618b457c" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">listening</span><div>Question 15 of 15</div></div>
+
+<div class="clearfix"></div>
+<div class="block-quiz-test select_word quiz_check_correct" data-id="682edceae275cb23618b457c">
+    <div class="w3-padding w3-light-grey ">
+        <input type="hidden" name="Quiz[682edceae275cb23618b457c][id]" value="682edceae275cb23618b457c">
+        <div class="d-flex">
+            
+        </div>
+        <div class="title-quiz-choice my-3">
+            <div class="font-weight-600">[Mai Hien key 6.0] - Listening 17 - câu 15 (Arts)</div>
+            <div><p><img height="477" src="https://file.unica.vn/storage/ed47eee2e28adfb650351a89bd318ad2be3cdef6/image-5598.png" width="788" loading="lazy"></p>
+
+<p>&nbsp;</p>
+
+<p>(Đề này đang cập nhật audio, ae học trước bản word nhé!)</p>
+
+<p><span style="font-size:11pt"><span style="line-height:115%"><span sans-serif="" style="font-family:Arial,"><span lang="EN-GB" style="font-size:13.0pt"><span style="line-height:115%"><span new="" roman="" style="font-family:" times="">Art is only suitable for the privileged few: <select class="select_word" name="Quiz[682edceae275cb23618b457c][answer][0]" disabled=""><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Woman ]</label></span></span></span></span></span></span><span style="font-size:11pt"><span style="line-height:115%"><span sans-serif="" style="font-family:Arial,"><span lang="EN-GB" style="font-size:13.0pt"><span style="line-height:115%"><span new="" roman="" style="font-family:" times=""></span></span></span></span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="line-height:115%"><span sans-serif="" style="font-family:Arial,"><span lang="EN-GB" style="font-size:13.0pt"><span style="line-height:115%"><span new="" roman="" style="font-family:" times="">The government should invest more in arts:&nbsp;<select class="select_word" name="Quiz[682edceae275cb23618b457c][answer][1]" disabled=""><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Man ]</label></span></span></span></span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="line-height:115%"><span sans-serif="" style="font-family:Arial,"><span lang="EN-GB" style="font-size:13.0pt"><span style="line-height:115%"><span new="" roman="" style="font-family:" times="">Children should be exposed to art early: <select class="select_word" name="Quiz[682edceae275cb23618b457c][answer][2]" disabled=""><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Both ]</label></span></span></span></span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="line-height:115%"><span sans-serif="" style="font-family:Arial,"><span lang="EN-GB" style="font-size:13.0pt"><span style="line-height:115%"><span new="" roman="" style="font-family:" times="">In the future, art will become more accessible:&nbsp;<span style="font-size:11pt"><span style="line-height:115%"><span sans-serif="" style="font-family:Arial,"><span lang="EN-GB" style="font-size:13.0pt"><span style="line-height:115%"><span new="" roman="" style="font-family:" times=""><select class="select_word" name="Quiz[682edceae275cb23618b457c][answer][3]" disabled=""><option value="">----</option><option value="Both">Both</option><option value="Man">Man</option><option value="Woman">Woman</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ Man ]</label></span></span></span></span></span></span></span></span></span></span></span></span></p></div>
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <h3 data-end="169" data-start="110"><strong data-end="167" data-start="114">1. Art is only suitable for the privileged few: W</strong></h3>
+
+<p data-end="186" data-start="170"><strong data-end="184" data-start="170">Trích dẫn:</strong></p>
+
+<blockquote data-end="420" data-start="187">
+<p data-end="420" data-start="189">"I think art is only for the wealthy. Poor people don’t have the opportunity or time to enjoy art."<br data-end="291" data-start="288">
+<strong data-end="300" data-start="291">Dịch:</strong><br data-end="303" data-start="300">
+"Tôi nghĩ nghệ thuật chỉ dành cho người giàu. Người nghèo không có cơ hội hay thời gian để thưởng thức nghệ thuật."</p>
+</blockquote>
+
+<p data-end="591" data-start="422"><strong data-end="437" data-start="422">Giải thích:</strong><br data-end="440" data-start="437">
+W cho rằng nghệ thuật chỉ phù hợp với người giàu vì người nghèo thiếu điều kiện tiếp cận, thể hiện quan điểm nghệ thuật dành cho thiểu số có đặc quyền.</p>
+
+<h3 data-end="655" data-start="598"><strong data-end="653" data-start="602">2. The government should invest more in arts: M</strong></h3>
+
+<p data-end="672" data-start="656"><strong data-end="670" data-start="656">Trích dẫn:</strong></p>
+
+<blockquote data-end="929" data-start="673">
+<p data-end="929" data-start="675">"I hope that the authorities and the government will invest more in the arts and make them accessible to everyone..."<br data-end="795" data-start="792">
+<strong data-end="804" data-start="795">Dịch:</strong><br data-end="807" data-start="804">
+"Tôi hy vọng chính quyền và chính phủ sẽ đầu tư nhiều hơn vào nghệ thuật và làm cho nó dễ tiếp cận hơn với mọi người..."</p>
+</blockquote>
+
+<p data-end="1059" data-start="931"><strong data-end="946" data-start="931">Giải thích:</strong><br data-end="949" data-start="946">
+M tin rằng đầu tư của chính phủ sẽ giúp nghệ thuật trở nên phổ cập hơn, thể hiện mong muốn hỗ trợ từ nhà nước.</p>
+
+<h3 data-end="1121" data-start="1066"><strong data-end="1119" data-start="1070">3. Children should be exposed to art early: B</strong></h3>
+
+<p data-end="1138" data-start="1122"><strong data-end="1136" data-start="1122">Trích dẫn:</strong></p>
+
+<blockquote data-end="1356" data-start="1139">
+<p data-end="1356" data-start="1141">"Children should be introduced to the arts early so they can develop their own sense of beauty sooner."<br data-end="1247" data-start="1244">
+<strong data-end="1256" data-start="1247">Dịch:</strong><br data-end="1259" data-start="1256">
+"Trẻ em nên được tiếp cận với nghệ thuật từ sớm để có thể phát triển cảm quan thẩm mỹ sớm hơn."</p>
+</blockquote>
+
+<p data-end="1507" data-start="1358"><strong data-end="1373" data-start="1358">Giải thích:</strong><br data-end="1376" data-start="1373">
+Bủng hộ việc cho trẻ tiếp cận nghệ thuật từ nhỏ để hình thành thẩm mỹ sớm, thể hiện quan điểm giáo dục nghệ thuật sớm là cần thiết.</p>
+
+<h3 data-end="1576" data-start="1514"><strong data-end="1574" data-start="1518">4. In the future, art will become more accessible: M</strong></h3>
+
+<p data-end="1593" data-start="1577"><strong data-end="1591" data-start="1577">Trích dẫn:</strong></p>
+
+<blockquote data-end="1784" data-start="1594">
+<p data-end="1784" data-start="1596">"With the development of technology... art is becoming more accessible than ever."<br data-end="1681" data-start="1678">
+<strong data-end="1690" data-start="1681">Dịch:</strong><br data-end="1693" data-start="1690">
+"Với sự phát triển của công nghệ... nghệ thuật đang trở nên dễ tiếp cận hơn bao giờ hết."</p>
+</blockquote>
+
+<p data-end="1903" data-start="1786"><strong data-end="1801" data-start="1786">Giải thích:</strong><br data-end="1804" data-start="1801">
+M lạc quan về tương lai, cho rằng công nghệ sẽ giúp nghệ thuật đến gần hơn với công chúng rộng rãi.</p>
+    </div>
+</div>
+</div>
+
+</div></form>

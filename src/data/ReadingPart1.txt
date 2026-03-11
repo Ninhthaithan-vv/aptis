@@ -1,0 +1,856 @@
+<form id="form-save-test" class="skill-content container">
+        <div class="skill-instruction" style="display: none;">
+            <ul>
+ <li><em>Bộ đề Mai Hien key 6.0 chứa đựng rất nhiều chất xám, công sức và tiền bạc của cả đội ngũ, được cập nhật chuẩn theo form kỳ thi Aptis mới nhất, giúp các bạn làm quen với dạng câu hỏi và cách trả lời, tự tin hơn khi vào phòng thi.</em></li>
+ <li><em>Nội dung luôn bám sát đề thi thực tế, các đáp án đều là thật và cập nhật liên tục, hình ảnh minh họa sinh động, lạc quan, tạo cảm hứng học tập, giúp bạn duy trì động lực và hứng thú với tiếng Anh.</em></li>
+ <li><em>Mến chúc các bạn học tốt, yêu thích ngôn ngữ và có trải nghiệm thú vị với kỳ thi Aptis nói riêng và Tiếng Anh nói chung, từ đó góp phần đạt được những mục tiêu trong cuộc sống!</em></li>
+</ul>
+
+<p align="right"><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Trân trọng,</em></p>
+
+<p align="right"><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dr. Lâm.</em></p>
+        </div>
+    <div class="question-item" data-id="695a6c6ae275cb4d4f8b456b" style=""><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 1 of 13</div></div>
+
+<div class="clearfix"></div>
+<div class="block-quiz-test select_word quiz_check_correct" data-id="695a6c6ae275cb4d4f8b456b">
+    <div class="w3-padding w3-light-grey ">
+        <input type="hidden" name="Quiz[695a6c6ae275cb4d4f8b456b][id]" value="695a6c6ae275cb4d4f8b456b">
+        <div class="d-flex">
+            
+        </div>
+        <div class="title-quiz-choice my-3">
+            <div class="font-weight-600">[Mai Hien key 6.0] - Reading plus - part 1 - love small shop people visit</div>
+            <div><p data-end="482" data-start="128">Hi Mum,<br data-end="138" data-start="135">
+I am living in a house near my job.<br data-end="176" data-start="173">
+The house is very beautiful and I <select class="select_word" name="Quiz[695a6c6ae275cb4d4f8b456b][answer][0]" disabled=""><option value="">----</option><option value="like">like</option><option value="love">love</option><option value="need">need</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ love ]</label> it.<br data-end="233" data-start="230">
+The kitchen is nice, but it is a bit <select class="select_word" name="Quiz[695a6c6ae275cb4d4f8b456b][answer][1]" disabled=""><option value="">----</option><option value="clean">clean</option><option value="modern">modern</option><option value="small">small</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ small ]</label>.<br data-end="294" data-start="291">
+I am working at a <select class="select_word" name="Quiz[695a6c6ae275cb4d4f8b456b][answer][2]" disabled=""><option value="">----</option><option value="hospital">hospital</option><option value="school">school</option><option value="shop">shop</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ shop ]</label> in the town.<br data-end="350" data-start="347">
+I see many <select class="select_word" name="Quiz[695a6c6ae275cb4d4f8b456b][answer][3]" disabled=""><option value="">----</option><option value="buildings">buildings</option><option value="cars">cars</option><option value="people">people</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ people ]</label> every day and I love talking to them.<br data-end="425" data-start="422">
+I am going to <select class="select_word" name="Quiz[695a6c6ae275cb4d4f8b456b][answer][4]" disabled=""><option value="">----</option><option value="call">call</option><option value="email">email</option><option value="visit">visit</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ visit ]</label> you soon so I’m happy.</p>
+
+<p data-end="496" data-start="484">Love,<br data-end="492" data-start="489">
+Anna</p></div>
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p data-end="911" data-start="527">Chào mẹ,<br data-end="538" data-start="535">
+Con đang sống trong một ngôi nhà gần nơi làm việc.&nbsp;<br data-end="609" data-start="606">
+Ngôi nhà rất đẹp và con <strong data-end="660" data-start="633">rất yêu thích nó (love)</strong>.<br data-end="664" data-start="661">
+Nhà bếp thì đẹp nhưng <strong data-end="705" data-start="686">hơi nhỏ (small)</strong>.<br data-end="709" data-start="706">
+Con đang làm việc tại một <strong data-end="754" data-start="735">cửa hàng (shop)</strong> trong thị trấn.<br data-end="773" data-start="770">
+Mỗi ngày con gặp rất nhiều <strong data-end="818" data-start="800">người (people)</strong> và con thích nói chuyện với họ.<br data-end="853" data-is-only-node="" data-start="850">
+Con sẽ <strong data-end="883" data-start="860">đến thăm mẹ (visit)</strong> sớm thôi nên con rất vui.</p>
+
+<p data-end="930" data-start="913">Thương mẹ,<br data-end="926" data-start="923">
+Anna</p>
+    </div>
+</div>
+</div>
+
+</div><div class="question-item" data-id="6905e1e2e275cb93588b4589" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 2 of 13</div></div>
+
+<div class="clearfix"></div>
+<div class="block-quiz-test select_word quiz_check_correct" data-id="6905e1e2e275cb93588b4589">
+    <div class="w3-padding w3-light-grey ">
+        <input type="hidden" name="Quiz[6905e1e2e275cb93588b4589][id]" value="6905e1e2e275cb93588b4589">
+        <div class="d-flex">
+            
+        </div>
+        <div class="title-quiz-choice my-3">
+            <div class="font-weight-600">[Mai Hien key 6.0] - Reading plus - part 1 - morning part leave breakfast meet</div>
+            <div><p>Hi David,<br data-end="103" data-start="100">
+Every day in the <strong data-end="155" data-start="120"><select class="select_word" name="Quiz[6905e1e2e275cb93588b4589][answer][0]" disabled=""><option value="">----</option><option value="afternoon">afternoon</option><option value="evening">evening</option><option value="morning">morning</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ morning ]</label></strong>, I get up early to start my routine.<br data-end="195" data-start="192">
+At the <strong data-end="228" data-start="202"><select class="select_word" name="Quiz[6905e1e2e275cb93588b4589][answer][1]" disabled=""><option value="">----</option><option value="office">office</option><option value="park">park</option><option value="shop">shop</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ park ]</label></strong>, I do some exercises to stay healthy.<br data-end="269" data-start="266">
+I <strong data-end="297" data-start="271"><select class="select_word" name="Quiz[6905e1e2e275cb93588b4589][answer][2]" disabled=""><option value="">----</option><option value="drive">drive</option><option value="leave">leave</option><option value="wash">wash</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ leave ]</label></strong> my car at home and walk to work instead.<br data-end="341" data-start="338">
+After that, I have to eat <strong data-end="399" data-start="367"><select class="select_word" name="Quiz[6905e1e2e275cb93588b4589][answer][3]" disabled=""><option value="">----</option><option value="breakfast">breakfast</option><option value="dinner">dinner</option><option value="snack">snack</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ breakfast ]</label></strong> before leaving.<br data-end="418" data-start="415">
+I’ll <strong data-end="448" data-start="423"><select class="select_word" name="Quiz[6905e1e2e275cb93588b4589][answer][4]" disabled=""><option value="">----</option><option value="call">call</option><option value="meet">meet</option><option value="visit">visit</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ meet ]</label></strong> you later today to talk about our plan.<br data-end="491" data-start="488">
+Best,<br data-end="499" data-start="496">
+James</p></div>
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p data-end="361" data-start="169"><strong data-end="182" data-start="169">Hi David,</strong><br data-end="185" data-start="182">
+<strong data-end="227" data-start="185">Every day in the [morning] (buổi sáng)</strong>, I get up early to start my routine.<br data-end="267" data-start="264">
+→ Mỗi ngày <strong data-end="305" data-start="278">vào buổi sáng (morning)</strong>, tôi dậy sớm để bắt đầu thói quen hàng ngày của mình.</p>
+
+<p data-end="497" data-start="363"><strong data-end="392" data-start="363">At the [park] (công viên)</strong>, I do some exercises to stay healthy.<br data-end="433" data-start="430">
+→ Ở <strong data-end="457" data-start="437">công viên (park)</strong>, tôi tập thể dục để giữ gìn sức khỏe.</p>
+
+<p data-end="633" data-start="499"><strong data-end="521" data-start="499">I [leave] (để lại)</strong> my car at home and walk to work instead.<br data-end="565" data-start="562">
+→ Tôi <strong data-end="588" data-start="571">để xe (leave)</strong> ở nhà và đi bộ đến chỗ làm thay vì lái xe.</p>
+
+<p data-end="774" data-start="635"><strong data-end="687" data-start="635">After that, I have to eat [breakfast] (bữa sáng)</strong> before leaving.<br data-end="706" data-start="703">
+→ Sau đó, tôi phải ăn <strong data-end="752" data-start="728">bữa sáng (breakfast)</strong> trước khi ra ngoài.</p>
+
+<p data-end="924" data-start="776"><strong data-end="797" data-start="776">I’ll [meet] (gặp)</strong> you later today to talk about our plan.<br data-end="840" data-start="837">
+→ Tôi sẽ <strong data-end="863" data-start="849">gặp (meet)</strong> bạn vào cuối ngày hôm nay để nói về kế hoạch của chúng ta.</p>
+
+<p data-end="947" data-start="926"><strong data-end="935" data-start="926">Best,</strong><br data-end="938" data-start="935">
+<strong data-end="947" data-start="938">James</strong></p>
+    </div>
+</div>
+</div>
+
+</div><div class="question-item" data-id="68e133ece275cb38d58b4576" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 3 of 13</div></div>
+
+<div class="clearfix"></div>
+<div class="block-quiz-test select_word quiz_check_correct" data-id="68e133ece275cb38d58b4576">
+    <div class="w3-padding w3-light-grey ">
+        <input type="hidden" name="Quiz[68e133ece275cb38d58b4576][id]" value="68e133ece275cb38d58b4576">
+        <div class="d-flex">
+            
+        </div>
+        <div class="title-quiz-choice my-3">
+            <div class="font-weight-600">[Mai Hien key 6.0] - Reading plus - part 1 - visit, shops, red, dinner, watch</div>
+            <div><p data-end="115" data-start="39"><strong>Choose one word from the list for each gap. The first one is done for you.</strong></p>
+
+<p data-end="529" data-start="122">Hi Alex,<br data-end="133" data-start="130">
+They book a flight to <select class="select_word" name="Quiz[68e133ece275cb38d58b4576][answer][0]" disabled=""><option value="">----</option><option value="arrive">arrive</option><option value="see">see</option><option value="visit">visit</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ visit ]</label> their relatives abroad.<br data-end="204" data-start="201">
+The airport has many <select class="select_word" name="Quiz[68e133ece275cb38d58b4576][answer][1]" disabled=""><option value="">----</option><option value="cafés">cafés</option><option value="rooms">rooms</option><option value="shops">shops</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ shops ]</label> selling souvenirs.<br data-end="270" data-start="267">
+Their luggage is <select class="select_word" name="Quiz[68e133ece275cb38d58b4576][answer][2]" disabled=""><option value="">----</option><option value="heavy">heavy</option><option value="red">red</option><option value="small">small</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ red ]</label>, making it easy to find at the terminal.<br data-end="352" data-start="349">
+For <select class="select_word" name="Quiz[68e133ece275cb38d58b4576][answer][3]" disabled=""><option value="">----</option><option value="breakfast">breakfast</option><option value="dessert">dessert</option><option value="dinner">dinner</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ dinner ]</label>, they try local street food with spicy flavors.<br data-end="437" data-start="434">
+At night, they <select class="select_word" name="Quiz[68e133ece275cb38d58b4576][answer][4]" disabled=""><option value="">----</option><option value="dance">dance</option><option value="read">read</option><option value="watch">watch</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ watch ]</label> a performance of traditional dance.<br data-end="513" data-start="510">
+Love,<br data-end="521" data-start="518">
+Mark</p></div>
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p>Họ đặt chuyến bay để <strong data-end="615" data-start="599">thăm (visit)</strong> người thân ở nước ngoài.<br data-end="643" data-start="640">
+Sân bay có rất nhiều <strong data-end="688" data-start="668">cửa hàng (shops)</strong> bán đồ lưu niệm.<br data-end="708" data-start="705">
+Hành lý của họ màu <strong data-end="743" data-start="731">đỏ (red)</strong>, nên rất dễ nhận ra ở sân ga.<br data-end="776" data-start="773">
+Vào <strong data-end="804" data-start="784">bữa tối (dinner)</strong>, họ thử món ăn đường phố địa phương với hương vị cay nồng.<br data-end="866" data-start="863">
+Buổi tối, họ <strong data-end="898" data-start="883">xem (watch)</strong> một buổi biểu diễn múa truyền thống.</p>
+    </div>
+</div>
+</div>
+
+</div><div class="question-item" data-id="68d95cb2e275cbcf3a8b4571" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 4 of 13</div></div>
+
+<div class="clearfix"></div>
+<div class="block-quiz-test select_word quiz_check_correct" data-id="68d95cb2e275cbcf3a8b4571">
+    <div class="w3-padding w3-light-grey ">
+        <input type="hidden" name="Quiz[68d95cb2e275cbcf3a8b4571][id]" value="68d95cb2e275cbcf3a8b4571">
+        <div class="d-flex">
+            
+        </div>
+        <div class="title-quiz-choice my-3">
+            <div class="font-weight-600">[Mai Hien key 6.0] - Reading plus - part 1 - near, small, shop, people, visit</div>
+            <div><p data-end="285" data-start="164"><strong data-end="283" data-start="164">Read the email from David to his friend. Choose one word from the list for each gap. The first one is done for you.</strong></p>
+
+<p data-end="296" data-start="287">Hi Ben,</p>
+
+<p data-end="349" data-start="298">I want to tell you something about my daily life.</p>
+
+<p data-end="400" data-start="351">I live in a house <select class="select_word" name="Quiz[68d95cb2e275cbcf3a8b4571][answer][0]" disabled=""><option value="">----</option><option value="near">near</option><option value="on">on</option><option value="under">under</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ near ]</label> the park.</p>
+
+<p data-end="467" data-start="402">My house has a kitchen, but it is very <select class="select_word" name="Quiz[68d95cb2e275cbcf3a8b4571][answer][1]" disabled=""><option value="">----</option><option value="heavy">heavy</option><option value="large">large</option><option value="small">small</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ small ]</label>.</p>
+
+<p data-end="529" data-start="469">I work at a <select class="select_word" name="Quiz[68d95cb2e275cbcf3a8b4571][answer][2]" disabled=""><option value="">----</option><option value="school">school</option><option value="shop">shop</option><option value="station">station</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ shop ]</label> to sell the clothes.</p>
+
+<p data-end="599" data-start="531">I can meet many people and want to <select class="select_word" name="Quiz[68d95cb2e275cbcf3a8b4571][answer][3]" disabled=""><option value="">----</option><option value="look">look</option><option value="see">see</option><option value="talk">talk</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ talk ]</label>&nbsp;to them.</p>
+
+<p data-end="652" data-start="601">I am going to <select class="select_word" name="Quiz[68d95cb2e275cbcf3a8b4571][answer][4]" disabled=""><option value="">----</option><option value="close">close</option><option value="draw">draw</option><option value="visit">visit</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ visit ]</label> my hometown.</p>
+
+<p data-end="669" data-start="654">Love,<br data-end="662" data-start="659">
+David</p></div>
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p data-end="105" data-start="94"><em>Chào Ben,</em></p>
+
+<p data-end="176" data-start="107"><em>Mình muốn kể cho bạn nghe một chút về cuộc sống hằng ngày của mình.</em></p>
+
+<p data-end="227" data-start="178"><em>Mình sống trong một ngôi nhà <strong data-end="214" data-start="207">gần</strong> công viên.</em></p>
+
+<p data-end="277" data-start="229"><em>Nhà mình có một căn bếp, nhưng nó rất <strong data-end="274" data-start="267">nhỏ</strong>.</em></p>
+
+<p data-end="329" data-start="279"><em>Mình làm việc ở một <strong data-end="311" data-start="299">cửa hàng</strong> để bán quần áo.</em></p>
+
+<p data-end="394" data-start="331"><em>Mình có thể gặp gỡ nhiều người&nbsp;và muốn <strong>trò chuyện</strong> với họ.</em></p>
+
+<p data-end="438" data-start="396"><em>Mình sắp <strong data-end="416" data-start="405">về thăm</strong> quê hương của mình.</em></p>
+
+<p data-end="455" data-start="440"><em>Thân,<br data-end="448" data-start="445">
+David</em></p>
+    </div>
+</div>
+</div>
+
+</div><div class="question-item" data-id="68d95aace275cb1c0b8b4586" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 5 of 13</div></div>
+
+<div class="clearfix"></div>
+<div class="block-quiz-test select_word quiz_check_correct" data-id="68d95aace275cb1c0b8b4586">
+    <div class="w3-padding w3-light-grey ">
+        <input type="hidden" name="Quiz[68d95aace275cb1c0b8b4586][id]" value="68d95aace275cb1c0b8b4586">
+        <div class="d-flex">
+            
+        </div>
+        <div class="title-quiz-choice my-3">
+            <div class="font-weight-600">[Mai Hien key 6.0] - Reading plus - part 1 - visit, room, hot, train, speak</div>
+            <div><p data-end="441" data-start="312"><strong>Read the email from Anna to her friend. Choose one word from the list for each gap. The first one is done for you.</strong></p>
+
+<p data-end="458" data-start="448">Hi Emma,</p>
+
+<p data-end="542" data-start="460">Yesterday I went to the museum to <select class="select_word" name="Quiz[68d95aace275cb1c0b8b4586][answer][0]" disabled=""><option value="">----</option><option value="drive">drive</option><option value="play">play</option><option value="visit">visit</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ visit ]</label> the new art exhibition.</p>
+
+<p data-end="627" data-start="544">In the middle of the <select class="select_word" name="Quiz[68d95aace275cb1c0b8b4586][answer][1]" disabled=""><option value="">----</option><option value="garden">garden</option><option value="park">park</option><option value="room">room</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ room ]</label>, there was a big tree – very unusual.</p>
+
+<p data-end="705" data-start="629">The weather was very <select class="select_word" name="Quiz[68d95aace275cb1c0b8b4586][answer][2]" disabled=""><option value="">----</option><option value="cold">cold</option><option value="hot">hot</option><option value="rainy">rainy</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ hot ]</label> that day, so I felt quite tired.</p>
+
+<p data-end="758" data-start="707">On the way home, I took the <select class="select_word" name="Quiz[68d95aace275cb1c0b8b4586][answer][3]" disabled=""><option value="">----</option><option value="bike">bike</option><option value="car">car</option><option value="train">train</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ train ]</label>.</p>
+
+<p data-end="840" data-start="760">At the museum, I could <select class="select_word" name="Quiz[68d95aace275cb1c0b8b4586][answer][4]" disabled=""><option value="">----</option><option value="sing">sing</option><option value="speak">speak</option><option value="write">write</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ speak ]</label> with a tour guide about history.</p>
+
+<p data-end="856" data-start="842">Love,<br data-end="850" data-start="847">
+Anna</p></div>
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p data-end="95" data-start="64"><em><strong data-end="76" data-start="64">Hi Emma,</strong><br data-end="79" data-start="76">
+<strong data-end="93" data-start="79">Chào Emma,</strong></em></p>
+
+<p data-end="240" data-start="97"><em><strong data-end="164" data-start="97">Yesterday I went to the museum to visit the new art exhibition.</strong><br data-end="167" data-start="164">
+Hôm qua mình đã đi bảo tàng để tham quan buổi triển lãm nghệ thuật mới.</em></p>
+
+<p data-end="371" data-start="242"><em><strong data-end="309" data-start="242">In the middle of the room, there was a big tree – very unusual.</strong><br data-end="312" data-start="309">
+Ở giữa căn phòng có một cái cây rất to – thật sự khác lạ.</em></p>
+
+<p data-end="492" data-start="373"><em><strong data-end="434" data-start="373">The weather was very hot that day, so I felt quite tired.</strong><br data-end="437" data-start="434">
+Thời tiết hôm đó rất nóng, nên mình cảm thấy khá mệt.</em></p>
+
+<p data-end="571" data-start="494"><em><strong data-end="532" data-start="494">On the way home, I took the train.</strong><br data-end="535" data-start="532">
+Trên đường về nhà, mình đã đi tàu.</em></p>
+
+<p data-end="717" data-start="573"><em><strong data-end="638" data-start="573">At the museum, I could speak with a tour guide about history.</strong><br data-end="641" data-start="638">
+Tại bảo tàng, mình đã có thể trò chuyện với một hướng dẫn viên về lịch sử.</em></p>
+
+<p data-end="748" data-start="719"><em><strong data-end="733" data-start="719">Love, Anna</strong><br data-end="736" data-start="733">
+Thân, Anna</em></p>
+    </div>
+</div>
+</div>
+
+</div><div class="question-item" data-id="68d92b60e275cb140c8b456f" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 6 of 13</div></div>
+
+<div class="clearfix"></div>
+<div class="block-quiz-test select_word quiz_check_correct" data-id="68d92b60e275cb140c8b456f">
+    <div class="w3-padding w3-light-grey ">
+        <input type="hidden" name="Quiz[68d92b60e275cb140c8b456f][id]" value="68d92b60e275cb140c8b456f">
+        <div class="d-flex">
+            
+        </div>
+        <div class="title-quiz-choice my-3">
+            <div class="font-weight-600">[Mai Hien key 6.0] - Reading plus - part 1 (station, stops, green, dinner, films)</div>
+            <div><p data-end="404" data-start="286"><strong data-end="404" data-start="286">Read the email from Alex to his friend. Choose one word from the list for each gap. The first one is done for you.</strong></p>
+
+<p data-end="415" data-start="406">Hi Janny,</p>
+
+<p data-end="502" data-start="417">Tomorrow, I have to go to the main bus <select class="select_word" name="Quiz[68d92b60e275cb140c8b456f][answer][0]" disabled=""><option value="">----</option><option value="road">road</option><option value="school">school</option><option value="station">station</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ station ]</label> to meet my cousin.</p>
+
+<p data-end="579" data-start="504">Luckily, one of the bus <select class="select_word" name="Quiz[68d92b60e275cb140c8b456f][answer][1]" disabled=""><option value="">----</option><option value="cars">cars</option><option value="seats">seats</option><option value="stops">stops</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ stops ]</label> is very close to my house.</p>
+
+<p data-end="668" data-start="581">My house is easy to find – it’s <select class="select_word" name="Quiz[68d92b60e275cb140c8b456f][answer][2]" disabled=""><option value="">----</option><option value="big">big</option><option value="green">green</option><option value="small">small</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ green ]</label> and stands out from the others.</p>
+
+<p data-end="768" data-start="670">This evening I’ll make some eggs for <select class="select_word" name="Quiz[68d92b60e275cb140c8b456f][answer][3]" disabled=""><option value="">----</option><option value="breakfast">breakfast</option><option value="dinner">dinner</option><option value="lunch">lunch</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ dinner ]</label> because it’s quick and simple.</p>
+
+<p data-end="851" data-start="770">After that, we can relax and watch some <select class="select_word" name="Quiz[68d92b60e275cb140c8b456f][answer][4]" disabled=""><option value="">----</option><option value="books">books</option><option value="films">films</option><option value="games">games</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ films ]</label> together on TV.</p>
+
+<p data-end="867" data-start="853">Love,<br data-end="861" data-start="858">
+Jessica</p></div>
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p data-end="102" data-start="91">Chào Janny,</p>
+
+<p data-end="169" data-start="104">Ngày mai, mình phải đi đến <strong data-end="152" data-start="131">bến xe buýt chính</strong> để đón anh họ.</p>
+
+<p data-end="232" data-start="171">May mắn là có một <strong data-end="210" data-start="189">điểm dừng xe buýt</strong> ở rất gần nhà mình.</p>
+
+<p data-end="315" data-start="234">Nhà mình thì dễ tìm lắm – nó <strong data-end="282" data-start="263">màu xanh lá cây</strong> và nổi bật hơn những căn khác.</p>
+
+<p data-end="385" data-start="317">Tối nay mình sẽ làm trứng cho <strong data-end="358" data-start="347">bữa tối</strong> vì nó nhanh và đơn giản.</p>
+
+<p data-end="465" data-start="387">Sau đó, chúng mình có thể thư giãn và xem vài <strong data-end="444" data-start="433">bộ phim</strong> trên TV cùng nhau.</p>
+
+<p data-end="481" data-start="467">Thân,<br data-end="475" data-start="472">
+Jessica</p>
+    </div>
+</div>
+</div>
+
+</div><div class="question-item" data-id="68cd6ba1e275cb6db78b4572" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 7 of 13</div></div>
+
+<div class="clearfix"></div>
+<div class="block-quiz-test select_word quiz_check_correct" data-id="68cd6ba1e275cb6db78b4572">
+    <div class="w3-padding w3-light-grey ">
+        <input type="hidden" name="Quiz[68cd6ba1e275cb6db78b4572][id]" value="68cd6ba1e275cb6db78b4572">
+        <div class="d-flex">
+            
+        </div>
+        <div class="title-quiz-choice my-3">
+            <div class="font-weight-600">[Mai Hien key 6.0] - Reading plus - part 1 - vacation (small, stay, garden, trees, old)</div>
+            <div><p data-end="272" data-start="194"><strong data-end="272" data-start="194">Choose one word from the list for each gap. The first one is done for you.</strong></p>
+
+<p data-end="284" data-start="274">Hi Alex,</p>
+
+<p data-end="323" data-start="286">Our family are going on a vacation.</p>
+
+<p data-end="378" data-start="325">Yesterday, we visited a <select class="select_word" name="Quiz[68cd6ba1e275cb6db78b4572][answer][0]" disabled=""><option value="">----</option><option value="modern">modern</option><option value="old">old</option><option value="small">small</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ small ]</label> village.</p>
+
+<p data-end="435" data-start="380">We <select class="select_word" name="Quiz[68cd6ba1e275cb6db78b4572][answer][1]" disabled=""><option value="">----</option><option value="leave">leave</option><option value="live">live</option><option value="stay">stay</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ stay ]</label> in a small house in the village.</p>
+
+<p data-end="487" data-start="437">There is a <select class="select_word" name="Quiz[68cd6ba1e275cb6db78b4572][answer][2]" disabled=""><option value="">----</option><option value="garage">garage</option><option value="garden">garden</option><option value="kitchen">kitchen</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ garden ]</label> in the house.</p>
+
+<p data-end="544" data-start="489">There are a lot of <select class="select_word" name="Quiz[68cd6ba1e275cb6db78b4572][answer][3]" disabled=""><option value="">----</option><option value="cars">cars</option><option value="chairs">chairs</option><option value="trees">trees</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ trees ]</label> in the garden.</p>
+
+<p data-end="662" data-start="546">Today, we are going to visit the <select class="select_word" name="Quiz[68cd6ba1e275cb6db78b4572][answer][4]" disabled=""><option value="">----</option><option value="big">big</option><option value="green">green</option><option value="old">old</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ old ]</label> buildings in this village.<br data-end="624" data-start="621">
+There is a long history behind them.</p>
+
+<p data-end="678" data-start="664">Love,<br data-end="672" data-start="669">
+Anna</p></div>
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p><em>Chào Alex,</em></p>
+
+<p><em>Gia đình chúng tôi sắp đi nghỉ.</em></p>
+
+<p><em>Hôm qua, chúng tôi đã đến thăm một ngôi làng <strong>nhỏ</strong>.</em></p>
+
+<p><em>Chúng tôi <strong>ở </strong>trong một ngôi nhà nhỏ trong làng.</em></p>
+
+<p><em>Nhà có một <strong>khu vườn</strong>.</em></p>
+
+<p><em>Vườn có rất nhiều <strong>cây</strong>.</em></p>
+
+<p><em>Hôm nay, chúng tôi sẽ đến thăm những tòa nhà <strong>cổ</strong> trong ngôi làng này.</em></p>
+
+<p><em>Những tòa nhà này có một lịch sử lâu đời.</em></p>
+
+<p><em>Yêu thương,<br>
+Anna</em></p>
+    </div>
+</div>
+</div>
+
+</div><div class="question-item" data-id="68cd6a3ce275cb172d8b45f3" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 8 of 13</div></div>
+
+<div class="clearfix"></div>
+<div class="block-quiz-test select_word quiz_check_correct" data-id="68cd6a3ce275cb172d8b45f3">
+    <div class="w3-padding w3-light-grey ">
+        <input type="hidden" name="Quiz[68cd6a3ce275cb172d8b45f3][id]" value="68cd6a3ce275cb172d8b45f3">
+        <div class="d-flex">
+            
+        </div>
+        <div class="title-quiz-choice my-3">
+            <div class="font-weight-600">[Mai Hien key 6.0] - Reading plus - part 1 - Koji (morning, friends, leave, good, food)</div>
+            <div><p data-end="254" data-start="176"><strong data-end="254" data-start="176">Choose one word from the list for each gap. The first one is done for you.</strong></p>
+
+<p data-end="266" data-start="256">Hi Koji,</p>
+
+<p data-end="310" data-start="268">I decided to do exercise more this year.</p>
+
+<p data-end="374" data-start="312">When I wake up in the <select class="select_word" name="Quiz[68cd6a3ce275cb172d8b45f3][answer][0]" disabled=""><option value="">----</option><option value="evening">evening</option><option value="morning">morning</option><option value="night">night</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ morning ]</label>, I go running.</p>
+
+<p data-end="447" data-start="376">My <select class="select_word" name="Quiz[68cd6a3ce275cb172d8b45f3][answer][1]" disabled=""><option value="">----</option><option value="classmates">classmates</option><option value="friends">friends</option><option value="teachers">teachers</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ friends ]</label> come with me and we run in the park.</p>
+
+<p data-end="504" data-start="449">I <select class="select_word" name="Quiz[68cd6a3ce275cb172d8b45f3][answer][2]" disabled=""><option value="">----</option><option value="drive">drive</option><option value="leave">leave</option><option value="take">take</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ leave ]</label> my car at home and walk to work.</p>
+
+<p data-end="575" data-start="506">I like doing exercises because it is <select class="select_word" name="Quiz[68cd6a3ce275cb172d8b45f3][answer][3]" disabled=""><option value="">----</option><option value="bad">bad</option><option value="boring">boring</option><option value="good">good</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ good ]</label> for my body.</p>
+
+<p data-end="640" data-start="577">I also drink more water and eat healthy <select class="select_word" name="Quiz[68cd6a3ce275cb172d8b45f3][answer][4]" disabled=""><option value="">----</option><option value="clothes">clothes</option><option value="food">food</option><option value="games">games</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ food ]</label>.</p>
+
+<p data-end="655" data-start="642">Love,<br data-end="650" data-start="647">
+Ken</p></div>
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p><em>Chào Koji,</em></p>
+
+<p><br>
+<em>Năm nay tôi quyết định tập thể dục nhiều hơn</em></p>
+
+<p><em>Mỗi khi thức dậy vào "buổi sáng", tôi đều chạy bộ.</em></p>
+
+<p><em>Các "bạn" của tôi đi cùng và chúng tôi chạy bộ trong công viên.</em></p>
+
+<p><em>Tôi "để" xe ở nhà và đi bộ đến nơi làm việc.</em></p>
+
+<p><em>Tôi thích tập thể dục vì nó "tốt" cho cơ thể.</em></p>
+
+<p><em>Tôi cũng uống nhiều nước hơn và ăn "thực phẩm" lành mạnh.</em></p>
+
+<p><em>Thân mến,</em></p>
+
+<p><em>Ken</em></p>
+    </div>
+</div>
+</div>
+
+</div><div class="question-item" data-id="68c4fd8ae275cb894e8b4578" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 9 of 13</div></div>
+
+<div class="clearfix"></div>
+<div class="block-quiz-test select_word quiz_check_correct" data-id="68c4fd8ae275cb894e8b4578">
+    <div class="w3-padding w3-light-grey ">
+        <input type="hidden" name="Quiz[68c4fd8ae275cb894e8b4578][id]" value="68c4fd8ae275cb894e8b4578">
+        <div class="d-flex">
+            
+        </div>
+        <div class="title-quiz-choice my-3">
+            <div class="font-weight-600">[Mai Hien key 6.0] - Reading plus - part 1</div>
+            <div><p data-end="319" data-start="199"><strong data-end="319" data-start="199">Read the email from Atoni to her friend. Choose one word from the list for each gap. The first one is done for you.</strong></p>
+
+<p data-end="331" data-start="321">Hi John,</p>
+
+<p data-end="401" data-start="333">I had a chance to visit <select class="select_word" name="Quiz[68c4fd8ae275cb894e8b4578][answer][0]" disabled=""><option value="">----</option><option value="farm">farm</option><option value="market">market</option><option value="school">school</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ farm ]</label> where my uncle lives.</p>
+
+<p data-end="476" data-start="403">It was really <select class="select_word" name="Quiz[68c4fd8ae275cb894e8b4578][answer][1]" disabled=""><option value="">----</option><option value="angry">angry</option><option value="boring">boring</option><option value="exciting">exciting</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ exciting ]</label> to play with my cousins every day.</p>
+
+<p data-end="536" data-start="478">Sometimes, they <select class="select_word" name="Quiz[68c4fd8ae275cb894e8b4578][answer][2]" disabled=""><option value="">----</option><option value="found">found</option><option value="helped">helped</option><option value="left">left</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ left ]</label> me alone in a field.</p>
+
+<p data-end="598" data-start="538">I had to try to find the <select class="select_word" name="Quiz[68c4fd8ae275cb894e8b4578][answer][3]" disabled=""><option value="">----</option><option value="house">house</option><option value="river">river</option><option value="street">street</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ street ]</label> to get home.</p>
+
+<p data-end="670" data-start="600">We also sometimes <select class="select_word" name="Quiz[68c4fd8ae275cb894e8b4578][answer][4]" disabled=""><option value="">----</option><option value="build">build</option><option value="carry">carry</option><option value="drink">drink</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ drink ]</label> cane juice when we feel tired.</p>
+
+<p data-end="687" data-start="672">Love,<br data-end="680" data-start="677">
+Atoni</p></div>
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <h3 data-end="714" data-start="694"><strong data-end="714" data-start="698">Đáp án đúng:</strong></h3>
+
+<ol data-end="1071" data-start="716">
+	<li data-end="786" data-start="716">
+	<p data-end="786" data-start="719"><strong data-end="727" data-start="719">farm</strong> – I had a chance to visit <strong data-end="762" data-start="754">farm</strong> where my uncle lives.</p>
+	</li>
+	<li data-end="866" data-start="787">
+	<p data-end="866" data-start="790"><b>exciting</b>– It was really <b>exciting&nbsp;</b>to play with my cousins every day.</p>
+	</li>
+	<li data-end="928" data-start="867">
+	<p data-end="928" data-start="870"><strong data-end="878" data-start="870">left</strong> – Sometimes, they <strong data-end="905" data-start="897">left</strong> me alone in a field.</p>
+	</li>
+	<li data-end="995" data-start="929">
+	<p data-end="995" data-start="932"><strong data-end="942" data-start="932">street</strong> – I had to try to find the <strong data-end="980" data-start="970">street</strong> to get home.</p>
+	</li>
+	<li data-end="1071" data-start="996">
+	<p data-end="1071" data-start="999"><strong data-end="1008" data-start="999">drink</strong> – We also sometimes <strong data-end="1038" data-start="1029">drink</strong> cane juice when we feel tired.</p>
+	</li>
+</ol>
+
+<hr data-end="1076" data-start="1073">
+<h3 data-end="1097" data-start="1078"><strong data-end="1097" data-start="1082">Giải thích:</strong></h3>
+
+<ol data-end="1432" data-start="1099">
+	<li data-end="1171" data-start="1099">
+	<p data-end="1171" data-start="1102"><strong data-end="1110" data-start="1102">Farm</strong> – Nói về việc đến thăm <strong data-end="1147" data-start="1134">nông trại</strong> nơi chú của bạn sống.</p>
+	</li>
+	<li data-end="1260" data-start="1172">
+	<p data-end="1260" data-start="1175"><b>Exciting&nbsp;</b>– Cảm giác <b>thú vị</b>&nbsp;khi được chơi với các anh chị em họ mỗi ngày.</p>
+	</li>
+	<li data-end="1323" data-start="1261">
+	<p data-end="1323" data-start="1264"><strong data-end="1272" data-start="1264">Left</strong> – Đôi khi họ <strong data-end="1300" data-start="1286">để bạn lại</strong> một mình ngoài đồng.</p>
+	</li>
+	<li data-end="1379" data-start="1324">
+	<p data-end="1379" data-start="1327"><strong data-end="1337" data-start="1327">Street</strong> – Phải cố gắng tìm <strong data-end="1366" data-start="1357">đường</strong> để về nhà.</p>
+	</li>
+	<li data-end="1432" data-start="1380">
+	<p data-end="1432" data-start="1383"><strong data-end="1392" data-start="1383">Drink</strong> – Uống <strong data-end="1412" data-start="1400">nước mía</strong> khi cảm thấy mệt.</p>
+	</li>
+</ol>
+
+<hr data-end="1437" data-start="1434">
+<h3 data-end="1458" data-start="1439"><strong data-end="1458" data-start="1443">Dịch nghĩa:</strong></h3>
+
+<p data-end="1472" data-start="1460">Chào John,</p>
+
+<p data-end="1540" data-start="1474">Mình đã có cơ hội đến thăm <strong data-end="1514" data-start="1501">nông trại</strong> nơi chú mình sinh sống.</p>
+
+<p data-end="1605" data-start="1542">Thật <b>thú vị</b>&nbsp;khi được chơi với các anh chị em họ mỗi ngày.</p>
+
+<p data-end="1662" data-start="1607">Đôi khi, họ <strong data-end="1634" data-start="1619">để mình lại</strong> một mình ngoài cánh đồng.</p>
+
+<p data-end="1708" data-start="1664">Mình phải cố gắng tìm <strong data-end="1695" data-start="1686">đường</strong> để về nhà.</p>
+
+<p data-end="1771" data-start="1710">Chúng mình cũng đôi khi <strong data-end="1742" data-start="1734">uống</strong> nước mía khi cảm thấy mệt.</p>
+
+<p data-end="1788" data-is-last-node="" data-is-only-node="" data-start="1773">Thân,<br data-end="1781" data-start="1778">
+Atoni</p>
+    </div>
+</div>
+</div>
+
+</div><div class="question-item" data-id="68c4fc60e275cb4e4b8b4571" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 10 of 13</div></div>
+
+<div class="clearfix"></div>
+<div class="block-quiz-test select_word quiz_check_correct" data-id="68c4fc60e275cb4e4b8b4571">
+    <div class="w3-padding w3-light-grey ">
+        <input type="hidden" name="Quiz[68c4fc60e275cb4e4b8b4571][id]" value="68c4fc60e275cb4e4b8b4571">
+        <div class="d-flex">
+            
+        </div>
+        <div class="title-quiz-choice my-3">
+            <div class="font-weight-600">[Mai Hien key 6.0] - Reading plus - part 1</div>
+            <div><p data-end="340" data-start="220"><strong data-end="340" data-start="220">Read the email from Janice to her friend. Choose one word from the list for each gap. The first one is done for you.</strong></p>
+
+<p data-end="352" data-start="342">Hi Jay,</p>
+
+<p data-end="416" data-start="354">She jogs in the <select class="select_word" name="Quiz[68c4fc60e275cb4e4b8b4571][answer][0]" disabled=""><option value="">----</option><option value="car">car</option><option value="park">park</option><option value="street">street</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ park ]</label> every morning to stay fit.</p>
+
+<p data-end="485" data-start="418">The gym offers free <select class="select_word" name="Quiz[68c4fc60e275cb4e4b8b4571][answer][1]" disabled=""><option value="">----</option><option value="classes">classes</option><option value="games">games</option><option value="tickets">tickets</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ classes ]</label> for yoga and pilates.</p>
+
+<p data-end="562" data-start="487">Her water bottle is <select class="select_word" name="Quiz[68c4fc60e275cb4e4b8b4571][answer][2]" disabled=""><option value="">----</option><option value="heavy">heavy</option><option value="plastic">plastic</option><option value="silver">silver</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ silver ]</label>, easy to spot during workouts.</p>
+
+<p data-end="645" data-start="564">For <select class="select_word" name="Quiz[68c4fc60e275cb4e4b8b4571][answer][3]" disabled=""><option value="">----</option><option value="breakfast">breakfast</option><option value="dinner">dinner</option><option value="holiday">holiday</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ breakfast ]</label>, she blends a smoothie with berries and spinach.</p>
+
+<p data-end="728" data-start="647">After exercising, they relax with a <select class="select_word" name="Quiz[68c4fc60e275cb4e4b8b4571][answer][4]" disabled=""><option value="">----</option><option value="meditation">meditation</option><option value="meeting">meeting</option><option value="movie">movie</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ meditation ]</label> session at home.</p>
+
+<p data-end="746" data-start="730">Love,<br data-end="738" data-start="735">
+Anna</p></div>
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <article data-scroll-anchor="false" data-testid="conversation-turn-60" data-turn="assistant" data-turn-id="request-68bd6061-7f98-8320-85c1-68027602356e-2" dir="auto" tabindex="-1">
+<h3 data-end="773" data-start="753"><strong data-end="773" data-start="757">Đáp án đúng:</strong></h3>
+
+<ol data-end="1173" data-start="775">
+	<li data-end="842" data-start="775">
+	<p data-end="842" data-start="778"><strong data-end="786" data-start="778">park</strong> – She jogs in the <strong data-end="813" data-start="805">park</strong> every morning to stay fit.</p>
+	</li>
+	<li data-end="915" data-start="843">
+	<p data-end="915" data-start="846"><strong data-end="857" data-start="846">classes</strong> – The gym offers free <strong data-end="891" data-start="880">classes</strong> for yoga and pilates.</p>
+	</li>
+	<li data-end="995" data-start="916">
+	<p data-end="995" data-start="919"><strong data-end="929" data-start="919">silver</strong> – Her water bottle is <strong data-end="962" data-start="952">silver</strong>, easy to spot during workouts.</p>
+	</li>
+	<li data-end="1083" data-start="996">
+	<p data-end="1083" data-start="999"><strong data-end="1012" data-start="999">breakfast</strong> – For <strong data-end="1032" data-start="1019">breakfast</strong>, she blends a smoothie with berries and spinach.</p>
+	</li>
+	<li data-end="1173" data-start="1084">
+	<p data-end="1173" data-start="1087"><strong data-end="1101" data-start="1087">meditation</strong> – After exercising, they relax with a <strong data-end="1154" data-start="1140">meditation</strong> session at home.</p>
+	</li>
+</ol>
+
+<p><strong data-end="1199" data-start="1184">Giải thích:</strong></p>
+
+<ol data-end="1560" data-start="1201">
+	<li data-end="1264" data-start="1201">
+	<p data-end="1264" data-start="1204"><strong data-end="1212" data-start="1204">Park</strong> – Cô ấy chạy bộ ở công viên mỗi sáng để giữ dáng.</p>
+	</li>
+	<li data-end="1330" data-start="1265">
+	<p data-end="1330" data-start="1268"><strong data-end="1279" data-start="1268">Classes</strong> – Phòng tập có các lớp yoga và pilates miễn phí.</p>
+	</li>
+	<li data-end="1396" data-start="1331">
+	<p data-end="1396" data-start="1334"><strong data-end="1344" data-start="1334">Silver</strong> – Bình nước màu bạc nên dễ nhận ra khi tập luyện.</p>
+	</li>
+	<li data-end="1478" data-start="1397">
+	<p data-end="1478" data-start="1400"><strong data-end="1413" data-start="1400">Breakfast</strong> – Cô ấy pha sinh tố với quả mọng và rau chân vịt cho bữa sáng.</p>
+	</li>
+	<li data-end="1560" data-start="1479">
+	<p data-end="1560" data-start="1482"><strong data-end="1496" data-start="1482">Meditation</strong> – Sau khi tập luyện, họ thư giãn bằng một buổi thiền tại nhà.</p>
+	</li>
+</ol>
+
+<p><strong data-end="1586" data-start="1571">Dịch nghĩa:</strong></p>
+
+<p data-end="1600" data-start="1588">Chào Jay,</p>
+
+<p data-end="1659" data-start="1602">Cô ấy chạy bộ trong <strong data-end="1635" data-start="1622">công viên</strong> mỗi sáng để giữ dáng.</p>
+
+<p data-end="1721" data-start="1661">Phòng tập có các <strong data-end="1689" data-start="1678">lớp học</strong> miễn phí cho yoga và pilates.</p>
+
+<p data-end="1786" data-start="1723">Bình nước của cô ấy có màu <strong data-end="1757" data-start="1750">bạc</strong>, dễ nhận ra khi tập luyện.</p>
+
+<p data-end="1862" data-start="1788">Vào <strong data-end="1804" data-start="1792">bữa sáng</strong>, cô ấy pha một ly sinh tố với quả mọng và rau chân vịt.</p>
+
+<p data-end="1930" data-start="1864">Sau khi tập thể dục, họ thư giãn với một buổi <strong data-end="1919" data-start="1910">thiền</strong> tại nhà.</p>
+
+<p data-end="1948" data-is-last-node="" data-is-only-node="" data-start="1932">Thân,<br data-end="1940" data-start="1937">
+Anna</p>
+</article>
+    </div>
+</div>
+</div>
+
+</div><div class="question-item" data-id="68c4fb67e275cb9c4d8b457a" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 11 of 13</div></div>
+
+<div class="clearfix"></div>
+<div class="block-quiz-test select_word quiz_check_correct" data-id="68c4fb67e275cb9c4d8b457a">
+    <div class="w3-padding w3-light-grey ">
+        <input type="hidden" name="Quiz[68c4fb67e275cb9c4d8b457a][id]" value="68c4fb67e275cb9c4d8b457a">
+        <div class="d-flex">
+            
+        </div>
+        <div class="title-quiz-choice my-3">
+            <div class="font-weight-600">[Mai Hien key 6.0] - Reading plus - part 1</div>
+            <div><p data-end="327" data-start="207"><strong data-end="327" data-start="207">Read the email from John to her friend. Choose one word from the list for each gap. The first one is done for you.</strong></p>
+
+<p data-end="387" data-start="329">Hi Steven,<br data-end="342" data-start="339">
+It is really nice to come here for (study).</p>
+
+<p data-end="456" data-start="389">The <select class="select_word" name="Quiz[68c4fb67e275cb9c4d8b457a][answer][0]" disabled=""><option value="">----</option><option value="city">city</option><option value="country">country</option><option value="school">school</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ country ]</label> is really new to me and other students.</p>
+
+<p data-end="535" data-start="458">The park is really <select class="select_word" name="Quiz[68c4fb67e275cb9c4d8b457a][answer][1]" disabled=""><option value="">----</option><option value="clean">clean</option><option value="dirty">dirty</option><option value="small">small</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ clean ]</label> and we can have talks or walk there.</p>
+
+<p data-end="598" data-start="537">We love to have some games after <select class="select_word" name="Quiz[68c4fb67e275cb9c4d8b457a][answer][2]" disabled=""><option value="">----</option><option value="breakfast">breakfast</option><option value="class">class</option><option value="holiday">holiday</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ class ]</label>.</p>
+
+<p data-end="677" data-start="600">I live with <select class="select_word" name="Quiz[68c4fb67e275cb9c4d8b457a][answer][3]" disabled=""><option value="">----</option><option value="alone">alone</option><option value="other">other</option><option value="young">young</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ other ]</label> students who come from different countries.</p>
+
+<p data-end="756" data-start="679">We can learn some <select class="select_word" name="Quiz[68c4fb67e275cb9c4d8b457a][answer][4]" disabled=""><option value="">----</option><option value="clothes">clothes</option><option value="foods">foods</option><option value="words">words</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ words ]</label> which are really good for speaking.</p>
+
+<p data-end="772" data-start="758">Love,<br data-end="766" data-start="763">
+John</p></div>
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <h3 data-end="799" data-start="779"><em><strong data-end="799" data-start="783">Đáp án đúng:</strong></em></h3>
+
+<ol data-end="1121" data-start="801">
+	<li data-end="861" data-start="801">
+	<p data-end="861" data-start="804"><em>The <strong data-end="819" data-start="808">country</strong> is really new to me and other students.</em></p>
+	</li>
+	<li data-end="932" data-start="862">
+	<p data-end="932" data-start="865"><em>The park is really <strong data-end="893" data-start="884">clean</strong> and we can have talks or walk there.</em></p>
+	</li>
+	<li data-end="981" data-start="933">
+	<p data-end="981" data-start="936"><em>We love to have some games after <strong data-end="978" data-start="969">class</strong>.</em></p>
+	</li>
+	<li data-end="1052" data-start="982">
+	<p data-end="1052" data-start="985"><em>I live with <strong data-end="1006" data-start="997">other</strong> students who come from different countries.</em></p>
+	</li>
+	<li data-end="1121" data-start="1053">
+	<p data-end="1121" data-start="1056"><em>We can learn some <strong data-end="1083" data-start="1074">words</strong> which are really good for speaking.</em></p>
+	</li>
+</ol>
+
+<hr data-end="1126" data-start="1123">
+<h3 data-end="1147" data-start="1128"><em><strong data-end="1147" data-start="1132">Giải thích:</strong></em></h3>
+
+<ol data-end="1495" data-start="1149">
+	<li data-end="1231" data-start="1149">
+	<p data-end="1231" data-start="1152"><em><strong data-end="1163" data-start="1152">Country</strong> – Janice nói về một đất nước mới mà cô ấy và các bạn đến học tập.</em></p>
+	</li>
+	<li data-end="1302" data-start="1232">
+	<p data-end="1302" data-start="1235"><em><strong data-end="1244" data-start="1235">Clean</strong> – Công viên sạch sẽ, phù hợp để trò chuyện hoặc đi dạo.</em></p>
+	</li>
+	<li data-end="1349" data-start="1303">
+	<p data-end="1349" data-start="1306"><em><strong data-end="1315" data-start="1306">Class</strong> – Họ chơi trò chơi sau giờ học.</em></p>
+	</li>
+	<li data-end="1426" data-start="1350">
+	<p data-end="1426" data-start="1353"><em><strong data-end="1362" data-start="1353">Other</strong> – Cô ấy sống cùng những sinh viên khác đến từ nhiều quốc gia.</em></p>
+	</li>
+	<li data-end="1495" data-start="1427">
+	<p data-end="1495" data-start="1430"><em><strong data-end="1439" data-start="1430">Words</strong> – Họ học những từ mới hữu ích để luyện nói tiếng Anh.</em></p>
+	</li>
+</ol>
+
+<hr data-end="1500" data-start="1497">
+<h3 data-end="1521" data-start="1502"><em><strong data-end="1521" data-start="1506">Dịch nghĩa:</strong></em></h3>
+
+<p data-end="1579" data-start="1523"><em>Chào Steven,<br data-end="1538" data-start="1535">
+Thật tuyệt khi được đến đây để học tập.</em></p>
+
+<p data-end="1647" data-start="1581"><em>Đất nước này thật mới mẻ đối với mình và các bạn sinh viên khác.</em></p>
+
+<p data-end="1722" data-start="1649"><em>Công viên rất sạch sẽ và chúng mình có thể trò chuyện hoặc đi dạo ở đó.</em></p>
+
+<p data-end="1776" data-start="1724"><em>Chúng mình thích chơi một số trò chơi sau giờ học.</em></p>
+
+<p data-end="1842" data-start="1778"><em>Mình sống cùng với những sinh viên khác đến từ nhiều quốc gia.</em></p>
+
+<p data-end="1909" data-start="1844"><em>Chúng mình có thể học một số từ mới rất tốt cho việc luyện nói.</em></p>
+
+<p data-end="1925" data-is-last-node="" data-is-only-node="" data-start="1911"><em>Thân,<br data-end="1919" data-start="1916">
+John</em></p>
+    </div>
+</div>
+</div>
+
+</div><div class="question-item" data-id="68bfcfdfe275cb158f8b456c" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 12 of 13</div></div>
+
+<div class="clearfix"></div>
+<div class="block-quiz-test select_word quiz_check_correct" data-id="68bfcfdfe275cb158f8b456c">
+    <div class="w3-padding w3-light-grey ">
+        <input type="hidden" name="Quiz[68bfcfdfe275cb158f8b456c][id]" value="68bfcfdfe275cb158f8b456c">
+        <div class="d-flex">
+            
+        </div>
+        <div class="title-quiz-choice my-3">
+            <div class="font-weight-600">[Mai Hien key 6.0] - Reading plus - part 1 - Janny</div>
+            <div><p data-end="353" data-start="236">Read the email from Janny to her friend. Choose one word from the list for each gap. The first one is done for you.</p>
+
+<p data-end="373" data-start="360">Hi Jessica,</p>
+
+<p data-end="441" data-start="375">I use my laptop to work from <select class="select_word" name="Quiz[68bfcfdfe275cb158f8b456c][answer][0]" disabled=""><option value="">----</option><option value="home">home</option><option value="market">market</option><option value="office">office</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ home ]</label> every day.</p>
+
+<p data-end="510" data-start="443">The café has free Wi-Fi for all <select class="select_word" name="Quiz[68bfcfdfe275cb158f8b456c][answer][1]" disabled=""><option value="">----</option><option value="customers">customers</option><option value="drivers">drivers</option><option value="teachers">teachers</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ customers ]</label>.</p>
+
+<p data-end="579" data-start="512">My phone case is yellow, making it <select class="select_word" name="Quiz[68bfcfdfe275cb158f8b456c][answer][2]" disabled=""><option value="">----</option><option value="easy">easy</option><option value="heavy">heavy</option><option value="slow">slow</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ easy ]</label> to spot.</p>
+
+<p data-end="650" data-start="581">For snacks, we <select class="select_word" name="Quiz[68bfcfdfe275cb158f8b456c][answer][3]" disabled=""><option value="">----</option><option value="eat">eat</option><option value="order">order</option><option value="prepare">prepare</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ prepare ]</label> popcorn and fruit smoothies.</p>
+
+<p data-end="715" data-start="652">On weekends, we <select class="select_word" name="Quiz[68bfcfdfe275cb158f8b456c][answer][4]" disabled=""><option value="">----</option><option value="buy">buy</option><option value="watch">watch</option><option value="write">write</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ watch ]</label> videos on our smart TV.</p>
+
+<p data-end="732" data-start="717">Love,<br data-end="725" data-start="722">
+Janny</p></div>
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p data-end="757" data-start="739"><em><strong data-end="755" data-start="739">Đáp án đúng:</strong></em></p>
+
+<ol data-end="1038" data-start="759">
+	<li data-end="812" data-start="759">
+	<p data-end="812" data-start="762"><em>I use my laptop to work from <strong data-end="799" data-start="791">home</strong> every day.</em></p>
+	</li>
+	<li data-end="864" data-start="813">
+	<p data-end="864" data-start="816"><em>The café has free Wi-Fi for all <strong data-end="861" data-start="848">customers</strong>.</em></p>
+	</li>
+	<li data-end="922" data-start="865">
+	<p data-end="922" data-start="868"><em>My phone case is yellow, making it <strong data-end="911" data-start="903">easy</strong> to spot.</em></p>
+	</li>
+	<li data-end="983" data-start="923">
+	<p data-end="983" data-start="926"><em>For snacks, we <strong data-end="952" data-start="941">prepare</strong> popcorn and fruit smoothies.</em></p>
+	</li>
+	<li data-end="1038" data-start="984">
+	<p data-end="1038" data-start="987"><em>On weekends, we <strong data-end="1012" data-start="1003">watch</strong> videos on our smart TV.</em></p>
+	</li>
+</ol>
+
+<p data-end="1038" data-start="987"><em>Dịch:</em></p>
+
+<ol data-end="1304" data-start="935">
+	<li data-end="1007" data-start="935">
+	<p data-end="1007" data-start="938"><em>Tôi dùng máy tính xách tay để làm việc tại <strong data-end="995" data-start="981">nhà (home)</strong> mỗi ngày.</em></p>
+	</li>
+	<li data-end="1081" data-start="1008">
+	<p data-end="1081" data-start="1011"><em>Quán cà phê có Wi-Fi miễn phí cho tất cả <strong data-end="1078" data-start="1052">khách hàng (customers)</strong>.</em></p>
+	</li>
+	<li data-end="1149" data-start="1082">
+	<p data-end="1149" data-start="1085"><em>Ốp điện thoại của tôi màu vàng, nên rất <strong data-end="1138" data-start="1125">dễ (easy)</strong> nhận ra.</em></p>
+	</li>
+	<li data-end="1232" data-start="1150">
+	<p data-end="1232" data-start="1153"><em>Cho đồ ăn nhẹ, chúng tôi <strong data-end="1200" data-start="1178">chuẩn bị (prepare)</strong> bắp rang và sinh tố trái cây.</em></p>
+	</li>
+	<li data-end="1304" data-start="1233">
+	<p data-end="1304" data-start="1236"><em>Vào cuối tuần, chúng tôi <strong data-end="1276" data-start="1261">xem (watch)</strong> video trên TV thông minh.</em></p>
+	</li>
+</ol>
+    </div>
+</div>
+</div>
+
+</div><div class="question-item" data-id="6792dfa2e275cbe1a78e2d4c" style="display: none"><div class="mb-2 font-weight-bold text-2xl"><span class="text-capitalize">reading</span><div>Question 13 of 13</div></div>
+
+<div class="clearfix"></div>
+<div class="block-quiz-test select_word quiz_check_correct" data-id="6792dfa2e275cbe1a78e2d4c">
+    <div class="w3-padding w3-light-grey ">
+        <input type="hidden" name="Quiz[6792dfa2e275cbe1a78e2d4c][id]" value="6792dfa2e275cbe1a78e2d4c">
+        <div class="d-flex">
+            
+        </div>
+        <div class="title-quiz-choice my-3">
+            <div class="font-weight-600">[Mai Hien key 6.0] - Reading part 1</div>
+            <div><p><strong>Choose one word from the list for each gap. The first one is done for you</strong></p>
+
+<p>The water is&nbsp;so <select class="select_word" name="Quiz[6792dfa2e275cbe1a78e2d4c][answer][0]" disabled=""><option value="">----</option><option value="clear">clear</option><option value="dirty">dirty</option><option value="muddy">muddy</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ clear ]</label> and I can see the&nbsp;fish.</p>
+
+<p>The <select class="select_word" name="Quiz[6792dfa2e275cbe1a78e2d4c][answer][1]" disabled=""><option value="">----</option><option value="cloud">cloud</option><option value="moon">moon</option><option value="sun">sun</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ sun ]</label> is always out and it's very hot.</p>
+
+<p>After <select class="select_word" name="Quiz[6792dfa2e275cbe1a78e2d4c][answer][2]" disabled=""><option value="">----</option><option value="playing">playing</option><option value="resting">resting</option><option value="working">working</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ working ]</label> so hard, I need to rest.</p>
+
+<p>I am having an <select class="select_word" name="Quiz[6792dfa2e275cbe1a78e2d4c][answer][3]" disabled=""><option value="">----</option><option value="boring">boring</option><option value="enjoyable">enjoyable</option><option value="stressful">stressful</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ enjoyable ]</label> holiday.</p>
+
+<p>Hope to <select class="select_word" name="Quiz[6792dfa2e275cbe1a78e2d4c][answer][4]" disabled=""><option value="">----</option><option value="read">read</option><option value="send">send</option><option value="write">write</option></select><label class="text-error" style="width: 20px; line-height: 4px"></label><label class="text-success word_success" style="display: inline; margin: 0 8px;">[ read ]</label> a letter from you soon.</p></div>
+        </div>
+    </div>
+    
+<div class="border my-2 quiz_note p-2 rounded-md note-div">
+    <strong class="text-info note-click">
+        <i class="fas fa-comment-dots"></i> Suggested Answers
+    </strong>
+    <div class="note-content">
+        <p><span style="font-size:14px;"><iframe allowfullscreen="true" frameborder="0" src="https://file.unica.vn/embed/392049" loading="lazy"></iframe></span></p>
+
+<p><span style="font-size:14px;"><strong>Đáp án đúng:</strong></span></p>
+
+<p><span style="font-size:14px;"><em>1. The water is so </em><strong>clear</strong><em> and I&nbsp;can see the&nbsp;fish<br>
+2. The </em><strong>sun</strong><em> is always out and it's very hot</em></span></p>
+
+<p><span style="font-size:14px;"><em>3.After </em><strong>working</strong><em> so hard, I need to rest.</em></span></p>
+
+<p><span style="font-size:14px;"><em>4.I am having an </em><strong>enjoyable</strong><em> holiday.</em></span></p>
+
+<p><span style="font-size:14px;"><em>5.Hope to</em><strong> read </strong><em>a letter from you soon.</em></span></p>
+
+<p><span style="font-size:14px;"><strong>Giải thích:</strong></span></p>
+
+<p><span style="font-size:14px;"><em>1. Nước trong và tôi có thể nhìn thấy nhiều cá<br>
+2. Luôn có nắng và rất nóng<br>
+3. Sau khi làm việc chăm chỉ, tôi cần nghỉ ngơi<br>
+4. Tôi đang có một kỳ nghỉ thú vị<br>
+5. Tôi hy vọng sớm đọc được thư từ&nbsp;bạn.</em></span></p>
+    </div>
+</div>
+</div>
+
+</div></form>
