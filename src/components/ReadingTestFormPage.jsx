@@ -1,9 +1,10 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import ReadingTestQuestionCard, {
   countQuestionCorrect,
   countQuestionSlots
 } from "./ReadingTestQuestionCard";
+import { shuffleArray } from "../utils/shuffle";
 
 function getAnswerKey(questionId, itemId = "main") {
   return `${questionId}:${itemId}`;
@@ -27,14 +28,17 @@ function countAnsweredSlots(questions, answers) {
 export default function ReadingTestFormPage({
   test,
   backTo = "/reading",
-  backLabel = "Reading"
+  backLabel = "Reading",
+  enableQuestionShuffle = false
 }) {
   const { questions, instruction, title } = test;
   const [answers, setAnswers] = useState({});
   const [submitted, setSubmitted] = useState(false);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
+  const [displayedQuestions, setDisplayedQuestions] = useState(questions);
+  const [isShuffled, setIsShuffled] = useState(false);
 
-  const totalQuestions = questions.length;
+  const totalQuestions = displayedQuestions.length;
   const totalAnswerSlots = useMemo(() => {
     return questions.reduce((total, question) => total + countQuestionSlots(question), 0);
   }, [questions]);
@@ -42,7 +46,13 @@ export default function ReadingTestFormPage({
   const score = questions.reduce((total, question) => {
     return total + countQuestionCorrect(question, answers);
   }, 0);
-  const currentQuestion = questions[currentQuestionIndex];
+  const currentQuestion = displayedQuestions[currentQuestionIndex];
+
+  useEffect(() => {
+    setDisplayedQuestions(questions);
+    setIsShuffled(false);
+    setCurrentQuestionIndex(0);
+  }, [questions]);
 
   function handleAnswerChange(answerKey, value) {
     setAnswers((currentAnswers) => ({
@@ -53,6 +63,25 @@ export default function ReadingTestFormPage({
 
   function handleQuestionChange(nextIndex) {
     setCurrentQuestionIndex(nextIndex);
+  }
+
+  function handleShuffleQuestions() {
+    const currentQuestionId = displayedQuestions[currentQuestionIndex]?.id;
+    const nextQuestions = shuffleArray(questions);
+    const nextIndex = nextQuestions.findIndex((question) => question.id === currentQuestionId);
+
+    setDisplayedQuestions(nextQuestions);
+    setIsShuffled(true);
+    setCurrentQuestionIndex(nextIndex >= 0 ? nextIndex : 0);
+  }
+
+  function handleResetQuestionOrder() {
+    const currentQuestionId = displayedQuestions[currentQuestionIndex]?.id;
+    const nextIndex = questions.findIndex((question) => question.id === currentQuestionId);
+
+    setDisplayedQuestions(questions);
+    setIsShuffled(false);
+    setCurrentQuestionIndex(nextIndex >= 0 ? nextIndex : 0);
   }
 
   function handleSubmit() {
@@ -73,6 +102,28 @@ export default function ReadingTestFormPage({
             Trang nay su dung dieu huong tung cau theo form goc. Moi lan chi hien thi
             mot block cau hoi, co the chuyen cau bang Previous, Next hoac chon so cau.
           </p>
+          {enableQuestionShuffle ? (
+            <div className="exam-tools">
+              <button
+                type="button"
+                className="button button--secondary"
+                onClick={handleShuffleQuestions}
+              >
+                Shuffle
+              </button>
+              <button
+                type="button"
+                className="button button--ghost"
+                onClick={handleResetQuestionOrder}
+                disabled={!isShuffled}
+              >
+                Reset
+              </button>
+              <span className="exam-tools__status">
+                {isShuffled ? "Dang hien thi ngau nhien" : "Dang hien thi theo thu tu goc"}
+              </span>
+            </div>
+          ) : null}
         </div>
 
         <div className="exam-summary">
@@ -145,7 +196,7 @@ export default function ReadingTestFormPage({
         </button>
 
         <div className="pagination__pages">
-          {questions.map((question, index) => (
+          {displayedQuestions.map((question, index) => (
             <button
               key={question.id}
               type="button"

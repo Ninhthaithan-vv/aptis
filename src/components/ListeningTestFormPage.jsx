@@ -4,6 +4,7 @@ import ListeningTestQuestionCard, {
   countQuestionCorrect,
   countQuestionSlots
 } from "./ListeningTestQuestionCard";
+import { shuffleArray } from "../utils/shuffle";
 
 function getAnswerKey(questionId, itemId = "main") {
   return `${questionId}:${itemId}`;
@@ -27,16 +28,19 @@ function countAnsweredSlots(questions, answers) {
 export default function ListeningTestFormPage({
   test,
   backTo = "/listening",
-  backLabel = "Listening"
+  backLabel = "Listening",
+  enableQuestionShuffle = false
 }) {
   const { questions, instruction, title } = test;
   const [answers, setAnswers] = useState({});
   const [submitted, setSubmitted] = useState(false);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
+  const [displayedQuestions, setDisplayedQuestions] = useState(questions);
+  const [isShuffled, setIsShuffled] = useState(false);
   const [jumpValue, setJumpValue] = useState("1");
   const [jumpError, setJumpError] = useState("");
 
-  const totalQuestions = questions.length;
+  const totalQuestions = displayedQuestions.length;
   const totalAnswerSlots = useMemo(() => {
     return questions.reduce((total, question) => total + countQuestionSlots(question), 0);
   }, [questions]);
@@ -44,7 +48,13 @@ export default function ListeningTestFormPage({
   const score = questions.reduce((total, question) => {
     return total + countQuestionCorrect(question, answers);
   }, 0);
-  const currentQuestion = questions[currentQuestionIndex];
+  const currentQuestion = displayedQuestions[currentQuestionIndex];
+
+  useEffect(() => {
+    setDisplayedQuestions(questions);
+    setIsShuffled(false);
+    setCurrentQuestionIndex(0);
+  }, [questions]);
 
   useEffect(() => {
     setJumpValue(String(currentQuestionIndex + 1));
@@ -60,6 +70,25 @@ export default function ListeningTestFormPage({
 
   function handleQuestionChange(nextIndex) {
     setCurrentQuestionIndex(nextIndex);
+  }
+
+  function handleShuffleQuestions() {
+    const currentQuestionId = displayedQuestions[currentQuestionIndex]?.id;
+    const nextQuestions = shuffleArray(questions);
+    const nextIndex = nextQuestions.findIndex((question) => question.id === currentQuestionId);
+
+    setDisplayedQuestions(nextQuestions);
+    setIsShuffled(true);
+    setCurrentQuestionIndex(nextIndex >= 0 ? nextIndex : 0);
+  }
+
+  function handleResetQuestionOrder() {
+    const currentQuestionId = displayedQuestions[currentQuestionIndex]?.id;
+    const nextIndex = questions.findIndex((question) => question.id === currentQuestionId);
+
+    setDisplayedQuestions(questions);
+    setIsShuffled(false);
+    setCurrentQuestionIndex(nextIndex >= 0 ? nextIndex : 0);
   }
 
   function handleJumpSubmit(event) {
@@ -94,6 +123,28 @@ export default function ListeningTestFormPage({
             Trang nay su dung dieu huong tung cau theo form goc. Moi lan chi hien thi
             mot block cau hoi, co the chuyen cau bang Previous va Next.
           </p>
+          {enableQuestionShuffle ? (
+            <div className="exam-tools">
+              <button
+                type="button"
+                className="button button--secondary"
+                onClick={handleShuffleQuestions}
+              >
+                Shuffle
+              </button>
+              <button
+                type="button"
+                className="button button--ghost"
+                onClick={handleResetQuestionOrder}
+                disabled={!isShuffled}
+              >
+                Reset
+              </button>
+              <span className="exam-tools__status">
+                {isShuffled ? "Dang hien thi ngau nhien" : "Dang hien thi theo thu tu goc"}
+              </span>
+            </div>
+          ) : null}
         </div>
 
         <div className="exam-summary">

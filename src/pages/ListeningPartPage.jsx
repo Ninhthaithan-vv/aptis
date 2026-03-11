@@ -15,6 +15,7 @@ export default function ListeningPartPage() {
       test={test}
       backTo="/listening-parts"
       backLabel="Listening by Part"
+      enableQuestionShuffle
     />
   );
 }

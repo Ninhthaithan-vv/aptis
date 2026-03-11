@@ -15,6 +15,7 @@ export default function ReadingPartPage() {
       test={test}
       backTo="/reading-parts"
       backLabel="Reading by Part"
+      enableQuestionShuffle
     />
   );
 }
