@@ -2850,7 +2850,7 @@ export const listeningPart1 = {
       "id": "66705933e275cb3b3645e4e0",
       "type": "single_choice",
       "sectionTitle": "Lớp học ở phòng nào? (Which room is the class in?)",
-      "prompt": "Lớp học ở phòng nào? (Which room is the class in?)",
+      "prompt": "",
       "options": {
         "A": "201",
         "B": "301",
@@ -2878,7 +2878,7 @@ export const listeningPart1 = {
       "id": "662c6719e275cbea2fedd16b",
       "type": "single_choice",
       "sectionTitle": "Số lượng dân cư ở 1 vùng quê?/Number of inhabitants in a countryside?",
-      "prompt": "Số lượng dân cư ở 1 vùng quê?/Number of inhabitants in a countryside?",
+      "prompt": "",
       "options": {
         "A": "10000",
         "B": "1000",
@@ -2893,7 +2893,7 @@ export const listeningPart1 = {
       "id": "662cceade275cbce58edd1a1",
       "type": "single_choice",
       "sectionTitle": "What time will I see you? (Gặp bạn lúc mấy giờ)",
-      "prompt": "What time will I see you? (Gặp bạn lúc mấy giờ)",
+      "prompt": "",
       "options": {
         "A": "6h30",
         "B": "6h00",
@@ -2908,7 +2908,7 @@ export const listeningPart1 = {
       "id": "662d115ae275cb9825edd14a",
       "type": "single_choice",
       "sectionTitle": "2 people buy something together? (2 người cùng mua gì)",
-      "prompt": "2 people buy something together? (2 người cùng mua gì)",
+      "prompt": "",
       "options": {
         "A": "Trousers",
         "B": "Shorts",
@@ -2923,7 +2923,7 @@ export const listeningPart1 = {
       "id": "662e126ae275cb2587edd16e",
       "type": "single_choice",
       "sectionTitle": "Cô ấy sẽ làm gì? (What will she do?)",
-      "prompt": "Cô ấy sẽ làm gì? (What will she do?)",
+      "prompt": "",
       "options": {
         "A": "Go to the cinema",
         "B": "Go camping",
@@ -2938,7 +2938,7 @@ export const listeningPart1 = {
       "id": "662e1069e275cb4089edd152",
       "type": "single_choice",
       "sectionTitle": "Trứng bao nhiêu tiền(How much do eggs cost?)",
-      "prompt": "Trứng bao nhiêu tiền(How much do eggs cost?)",
+      "prompt": "",
       "options": {
         "A": "1.50 pounds",
         "B": "1.60 pounds",
@@ -2950,7 +2950,7 @@ export const listeningPart1 = {
       "id": "662e7074e275cbbe65edd181",
       "type": "single_choice",
       "sectionTitle": "What are the main activities taking place this weekend?/Các hoạt động chính diễn ra cuối tuần này là gì?",
-      "prompt": "What are the main activities taking place this weekend?/Các hoạt động chính diễn ra cuối tuần này là gì?",
+      "prompt": "",
       "options": {
         "A": "Camping (last holiday)",
         "B": "They go swimming",
@@ -2965,7 +2965,7 @@ export const listeningPart1 = {
       "id": "662f522ce275cb6cb1edd1be",
       "type": "single_choice",
       "sectionTitle": "( Bạn thích màu gì) what color do you like",
-      "prompt": "( Bạn thích màu gì) what color do you like",
+      "prompt": "",
       "options": {
         "A": "Red",
         "B": "White",
@@ -2980,7 +2980,7 @@ export const listeningPart1 = {
       "id": "662f5274e275cbb556edd15c",
       "type": "single_choice",
       "sectionTitle": "( Thu hoạch ) Harvest",
-      "prompt": "( Thu hoạch ) Harvest",
+      "prompt": "",
       "options": {
         "A": "2.50 pounds",
         "B": "2.90 pounds",
@@ -2995,7 +2995,7 @@ export const listeningPart1 = {
       "id": "662d9422e275cbb44cedd168",
       "type": "single_choice",
       "sectionTitle": "Đi cửa nào để đi tàu đến Edinburgh? (Which door should I take to take the train to Edinburgh?)",
-      "prompt": "Đi cửa nào để đi tàu đến Edinburgh? (Which door should I take to take the train to Edinburgh?)",
+      "prompt": "",
       "options": {
         "A": "Two",
         "B": "Three",
@@ -3010,7 +3010,7 @@ export const listeningPart1 = {
       "id": "662e718de275cbac65edd181",
       "type": "single_choice",
       "sectionTitle": "Thường đi đâu khi đi du lịch? Where do you usually go when you travel?",
-      "prompt": "Thường đi đâu khi đi du lịch? Where do you usually go when you travel?",
+      "prompt": "",
       "options": {
         "A": "Go to the park",
         "B": "Go to the swimming pool",
@@ -3025,7 +3025,7 @@ export const listeningPart1 = {
       "id": "66388d5de275cb5d03edd19c",
       "type": "single_choice",
       "sectionTitle": "Tổ chức event ở đâu/Where to hold the event?",
-      "prompt": "Tổ chức event ở đâu/Where to hold the event?",
+      "prompt": "",
       "options": {
         "A": "Outside",
         "B": "Market",

@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import ListeningTestQuestionCard, {
   countQuestionCorrect,
@@ -33,6 +33,8 @@ export default function ListeningTestFormPage({
   const [answers, setAnswers] = useState({});
   const [submitted, setSubmitted] = useState(false);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
+  const [jumpValue, setJumpValue] = useState("1");
+  const [jumpError, setJumpError] = useState("");
 
   const totalQuestions = questions.length;
   const totalAnswerSlots = useMemo(() => {
@@ -44,6 +46,11 @@ export default function ListeningTestFormPage({
   }, 0);
   const currentQuestion = questions[currentQuestionIndex];
 
+  useEffect(() => {
+    setJumpValue(String(currentQuestionIndex + 1));
+    setJumpError("");
+  }, [currentQuestionIndex]);
+
   function handleAnswerChange(answerKey, value) {
     setAnswers((currentAnswers) => ({
       ...currentAnswers,
@@ -53,6 +60,20 @@ export default function ListeningTestFormPage({
 
   function handleQuestionChange(nextIndex) {
     setCurrentQuestionIndex(nextIndex);
+  }
+
+  function handleJumpSubmit(event) {
+    event.preventDefault();
+
+    const parsedQuestion = Number.parseInt(jumpValue, 10);
+
+    if (!Number.isInteger(parsedQuestion) || parsedQuestion < 1 || parsedQuestion > totalQuestions) {
+      setJumpError(`Enter a number from 1 to ${totalQuestions}.`);
+      return;
+    }
+
+    setJumpError("");
+    handleQuestionChange(parsedQuestion - 1);
   }
 
   function handleSubmit() {
@@ -144,8 +165,37 @@ export default function ListeningTestFormPage({
           Previous
         </button>
 
-        <div className="pagination__current">
-          {currentQuestionIndex + 1}/{totalQuestions}
+        <div className="pagination__center">
+          <div className="pagination__current">
+            {currentQuestionIndex + 1}/{totalQuestions}
+          </div>
+
+          <form className="pagination__jump" onSubmit={handleJumpSubmit}>
+            <label className="pagination__jump-label" htmlFor="jump-to-question">
+              Go to question
+            </label>
+            <div className="pagination__jump-controls">
+              <input
+                id="jump-to-question"
+                className="pagination__jump-input"
+                type="number"
+                min="1"
+                max={totalQuestions}
+                inputMode="numeric"
+                value={jumpValue}
+                onChange={(event) => {
+                  setJumpValue(event.target.value);
+                  if (jumpError) {
+                    setJumpError("");
+                  }
+                }}
+              />
+              <button type="submit" className="button button--secondary">
+                Go
+              </button>
+            </div>
+            {jumpError ? <p className="pagination__jump-error">{jumpError}</p> : null}
+          </form>
         </div>
 
         <button
